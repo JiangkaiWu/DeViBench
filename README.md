@@ -2,7 +2,7 @@
 
 This repository maintains the **DeViBench** (**De**graded **Vi**deo Understanding **Bench**mark) from the HotNets paper **"Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI"**.
 
-*The benchmark is continuously growing, and we are considering transforming all existing Streaming Video Understanding Benchmarks to the "DeViBench style".
+*The benchmark is continuously growing, and we are considering transforming more existing Streaming Video Understanding Benchmarks to the "DeViBench style".
 
 <div style="text-align: center;">
   <img src="docs/teaser.png" width="512">
@@ -25,6 +25,17 @@ The dataset file `datasets.csv` contains the following columns:
 | `standard_answer` | Standard answer to the question. |
 | `task_type` | Task type of the question. |
 
+
+The prompt format for asking questions:
+```
+You are a multiple-choice question answering assistant.
+Your task is to output only the letter of the correct option, without any explanation or extra text.
+Question:
+[Question]
+Options:
+[Options]
+```
+
 ## 📥 Data Download
 
 Video files can be downloaded from:
@@ -41,6 +52,29 @@ Please match the video files with the corresponding `sample_folder` in `datasets
 question requires multiple frames to answer.</strong></p>
 </div>
 
+An example:
+
+
+
+
+https://github.com/user-attachments/assets/ffd66d59-5d2b-440e-baa1-e20f43c7b277
+
+
+
+
+**Question**: How does the road gradient (GRAD) change as the cyclist progresses?
+
+**Options**: 
+
+* (A) Remains constant at -1 
+
+* (B) Gradually becomes more negative 
+
+* (C) Fluctuates between -1 and -2 
+
+* (D) Gradually becomes less negative
+
+**Answer**: B
 
 ## 🔧 Pipeline for automatic QA sample construction
 
@@ -61,5 +95,6 @@ question requires multiple frames to answer.</strong></p>
 ## ⚠️ Important Note
 
 The data is model-generated and may contain minor errors. We recommend using it primarily for exploratory analysis and demonstration purposes.
+
 
 
