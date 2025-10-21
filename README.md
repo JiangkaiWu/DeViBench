@@ -79,7 +79,13 @@ https://github.com/user-attachments/assets/d81af6fd-95b2-40f2-9ef0-5acc473e88cd
 
 * (D) Gradually becomes less negative
 
-**Answer**: B
+**Standard Answer**: B
+
+**Answer from 200 kbps**: D
+
+**Answer from 2000 kbps**: B
+
+
 
 ## 🔧 Pipeline for automatic QA sample construction
 
@@ -100,6 +106,7 @@ https://github.com/user-attachments/assets/d81af6fd-95b2-40f2-9ef0-5acc473e88cd
 ## ⚠️ Important Note
 
 The data is model-generated and may contain minor errors. We recommend using it primarily for exploratory analysis and demonstration purposes.
+
 
 
 
