@@ -4,10 +4,11 @@ This repository maintains the **DeViBench** (**De**graded **Vi**deo Understandin
 
 *The benchmark is continuously growing, and we are considering transforming more existing Streaming Video Understanding Benchmarks to the "DeViBench style".
 
+
 <div style="text-align: center;">
   <img src="docs/teaser.png" width="512">
 </div>
-
+&nbsp;
 <div style="text-align: center;">
   <img src="docs/bitrate_reduce_accuracy.png" width="512">
 </div>
@@ -52,12 +53,16 @@ Please match the video files with the corresponding `sample_folder` in `datasets
 question requires multiple frames to answer.</strong></p>
 </div>
 
-An example:
+An example (200 kbps vs 2000 kbps):
 
 
 
 
-https://github.com/user-attachments/assets/ffd66d59-5d2b-440e-baa1-e20f43c7b277
+
+
+https://github.com/user-attachments/assets/d81af6fd-95b2-40f2-9ef0-5acc473e88cd
+
+
 
 
 
@@ -95,6 +100,7 @@ https://github.com/user-attachments/assets/ffd66d59-5d2b-440e-baa1-e20f43c7b277
 ## ⚠️ Important Note
 
 The data is model-generated and may contain minor errors. We recommend using it primarily for exploratory analysis and demonstration purposes.
+
 
 
 
