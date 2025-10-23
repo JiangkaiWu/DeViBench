@@ -53,7 +53,7 @@ Please match the video files with the corresponding `sample_folder` in `datasets
 question requires multiple frames to answer.</strong></p>
 </div>
 
-An example (200 kbps vs 2000 kbps):
+An example (200 kbps vs 2000 kbps). If the video fails to load or has color distortion, please try Chrome browser.
 
 
 
@@ -93,6 +93,20 @@ https://github.com/user-attachments/assets/d81af6fd-95b2-40f2-9ef0-5acc473e88cd
   <img src="docs/sample_generation.png" width="512">
 </div>
 
+## 🔧 How to improve accuracy?
+Please refer to our HotNets paper for encoding with adaptive QP. Our method allocates more bits to chat-important regions and fewer bits to chat-irrelevant regions, thus improving MLLM accuracy.
+
+To achieve fine-grained QP control, we adopt H.265 implemented by [Kvazaar](https://github.com/ultravideo/kvazaar) ![GitHub stars](https://img.shields.io/github/stars/Jermmy/pytorch-quantization-demo.svg?style=flat&label=Star) to encode ours and baseline. Except for the QP values, ours and baseline use the same encoding parameters. 
+
+The specific Kvazaar command lines are as follows:
+
+```bash
+kvazaar -i {input.yuv} --input-res={resolution} --gop 0 --period 0 --input-fps {fps} --qp {qp} [--roi roi.txt] -o {output.mp4}
+```
+
+Where the fps remains the same as the original video. The resolution gradually decreases as the bitrate decreases. For example, we set 1920×1080 for 800 Kbps, 1600×900 for 600 Kbps, 1280×720 for 400 Kbps, and 1024×576 for 200 Kbps. --roi is optional and is only used in our method. Both our method and the baseline achieve the target bitrates by adjusting --qp.
+
+
 ## 📝 Citation
 ```
 @article{wu2025chat,
@@ -106,6 +120,7 @@ https://github.com/user-attachments/assets/d81af6fd-95b2-40f2-9ef0-5acc473e88cd
 ## ⚠️ Important Note
 
 The data is model-generated and may contain minor errors. We recommend using it primarily for exploratory analysis and demonstration purposes.
+
 
 
 
