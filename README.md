@@ -94,7 +94,11 @@ https://github.com/user-attachments/assets/d81af6fd-95b2-40f2-9ef0-5acc473e88cd
 </div>
 
 ## 🔧 How to improve accuracy?
-Please refer to our HotNets paper for encoding with adaptive QP. Our method allocates more bits to chat-important regions and fewer bits to chat-irrelevant regions, thus improving MLLM accuracy.
+Please refer to our HotNets paper for context-aware video streaming. Our method allocates more bits to chat-important regions (e.g., purple circles) and fewer bits to chat-irrelevant regions (e.g., yellow circles), thus improving MLLM accuracy.
+
+<div style="text-align: center;">
+  <img src="docs/roi_example.png" width="512">
+</div>
 
 To achieve fine-grained QP control, we adopt H.265 implemented by [Kvazaar](https://github.com/ultravideo/kvazaar) ![GitHub stars](https://img.shields.io/github/stars/Jermmy/pytorch-quantization-demo.svg?style=flat&label=Star) to encode ours and baseline. Except for the QP values, ours and baseline use the same encoding parameters. 
 
