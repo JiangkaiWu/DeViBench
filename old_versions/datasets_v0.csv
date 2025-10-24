@@ -24,7 +24,7 @@ sample_388,325 ,What is the black text on the white sign with a red logo on the 
 sample_1,68 ,What is the number on the shorts of the person wearing the white jersey and taking a shot?,The number on the shorts of the person wearing the white jersey and taking a shot is 15.,Text-Rich Understanding
 sample_421,244 ,What type of vehicle is visible right now?,Helicopter.,Object Perception
 sample_380,240 ,What color is the logo on the yellow car that just passed by?,Purple,Attribute Perception
-sample_380,251 ,How many cars just passed by?,Three cars just passed by.,Count
+sample_380,251 ,How many cars just passed by?,Three cars just passed by.,Counting
 sample_309,383 ,Why is this red sign placed near this entrance?,"Because this is a children's play area, a notice is needed to remind people not to leave strollers parked improperly",Text-Rich Understanding
 sample_319,85 ,"What might the man in the dark green top, black hat, and gray pants with a bag, and the brown-haired woman in the dark blue top and black pants do next?",The man and the woman might be taking a photo.,Action Perception
 sample_332,164 ,What is the woman in the white shirt and face mask doing?,She is taking a photo.,Action Perception
