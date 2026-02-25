@@ -29,12 +29,9 @@ The dataset file `datasets.csv` contains the following columns:
 
 The prompt format for asking questions:
 ```
-You are a multiple-choice question answering assistant.
-Your task is to output only the letter of the correct option, without any explanation or extra text.
+Answer the following question concisely based on the video.
 Question:
 [Question]
-Options:
-[Options]
 ```
 
 ## 📥 Data Download
@@ -43,12 +40,12 @@ Video files can be downloaded from:
 
 > https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main
 
-Please match the video files with the corresponding `sample_folder` in `datasets.csv`.
+Please match the video files with the corresponding `sample_id` in `datasets.csv`.
 
 ## 📊 Distribution of our generated QA samples
 
 <div style="text-align: center;">
-  <img src="docs/benchmark_detail.png" width="512">
+  <img src="docs/benchmark_detail_v2.png" width="512">
   <p><strong>Outer ring: QA categories. Inner ring: Whether the
 question requires multiple frames to answer.</strong></p>
 </div>
@@ -67,23 +64,13 @@ https://github.com/user-attachments/assets/d81af6fd-95b2-40f2-9ef0-5acc473e88cd
 
 
 
-**Question**: How does the road gradient (GRAD) change as the cyclist progresses?
+**Question**: What is the overall trend of the altitude value displayed in the interface?
 
-**Options**: 
+**Standard Answer**: increasing
 
-* (A) Remains constant at -1 
+**Answer from 200 kbps**: The altitude reading is decreasing.
 
-* (B) Gradually becomes more negative 
-
-* (C) Fluctuates between -1 and -2 
-
-* (D) Gradually becomes less negative
-
-**Standard Answer**: B
-
-**Answer from 200 kbps**: D
-
-**Answer from 2000 kbps**: B
+**Answer from 3000 kbps**: The altitude value displayed in the interface is increasing.
 
 
 

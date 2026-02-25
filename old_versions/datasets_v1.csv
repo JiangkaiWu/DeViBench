@@ -1,0 +1,1819 @@
+﻿sample_folder,start_time,question,options,standard_answer,task_type
+sample_1,10,What is the name of the stadium displayed on the banner behind the field?,"A) Ramon Sanchez-Pizuan  
+B) Ramon Sanchez-Pizjuan  
+C) Ramon Sanchez-Pizjua  
+D) Ramon Sanchez-Pizjuan Stadium",B,Text-Rich Understanding
+sample_6,10,What name is printed above the number 20 on the player's jersey during the team lineup?,A) YURARY B) YURAR C) YURRY D) YURA,A,Text-Rich Understanding
+sample_32,10,What word is visible on the small sign near the counter in the kitchen background?,A) COLD  B) SALT  C) SPICE  D) HOT,D,Text-Rich Understanding
+sample_44,10,What design is visible on the blue container positioned on the top right shelf?,A) A star  B) A fish  C) A heart  D) A flower,B,Attribute Perception
+sample_68,10,What brand name is visible on the white craft tool being held in the right hand during the crafting process?,A) Cricut B) Craft C) Cuttle D) Create,A,Text-Rich Understanding
+sample_80,10,"According to the whiteboard in the lesson, in what year was the film *Vertigo* released?",A) 1955 B) 1958 C) 1960 D) 1962,B,Text-Rich Understanding
+sample_85,10,"What year is specified for the viewing assignment ""DAYS OF HEAVEN"" on the whiteboard?",A) 1970 B) 1972 C) 1978 D) 1980,C,Text-Rich Understanding
+sample_89,10,"What year is listed next to ""Singin' in the Rain"" under the ""VIEWING"" section on the whiteboard?",A) 1945  B) 1950  C) 1952  D) 1962,C,Text-Rich Understanding
+sample_117,10,What percentage increase is displayed next to the RTX 4080 SUPER model's CUDA core count?,A) +10% B) +5% C) +22% D) +33%,B,Text-Rich Understanding
+sample_120,10,What color is the ring on the left hand when the device is placed on the wooden surface?,A) Silver B) Gold C) Black D) No ring,C,Attribute Perception
+sample_147,10,What is visible in the person's ear during the warm-up exercise on the StairMaster?,A) A black earbud B) A white earbud C) A small earring D) Nothing,B,Object Perception
+sample_152,10,What is the specific pattern on the hair clip being placed in the woman's hair?,A) Simple solid band B) Floral design C) Crisscross pattern D) Striped pattern,C,Attribute Perception
+sample_158,10,What is the specific design on the cover of the orange book?,"A) A solid white circle  
+B) A circle with one dot  
+C) A circle with two dots  
+D) A circle with three dots",C,Attribute Perception
+sample_172,10,What service is advertised on the dealership sign visible during the drive?,"A) Tires  
+B) Oil change  
+C) Brakes  
+D) Engine repair",A,Text-Rich Understanding
+sample_183,10,What is the speed limit displayed on the sign visible on the right side of the road during the cycling event?,A) 30 B) 40 C) 50 D) 60,C,Text-Rich Understanding
+sample_201,10,How many dots are visible on the center of each front yellow wheel of the Lego train?,A) 0 B) 1 C) 2 D) 3,C,Counting
+sample_214,10,What color is the letter 'c' in the word 'Antics' on the person's t-shirt?,A) Red B) Green C) Blue D) Purple,C,Attribute Perception
+sample_250,10,"When Mr. Bean opens his mouth wide during the animation sequence, which specific detail can be observed?","A) The mouth appears as a solid dark shape with no internal details
+B) A red tongue is visible
+C) White teeth are visible
+D) A mustache is visible above the mouth",C,Attribute Perception
+sample_251,10,What color is the glove on the hand opening the driver's side door?,A) Red B) Black C) Blue D) White,C,Attribute Perception
+sample_255,10,What is the shape of the logo on the player's shorts?,A) Circle B) Shield C) Star D) Square,B,Attribute Perception
+sample_285,10,What phrase appears in the chat log during the video?,A) FAKE POPULATION B) FAKE PERSONS C) FAKE PEOPLE D) FAKE POP,C,Text-Rich Understanding
+sample_316,10,What text is displayed above the entrance doors of the fire station building?,A) FIRE HOUSE B) ENGINE HOUSE C) FIRE DEPARTMENT D) ENGINE ROOM,B,Text-Rich Understanding
+sample_323,10,What text appears on the yellow storefront sign visible in the street scene?,A) 金丸 B) 金太郎 C) 金龍 D) 銀座,B,Text-Rich Understanding
+sample_325,10,What business name is displayed on the red sign atop the building in the background during the sequence?,A) BAKERY B) CAFE C) PIZZERIA D) RESTAURANT,C,Text-Rich Understanding
+sample_338,10,What letter is visible on the shirt of the person standing in the background during the hot dog preparation?,A) P B) R C) B D) S,A,Text-Rich Understanding
+sample_343,10,What color is the nozzle of the spray bottle visible on the counter to the right of the cooking appliance?,A) Red B) Blue C) Yellow D) Green,C,Attribute Perception
+sample_346,10,What number is printed on the receipt held by the person in the video?,A) 1428 B) 1348 C) 1438 D) 1439,C,Text-Rich Understanding
+sample_371,10,What pattern is visible on the pink cloth used to wipe the steam wand?,"A) Solid color  
+B) Polka dots  
+C) Chevron  
+D) Stripes",C,Attribute Perception
+sample_374,10,What is the brand name printed on the labels of the packaged meat products visible on the metal table?,A) SABATINO B) SABATI C) SABATTO D) SABATO,A,Text-Rich Understanding
+sample_394,10,What is the fleet number displayed on the rear of the yellow bus?,A) 9586 B) 9685 C) 8596 D) 9856,A,Text-Rich Understanding
+sample_414,10,What price is displayed on the yellow price tag near the center of the grocery aisle?,A) 2.00 B) 5.00 C) 3.50 D) 4.99,B,Text-Rich Understanding
+sample_416,10,How many distinct yellow markers are visible on the mountain slope?,A) 0 B) 1 C) 2 D) 3,C,Counting
+sample_430,10,What distinctive feature is visible on the person's white t-shirt?,"A) A logo on the right chest
+B) A pocket on the left chest
+C) A striped pattern
+D) A pocket on the right chest",B,Attribute Perception
+sample_448,10,What number is displayed on the shelf label that the person points to during the video?,A) 33 B) 34 C) 35 D) 36,B,Text-Rich Understanding
+sample_465,10,How many distinct orange circular elements are visible in the green-toned painting on the left?,A) 4 B) 5 C) 6 D) 7,C,Counting
+sample_469,10,What is the exact name of the gallery space displayed on the white wall in the exhibition?,"A) Gallery Elim / ONE Art Space New York  
+B) Gallery Elim / ONE Art Space NY  
+C) Gallery Elim / ONE Art Space N.Y.  
+D) Gallery Elin / ONE Art Space N.Y.",C,Text-Rich Understanding
+sample_470,10,What name appears above the QR code on the white wall in the gallery?,A) YUKO NAKAMURA B) MIKIKO SATO C) REIKO TAKAHASHI D) REIKO TSUNASHIMA,D,Text-Rich Understanding
+sample_496,10,What number is displayed on the runway in the overhead view of the airport?,A) 12 B) 24 C) 21 D) 13,C,Text-Rich Understanding
+sample_20,10,"In the video, which direction does the person's right hand move first?",A) Up B) Down C) Left D) Right,A,Action Perception
+sample_87,10,"After raising both hands with palms outward, what specific gesture does the person make with their right hand in the final frame of the sequence?",A) Open palm facing upward B) Fist with thumb extended C) Index finger pointing forward D) Hand waving side to side,C,Action Perception
+sample_115,10,"During the sequence, from which direction does an additional vehicle approach the main car?","A) From the left  
+B) From the right  
+C) From behind  
+D) From the front",A,Spatial Understanding
+sample_125,10,In which direction do the drawing pencils shift as the video progresses?,A) Left B) Right C) Up D) Down,A,Action Perception
+sample_130,10,What image is revealed on the canvas as the person rotates it during the sequence?,A) A landscape scene B) A portrait of a woman C) A helmet design D) An abstract geometric pattern,C,Object Perception
+sample_165,10,How does the vehicle's speed change over the course of the video sequence?,"A) Increases steadily  
+B) Decreases steadily  
+C) Remains constant  
+D) Fluctuates erratically",B,Action Perception
+sample_166,10,"What is the minimum value of the ""1/min"" metric displayed in the video?",A) 59 B) 60 C) 61 D) 62,B,Text-Rich Understanding
+sample_167,10,What is the change in the slope percentage indicator throughout the video sequence?,"A) It increases from 10% to 11%  
+B) It remains constant at 10%  
+C) It decreases from 10% to 9%  
+D) It fluctuates between 8% and 10%",C,Attribute Perception
+sample_173,10,What is the maximum speed (in km/h) displayed on the speed gauge during the sequence?,A) 20 B) 21 C) 22 D) 23,D,Text-Rich Understanding
+sample_178,10,"What is the highest value displayed for the ""1/min"" metric during the video sequence?",A) 73 B) 74 C) 75 D) 76,C,Text-Rich Understanding
+sample_246,10,What object is the person holding as they enter the room through the door?,A) a broom B) a book C) a cane D) nothing,C,Object Perception
+sample_269,10,How does the cyclist's speed in kilometers per hour (KPH) change between consecutive frames during the outdoor segment?,"A) Increases by 1 KPH each frame  
+B) Increases by 2 KPH each frame  
+C) Decreases by 1 KPH each frame  
+D) Remains constant",A,Action Perception
+sample_305,10,How many dogs are visible throughout the video sequence?,A) 0 B) 1 C) 2 D) 3,B,Counting
+sample_314,10,Which vehicle is no longer visible in the later frames of the video?,A) Yellow vintage truck B) Red sports car C) Black convertible D) Blue sedan,A,Action Perception
+sample_330,10,In which direction is the silver car moving along the street?,A) Away from the camera B) Toward the camera C) To the left D) To the right,A,Action Perception
+sample_350,10,"After putting the sausage in the hot dog buns, what object does the person in the blue shirt immediately pick up?","A) A yellow condiment bottle  
+B) A green condiment bottle  
+C) A metal tray  
+D) A white paper towel",A,Action Perception
+sample_367,10,"After cleaning the portafilter with the pink cloth, in which direction is it moved before being inserted into the espresso machine?",A) To the left side of the machine B) To the right side of the machine C) Directly upward D) Directly downward,A,Action Perception
+sample_403,10,What text appears on the road surface in the right lane as the vehicle advances through the intersection?,A) ONLY TAXI B) ONLY BUS C) ONLY CAR D) ONLY TRUCK,B,Text-Rich Understanding
+sample_410,10,Which object does the person’s hand move toward in the later frames of the video?,"A) Green plastic crate  
+B) Blue plastic crate  
+C) Black trash bin  
+D) White wall",C,Action Perception
+sample_436,10,What occurs with the shopping cart as it travels down the aisle?,A) It is loaded with green cans B) It is emptied of items C) It remains empty D) It is loaded with red cans,A,Action Perception
+sample_460,10,From which side of the road does a vehicle turn onto the main road during the sequence?,A) Left side B) Right side C) It does not turn D) Both sides,A,Action Perception
+sample_462,10,How does the number of people visible in the gallery background change as the video progresses?,A) Increases  B) Decreases  C) Remains constant  D) Fluctuates,A,Counting
+sample_466,10,Which individual approaches the man in the gray hoodie as the video progresses?,A) A woman in pink  B) A child in green  C) A man in red  D) A person in black,A,Action Perception
+sample_492,10,"As the scene transitions from the parking lot to the grassy area, in which direction do the two large dinosaurs move relative to one another?","A) Towards each other  
+B) Away from each other  
+C) One circles the other  
+D) Both move in the same direction",A,Spatial Understanding
+sample_1,20,Which fast-food brand is advertised on the stadium's perimeter boards during the match?,A) Burger King B) McDonald's C) KFC D) Subway,A,Text-Rich Understanding
+sample_15,20,What brand name is visible on the cutting board in the kitchen?,A) John Boos B) Boos BlockS C) Butcher Block D) Boos Blocks,B,Text-Rich Understanding
+sample_43,20,"What is the correct spelling of the word on the sign that reads ""NEXT _ KITCHEN""?",A) LEVL  B) LEVE  C) LEVEL  D) LEVLE,C,Text-Rich Understanding
+sample_54,20,Which compliance certification is displayed on the glove box packaging?,A) FDA Approved B) CE Certified C) Prop 65 Compliant D) ISO Certified,C,Text-Rich Understanding
+sample_56,20,What is the number of sheets included in the paper pack shown in the video?,A) 24 B) 36 C) 48 D) 60,B,Counting
+sample_113,20,What is written on the package in the person's shirt pocket?,A) SALAD B) SEAFOOD C) SNACK D) BEANS,B,Text-Rich Understanding
+sample_118,20,What text is displayed on the loading screen?,"A) loading $1000 value beast  
+B) loading $1,000 value beast  
+C) loading $1,000 valve beast  
+D) loading $1,000 value beast (with distorted characters)",B,Text-Rich Understanding
+sample_146,20,"For the incline barbell press exercise, what is the number of repetitions specified for the second set?",A) 6 B) 8 C) 5 D) 15,C,Text-Rich Understanding
+sample_169,20,What is the current slope percentage displayed on the screen during the segment where the vehicle speed reaches 79 KM/H?,A) -2% B) -1% C) -3% D) 0%,B,Text-Rich Understanding
+sample_173,20,What is the gradient percentage value shown in the metrics display at the end of the sequence?,A) 2% B) 3% C) 4% D) 5%,C,Text-Rich Understanding
+sample_179,20,What is the cyclist's heart rate (BPM) at the moment when the speed is displayed as 37 KPH?,A) 178 B) 179 C) 180 D) 181,B,Text-Rich Understanding
+sample_182,20,What type of vehicle is visible in the opposite lane?,A) White sedan B) Black SUV C) Blue truck D) No vehicle is visible,A,Object Perception
+sample_191,20,What is the highlighted word in the phrase describing the player's initial world?,"A) Mine  
+B) Craft  
+C) Minecraft  
+D) World",C,Text-Rich Understanding
+sample_251,20,What color is the glove visible on the steering wheel in the final frame of the video?,A) Black B) White C) Blue D) Red,C,Attribute Perception
+sample_306,20,What is the identification number displayed on the parking sign?,A) 103454 B) 103554 C) 103464 D) 104454,A,Text-Rich Understanding
+sample_311,20,What is the name displayed on the sign above the stone archway entrance?,A) HONEYDUKES B) OWL POST OFFICE C) FILCH'S EMPORIUM D) FLITCH'S EMPORIUM,C,Text-Rich Understanding
+sample_319,20,What is the name of the store visible through the entrance?,A) Outfitters B) Outpost C) Outlets D) Outdoors,A,Text-Rich Understanding
+sample_333,20,What is the route number displayed on the front of the red double-decker bus?,A) A12 B) A21 C) A22 D) A31,B,Text-Rich Understanding
+sample_362,20,What color is the handle of the container visible on the counter in the final frame?,A) Red B) Yellow C) Blue D) Black,B,Attribute Perception
+sample_363,20,What text appears on the yellow sign visible in the coffee preparation area?,A) Every hour B) Fresh coffee C) Hot drinks D) Coffee time,A,Text-Rich Understanding
+sample_371,20,What is the brand name printed on the yellow carton seen on the kitchen counter?,A) RUDE HEALTH B) OATLY! C) ALMOND D) SOY,A,Text-Rich Understanding
+sample_377,20,What color is the handle of the knife placed on the cutting board next to the bread?,A) Red B) Black C) Blue D) Green,D,Attribute Perception
+sample_385,20,What is the license plate number on the black SUV in the center of the frame?,A) NY-3130 B) NY-E1E0 C) NY-8180 D) NY-31E0,A,Text-Rich Understanding
+sample_411,20,What color is the spice being added from the small container to the pan during the cooking process?,A) Red B) Brown C) Yellow D) White,B,Attribute Perception
+sample_412,20,Which green vegetable is visible on the plate being prepared in the kitchen?,A) Broccoli B) Spinach C) Lettuce D) Cabbage,A,Object Perception
+sample_414,20,What is the price displayed on the yellow tag attached to the shelf holding the single-serve fruit containers?,A) 4.50 B) 5.00 C) 5.50 D) 6.00,B,Text-Rich Understanding
+sample_418,20,What color is the cap worn by the person standing in the background during the ground scene?,A) Black B) White C) Blue D) Gray,B,Attribute Perception
+sample_436,20,What number is displayed on the shelf label near the product display in the grocery store aisle?,A) 12 B) 13 C) 15 D) 18,B,Text-Rich Understanding
+sample_437,20,What brand name is printed on the white yogurt containers visible on the shelf?,A) LACTALIS B) GRADOFIL C) GRADIAL D) YOGURFIT,B,Text-Rich Understanding
+sample_445,20,What is the exact price displayed on the shelf tag above the product being handled by the person in the initial scene?,A) 18.00 B) 18.45 C) 18.95 D) 19.00,C,Text-Rich Understanding
+sample_467,20,What animal emblem is visible on the back of the denim jacket worn by one of the attendees?,A) Lion B) Tiger C) Eagle D) Dragon,B,Object Perception
+sample_490,20,What text is printed on the tires of the race car?,A) HOT WHEELS B) HOT WHEEL C) HOT WHEELZ D) HOT WHEELS TV,A,Text-Rich Understanding
+sample_19,20,What text appears on the screen when the man leans on the counter?,A) RAMSAY 10 LIVE B) RAMSAY in 10 LIVE C) RAMSAY 10 MINUTES LIVE D) RAMSAY 10,B,Text-Rich Understanding
+sample_44,20,In which direction does the person move after clapping their hands?,A) Left B) Right C) Forward D) Backward,B,Action Perception
+sample_56,20,What is the name of the paper pack prominently displayed as the visual transition concludes?,A) Cinnamon B) Gingerbread C) Peppermint D) Mistletoe,C,Text-Rich Understanding
+sample_59,20,What is the source of the movement observed in the paper stack throughout the video?,"A) A hand adjusting the papers  
+B) Wind or air current  
+C) Vibration from the surface  
+D) Camera movement",A,Action Perception
+sample_105,20,What is the model name of the graphics card displayed in the video as it becomes fully visible during the sequence?,A) RTX 4080 SUPER B) RTX 4070 SUPER C) RTX 4070 Ti D) RTX 4090,B,Text-Rich Understanding
+sample_107,20,How many iPad Pro devices are revealed in the central display as the image transitions from a placeholder to a clear view?,A) 1  B) 2  C) 3  D) 0,B,Counting
+sample_115,20,"In the top-down view of the hands manipulating the graphics card, what is the direction of the card's movement?","A) Left to right  
+B) Right to left  
+C) Upward  
+D) Downward",A,Action Perception
+sample_118,20,What color does the background of the loading screen transition to as the progress bar fills?,"A) Blue  
+B) Purple  
+C) Black  
+D) Green",B,Attribute Perception
+sample_157,20,In which direction does the person's hand move while adjusting the stocking?,A) Upward B) Downward C) Circular D) Side-to-side,A,Action Perception
+sample_172,20,What is the maximum speed displayed on the speedometer during the sequence?,A) 30 B) 31 C) 32 D) 33,C,Attribute Perception
+sample_177,20,What is the maximum value displayed for the metric in units per minute during the video sequence?,A) 66 B) 68 C) 76 D) 82,C,Text-Rich Understanding
+sample_180,20,What is the minimum heart rate value observed during the video sequence?,A) 71 B) 72 C) 73 D) 74,B,Text-Rich Understanding
+sample_191,20,"What phrase immediately follows ""Once you've created your"" in the video?","A) Let's get started.  
+B) first ever Minecraft World  
+C) Mine  
+D) you will spawn in something like this.",B,Text-Rich Understanding
+sample_271,20,"After running straight for a few seconds, in which direction does the character turn?",A) Left B) Right C) Continues straight D) Turns around,A,Action Perception
+sample_274,20,What action does the character perform immediately after walking forward?,A) Running B) Crouching C) Jumping D) Turning around,B,Action Perception
+sample_279,20,What is the minimum speed value displayed for the vehicle during the sequence?,A) 070 B) 071 C) 072 D) 073,B,Text-Rich Understanding
+sample_285,20,"After initially holding the box, what action does the character perform next?","A) Continues carrying the box  
+B) Drops the box and begins running  
+C) Throws the box to the side  
+D) Places the box on a vehicle",B,Action Perception
+sample_297,20,How does the road gradient (GRAD) change as the cyclist progresses through the sequence?,"A) Remains constant at -1  
+B) Gradually becomes more negative  
+C) Fluctuates between -1 and -2  
+D) Gradually becomes less negative",B,Text-Rich Understanding
+sample_304,20,How many cyclists ride through the intersection during the sequence?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_311,20,What text is revealed on the sign above the entrance as the scene progresses?,A) HOGSMEADE SHOP B) FILCH'S EMPORIUM C) QUIRKE'S D) DIAGON ALLEY,B,Text-Rich Understanding
+sample_319,20,"As the camera moves forward through the store toward the outdoor entrance, what specific text becomes clearly visible on the overhead sign spanning between the columns?",A) JURASSIC PARK OUTFITTERS B) DINO WORLD OUTFITTERS C) PREHISTORIC PARK OUTFITTERS D) EXTINCT OUTFITTERS,A,Text-Rich Understanding
+sample_353,20,"In the video, in which direction are the hands primarily moving while spreading the rice on the nori?",A) From the left edge to the right edge B) From the right edge to the left edge C) From the center towards the edges D) From the edges towards the center,C,Action Perception
+sample_375,20,What specific hand motion is used when drying hands with the paper towel?,"A) Circular rubbing motion  
+B) Back-and-forth linear motion  
+C) Single downward swipe  
+D) Tapping motion",A,Action Perception
+sample_382,20,What is the person on the right sidewalk doing as they move forward along the street?,"A) Walking alone  
+B) Pushing a stroller  
+C) Walking a dog  
+D) Carrying a bag",C,Action Perception
+sample_387,20,Which object enters the crosswalk from the left side and moves across to the right side during the video sequence?,A) A black car B) A bicycle C) A yellow taxi D) A delivery truck,B,Action Perception
+sample_21,30,What product is labeled on the package placed on the cutting board?,A) CHEESE B) BUTTER C) FLOUR D) SUGAR,B,Text-Rich Understanding
+sample_34,30,What is the label on the small container the person is holding in the frame where they stand near the kitchen counter?,A) Coriander B) Cumin C) Paprika D) Turmeric,B,Text-Rich Understanding
+sample_47,30,What brand name is printed on the label of the hot sauce bottle with the red cap?,A) Tabasco B) Frank's C) Cholula D) Valentina,A,Text-Rich Understanding
+sample_57,30,"What is the name of the font displayed in the search results after typing ""water"" into the font search bar?","A) Watermark Script  
+B) Wave Script  
+C) Watermelon Script  
+D) Waterfall Font",C,Text-Rich Understanding
+sample_67,30,What model name is printed on the Cricut machine's internal component?,"A) CUT SMART 1  
+B) CUT EXPLORE  
+C) CUT SMART 2  
+D) CUT 3",C,Text-Rich Understanding
+sample_68,30,What phrase is displayed in the bottom right corner of the screen throughout the video?,"A) DIY CRAFT TUTORIALS  
+B) CRAFT TUTORIALS  
+C) TUTORIALS ONLY  
+D) NO TEXT",A,Text-Rich Understanding
+sample_78,30,What year is specified for the viewing assignment of *Raiders of the Lost Ark*?,A) 1979 B) 1981 C) 1983 D) 1985,B,Text-Rich Understanding
+sample_81,30,"What year is listed in parentheses next to ""His Girl Friday"" on the whiteboard?",A) 1938 B) 1939 C) 1940 D) 1941,C,Text-Rich Understanding
+sample_136,30,How many distinct small paint blobs are visible on the paint palette?,A) 2 B) 3 C) 4 D) 5,C,Counting
+sample_140,30,What accessory is visible on the hand holding the brush?,A) A ring  B) A bracelet  C) A tattoo  D) Nothing,A,Attribute Perception
+sample_142,30,Which object is visible on the painter's finger?,A) A bracelet B) A ring C) A watch D) A band-aid,B,Object Perception
+sample_148,30,What brand logo is visible on the back of the laptop in the scene where a person is sitting at a desk with a microphone?,A) Dell B) HP C) Apple D) Lenovo,C,Object Perception
+sample_150,30,What is the title of the blue book positioned next to the globe on the desk?,"A) ESSENTIALS OF STRENGTH TRAINING AND NUTRITION  
+B) ESSENTIALS OF CARDIO TRAINING AND CONDITIONING  
+C) ESSENTIALS OF STRENGTH TRAINING AND CONDITIONING  
+D) ESSENTIALS OF STRENGTH TRAINING FOR ATHLETES",C,Text-Rich Understanding
+sample_153,30,What pattern is visible on the left suspender of the person’s attire?,A) Striped B) Floral C) Polka dot D) Solid,B,Attribute Perception
+sample_167,30,What is the current speed in kilometers per hour displayed in the blue circular gauge at the final frame of the video?,A) 13 B) 14 C) 15 D) 16,C,Text-Rich Understanding
+sample_172,30,What is the name of the commercial store displayed on the yellow sign visible on the right side of the road?,A) Netto B) Metro C) Lotto D) Kaufland,A,Text-Rich Understanding
+sample_191,30,What is the exact word displayed in yellow in the text overlay during the second segment of the video?,"A) tree  
+B) trees  
+C) treas  
+D) tress",B,Text-Rich Understanding
+sample_197,30,How many redstone torches are placed on the block in the scene?,A) 2 B) 3 C) 4 D) 1,B,Counting
+sample_238,30,What is the shape of the pattern on the wall behind the character in the brown suit?,A) Circles B) Squares C) Diamonds D) Triangles,C,Attribute Perception
+sample_265,30,What text is visible on the black bag shown in the room?,"A) MADE IN CHINA
+B) MADE IN JAPAN
+C) MADE IN KOREA
+D) MADE IN VIETNAM",B,Text-Rich Understanding
+sample_271,30,What color are the vertical stripes on the character's shirt?,A) Green and purple B) Blue and white C) Red and black D) Yellow and blue,B,Attribute Perception
+sample_284,30,What social media platform is displayed on the smartphone screen visible in the video?,A) Facebook B) Twitter C) Instagram D) TikTok,B,Text-Rich Understanding
+sample_288,30,Which word appears in the chat messages on the right side of the screen?,A) CICADAS  B) CICADA5  C) CIODAS  D) CICADIS,A,Text-Rich Understanding
+sample_297,30,What is written on the brown road sign visible on the right side of the road during the cycling sequence?,"A) Grimsel
+B) Haslital
+C) Susten
+D) Furka",B,Text-Rich Understanding
+sample_307,30,How many plastic crates are placed next to the white appliance on the left side of the street?,A) 0 B) 1 C) 2 D) 3,C,Counting
+sample_325,30,What brand name is printed on the red umbrella outside the café?,A) SUPER BOCK B) SUPER ROCK C) SUPER STOCK D) SUPER DOCK,A,Text-Rich Understanding
+sample_342,30,What word is printed on the black food preparation appliance in the background?,A) BURGERS B) NUGGETS C) FRIES D) CHICKEN,B,Text-Rich Understanding
+sample_357,30,What number is displayed on the coffee machine's digital screen during the sequence?,A) 20 B) 30 C) 38 D) 40,B,Text-Rich Understanding
+sample_370,30,What flavor is indicated on the yellow carton in the background?,A) Almond B) Soy C) Oat D) Cashew,A,Text-Rich Understanding
+sample_373,30,What color is the car visible through the window in the background?,A) White B) Red C) Blue D) Black,B,Attribute Perception
+sample_374,30,What is the brand name printed on the hot dog package visible in the video?,A) SABRETT B) SABERET C) OSCAR MAYER D) BEEFMASTER,A,Text-Rich Understanding
+sample_377,30,"During the food preparation scene, what color is the handle of the knife placed on the counter next to the food trays?",A) Red B) Blue C) Green D) Black,C,Attribute Perception
+sample_382,30,What is the company name displayed on the white delivery truck on the left side of the street?,A) LOGKSON B) LUCKSON C) LOCKSON D) LOXSON,C,Text-Rich Understanding
+sample_387,30,What color is the bicycle being ridden across the crosswalk at the intersection?,A) Red B) Black C) Blue D) Green,C,Attribute Perception
+sample_391,30,What is the identification number on the rear of the tour bus?,A) 345 B) 346 C) 347 D) 364,B,Text-Rich Understanding
+sample_410,30,What is the number displayed on the digital scale during the coffee preparation process?,A) 52.84 B) 52.48 C) 58.24 D) 54.28,A,Text-Rich Understanding
+sample_429,30,What word is printed on the warning sign attached to the aircraft in the background?,A) WARNING B) CAUTION C) SIGNAL D) DANGER,D,Text-Rich Understanding
+sample_440,30,"What is the name of the dairy product printed on the white carton with a blue cap, visible on the lower shelf during the sequence?",A) KEFIR B) KETTLE C) YOGURT D) MILK,A,Text-Rich Understanding
+sample_453,30,What text is displayed on the storefront window on the left side of the street?,A) FOR SALE B) FOR LEASE C) OPEN D) FOR RENT,B,Text-Rich Understanding
+sample_454,30,What brand name is visible on the water bottle placed on the driver's console?,A) Aquafina B) Deer Park C) Dasani D) Poland Spring,B,Text-Rich Understanding
+sample_466,30,What color are the decorative accents on the blue-rimmed glasses displayed on the white shelf?,A) Blue B) White C) Gold D) Silver,C,Attribute Perception
+sample_476,30,What text is displayed on the black and white typewriter that is third from the top on the left side?,A) Type Away B) Write On! C) Ghosts Writer D) Word Up,B,Text-Rich Understanding
+sample_482,30,What number is displayed on the front hood of the black RC car in the initial scene?,A) 1 B) 7 C) 9 D) 0,A,Text-Rich Understanding
+sample_3,30,"After clapping, what specific hand gesture does the player in the blue and red striped jersey perform?",A) Waving both hands B) Pointing with the index finger C) Giving a thumbs-up D) Clenching a fist,B,Action Perception
+sample_31,30,What specific hand motion is used to handle the cornflakes in the bowl?,"A) Stirring in a circular motion  
+B) Gently tossing upward  
+C) Crushing between fingers  
+D) Scooping with the palm",C,Action Perception
+sample_64,30,What is the brand name displayed on the cardstock package as it is presented in the video?,A) onko B) anko C) auko D) unko,B,Text-Rich Understanding
+sample_97,30,"During the segment where the speaker emphasizes a key point, in which direction do their hands move?","A) Inward toward the body  
+B) Outward away from the body  
+C) Upward  
+D) Downward",B,Action Perception
+sample_112,30,How many hands does the person use to initially pick up the graphics card?,A) One hand B) Two hands C) Three hands D) No hands,B,Counting
+sample_139,30,"After the initial blue stroke on the canvas, what action does the hand perform next?","A) Dips the brush into green paint  
+B) Dips the brush into blue paint  
+C) Dips the brush into red paint  
+D) Dips the brush into yellow paint",B,Action Perception
+sample_166,30,What is the highest value shown in the left-side numerical display during the video sequence?,A) 64 B) 68 C) 72 D) 76,C,Text-Rich Understanding
+sample_170,30,At what distance marker does the residential area first become clearly visible along the route?,A) 18.9 KM  B) 19.0 KM  C) 19.1 KM  D) 19.2 KM,B,Text-Rich Understanding
+sample_171,30,What is the maximum heart rate value displayed during the video sequence?,A) 73 B) 76 C) 78 D) 79,D,Text-Rich Understanding
+sample_173,30,"After the initial frame, what value does the cadence display stabilize at throughout the remainder of the video?",A) 68 B) 69 C) 70 D) 71,C,Text-Rich Understanding
+sample_182,30,"How does the vehicle's speed, as displayed on the circular gauge, change over the sequence of frames?","A) It decreases from 29 to 28  
+B) It remains constant at 29  
+C) It increases from 29 to 31  
+D) It fluctuates between 29 and 30",C,Text-Rich Understanding
+sample_185,30,"What is the lowest value displayed for the ""1/min"" metric during the video sequence?",A) 73 B) 74 C) 75 D) 76,B,Text-Rich Understanding
+sample_194,30,In which direction does the animal move relative to the camera between the first and second frames?,A) Towards B) Away C) Left D) Right,A,Spatial Understanding
+sample_255,30,What structure does the vehicle approach and pass through as it reaches its destination?,"A) A parking garage entrance  
+B) A stadium gate with a barrier arm  
+C) A building's main door  
+D) A security checkpoint without a barrier",B,Spatial Understanding
+sample_271,30,What action is the character performing while moving along the road?,A) Walking B) Running C) Skipping D) Hopping,B,Action Perception
+sample_287,30,What action does the character perform after running with the box for a short distance?,A) Opens inventory B) Drops the box C) Enters a vehicle D) Attacks another character,A,Action Perception
+sample_306,30,"In the sequence, which direction does the pedestrian wearing a white shirt and blue shorts move along the sidewalk?","A) Towards the camera  
+B) Away from the camera  
+C) Crosses the street  
+D) Stands still",B,Action Perception
+sample_314,30,In which direction does the red vehicle move before it exits the frame?,A) Left B) Right C) Up D) Down,A,Action Perception
+sample_318,30,In which direction is the person wearing a yellow hoodie walking across the plaza?,A) Left B) Right C) Towards the camera D) Away from the camera,A,Action Perception
+sample_324,30,What action does the person holding the white umbrella perform after stepping onto the crosswalk?,"A) Continues walking straight  
+B) Turns left  
+C) Bends forward  
+D) Stops and looks around",C,Action Perception
+sample_330,30,What movement does the woman in white make at the outdoor café between the beginning and end of the video?,A) She remains standing still throughout B) She walks away from the café area C) She bends down and then stands back up D) She sits down at the table,C,Action Perception
+sample_346,30,In which direction do the hands move when placing cheese slices onto the buns?,"A) Left to right  
+B) Right to left  
+C) Upward  
+D) Downward",A,Action Perception
+sample_370,30,What action does the hand perform immediately after placing the glass on the counter?,"A) Wipe the counter with a cloth  
+B) Turn off the faucet  
+C) Pick up the carton  
+D) Move to the sink",A,Action Perception
+sample_386,30,Which company's logo becomes visible on a white van that enters the frame from the right as the video progresses?,A) U-Haul B) Budget C) Hertz D) Enterprise,B,Text-Rich Understanding
+sample_414,30,"During the action of placing the box into the shopping cart, how many hands were visible?",A) 0 hands B) 1 hand C) 2 hands D) 3 hands,C,Counting
+sample_427,30,"As the helicopter moves forward through the landscape, what natural feature becomes increasingly visible in the distance?",A) A forest clearing B) A river C) A mountain range D) A desert area,B,Object Perception
+sample_462,30,What numbers are displayed on the blue sign hanging from the ceiling?,A) 713/812 B) 712/813 C) 731/821 D) 721/831,A,Text-Rich Understanding
+sample_466,30,What is the person near the large circular artwork doing as they walk through the gallery?,"A) Carrying a bag  
+B) Pushing a stroller  
+C) Holding a child's hand  
+D) Waving",B,Action Perception
+sample_3,40,What is the website address displayed on the advertisement board near the goal line?,"A) fcbarcelona.com  
+B) fcbarcelona.cat  
+C) barcelonafc.com  
+D) barcelonaofficial.com",B,Text-Rich Understanding
+sample_5,40,What number is displayed on the back of the player preparing to take the penalty kick?,A) 5 B) 7 C) 9 D) 10,C,Text-Rich Understanding
+sample_38,40,Which brand of mustard is visible among the ingredients on the countertop?,A) Grey Poupon B) Maille C) French's D) Whole Foods,B,Text-Rich Understanding
+sample_54,40,"What volume measurement is printed on the purple ""HARDENER"" bottle?",A) 14 OZ B) 16 OZ C) 18 OZ D) 19 OZ,B,Text-Rich Understanding
+sample_88,40,"What year is listed on the whiteboard for the movie ""Jurassic Park""?",A) 1989 B) 1991 C) 1992 D) 1993,D,Text-Rich Understanding
+sample_91,40,"What year is listed for the film ""Bonnie + Clyde"" in the viewing assignment on the whiteboard?",A) 1957 B) 1963 C) 1967 D) 1973,C,Text-Rich Understanding
+sample_110,40,How many camera lenses are visible on the back of the smartphone being held?,A) 1 B) 2 C) 3 D) 4,C,Counting
+sample_129,40,What text is visible on the paintbrush held by the artist?,A) BRUSH B) ARTIST C) STUDIO D) MAGNUM,D,Text-Rich Understanding
+sample_164,40,What is the speed limit indicated by the regulatory road sign visible ahead in the scene?,A) 20 B) 30 C) 40 D) 50,B,Text-Rich Understanding
+sample_168,40,"When the cyclist is riding past a building with a parking structure on the right side, what is the name of the bank visible on the left side of the street?",A) First American Bank B) First Citizens Bank C) Bank of America D) Citizens Bank,B,Text-Rich Understanding
+sample_172,40,What height restriction is displayed on the circular sign above the central arch of the bridge?,A) 3.20m B) 3.50m C) 3.80m D) 4.00m,B,Text-Rich Understanding
+sample_196,40,What type of pickaxe is displayed in the item description during the mining sequence?,A) Diamond Pickaxe B) Iron Pickaxe C) Gold Pickaxe D) Stone Pickaxe,A,Text-Rich Understanding
+sample_217,40,What is the price displayed on the tag directly above the pyramid of oranges?,A) 1.99 B) 1.49 C) 1.19 D) 1.59,B,Text-Rich Understanding
+sample_251,40,What automobile manufacturer's logo is visible on the steering wheel?,A) BMW B) Mercedes-Benz C) Audi D) Volkswagen,B,Text-Rich Understanding
+sample_253,40,What brand logo is clearly visible on the steering wheel?,A) Ferrari B) Lamborghini C) Porsche D) McLaren,C,Text-Rich Understanding
+sample_257,40,"What number is displayed on the back of the player's blue jersey with the ""BT"" logo?",A) 1 B) 2 C) 3 D) 4,C,Text-Rich Understanding
+sample_279,40,What text is visible on the side of the dark van during the driving sequence?,A) grime B) crime C) prime D) slime,A,Text-Rich Understanding
+sample_282,40,What is the current time displayed on the in-game interface?,A) 05:14 B) 05:15 C) 05:16 D) 05:17,C,Text-Rich Understanding
+sample_314,40,What is the name displayed on the side of the white boat in the scene?,"A) CRAW DADDY  
+B) CRAB DADDY  
+C) CRAW DADY  
+D) CROW DADDY",A,Text-Rich Understanding
+sample_330,40,What text appears on the circular sign mounted on the building to the right side of the street?,A) MEO B) NEO C) MEQ D) MEN,A,Text-Rich Understanding
+sample_343,40,How many eggs is the person holding in their gloved hand?,A) 2 B) 3 C) 4 D) 5,C,Counting
+sample_352,40,What type of pastry is visible on the plate in the upper right corner of the last frame?,"A) Bagel
+B) Croissant
+C) Donut
+D) Muffin",B,Object Perception
+sample_371,40,What word is printed on the yellow carton in the background during the coffee preparation sequence?,A) SOY B) ALMOND C) OAT D) RICE,B,Text-Rich Understanding
+sample_382,40,What number is displayed on the back of the bus in the right lane?,A) 8082 B) 8028 C) 8802 D) 8208,A,Text-Rich Understanding
+sample_384,40,What is the website address displayed on the blue truck's advertisement?,A) www.goodwillnynj.org B) www.goodwillny.org C) www.goodwillnyc.org D) www.goodwillnj.org,A,Text-Rich Understanding
+sample_385,40,What is the route number displayed on the bus in the right lane?,A) M21 B) M27 C) M28 D) M29,B,Text-Rich Understanding
+sample_409,40,What pattern is visible on the white towel hanging on the kitchen wall?,"A) Solid color  
+B) Horizontal stripes  
+C) Grid pattern  
+D) Polka dots",C,Attribute Perception
+sample_410,40,What is the brand name printed on the coffee machine used in the video?,A) Sanremo B) La Marzocco C) Expobar D) Rancilio,A,Text-Rich Understanding
+sample_446,40,What accessory is visible on the wrist of the person reaching for the product?,A) Black glove  B) Gold chain  C) Silver ring  D) Black wristband,B,Attribute Perception
+sample_461,40,What color is the jacket of the person standing near the glass doors on the left side of the frame?,A) Blue B) Orange C) Black D) Gray,B,Attribute Perception
+sample_483,40,What is the complete text on the blue banner visible in the video?,A) Performance Tyres B) High Performance Tyres C) Super Tyres D) High Quality Tyres,B,Text-Rich Understanding
+sample_493,40,What brand name is printed on the side of the pink race car when it is stationary?,A) Lucky B) Charms C) Charmy D) Chums,B,Text-Rich Understanding
+sample_494,40,What is the hair color of the anime character depicted on the station wagon in the video?,A) Red B) Brown C) Black D) Blue,C,Attribute Perception
+sample_495,40,What word is written on the side of the red toy car?,A) Jump B) Hump C) Pump D) Bump,B,Text-Rich Understanding
+sample_497,40,What year is displayed in the lower third graphic?,A) 2020 B) 2021 C) 2022 D) 2023,C,Text-Rich Understanding
+sample_8,50,What city name is printed below the crest on the player's jersey?,A) Berlin B) Munich C) Frankfurt D) Stuttgart,C,Text-Rich Understanding
+sample_63,50,What material is the stirring tool inside the clear container?,A) Metal rod B) Plastic straw C) Wooden stick D) Glass rod,C,Attribute Perception
+sample_88,50,What is the pattern of the man's dress shirt visible beneath his jacket?,A) Solid white B) Striped C) Checkered D) Polka-dotted,B,Attribute Perception
+sample_89,50,"What year is listed next to ""SINGIN' IN THE RAIN"" in the viewing section at the bottom of the whiteboard?",A) 1951 B) 1952 C) 1953 D) 1954,B,Text-Rich Understanding
+sample_93,50,"During the scene where three men are running on the sidewalk, what is the name on the store sign visible to the left of the frame?",A) ACE  B) A2E  C) ACEE  D) ACME,A,Text-Rich Understanding
+sample_160,50,What is the texture of the brown boot's surface?,"A) Smooth  
+B) Pebbled  
+C) Suede  
+D) Patent",B,Attribute Perception
+sample_164,50,What text is displayed on the red building visible on the right side of the street?,A) Hotel Berlin B) Pension Haus C) Casa Maritza D) Casa Maria,C,Text-Rich Understanding
+sample_169,50,"During the segment where a building with a red and yellow facade is visible on the left side of the road, how many cyclists are present on the road?",A) 0 B) 1 C) 2 D) 3,B,Counting
+sample_187,50,"What is the level of the ""Sweeping Edge"" enchantment on the sword in the player's inventory?",A) I B) II C) III D) IV,C,Text-Rich Understanding
+sample_195,50,What is the subtitle text displayed in the second frame of the video?,"A) any rocket  
+B) to fly the way up there  
+C) I need rockets  
+D) cannot reach there",B,Text-Rich Understanding
+sample_214,50,What is visible along the right edge of the square in the video?,"A) A vertical blue line  
+B) A vertical red line  
+C) A dashed black line  
+D) Nothing",A,Attribute Perception
+sample_216,50,What text is printed on the person's white t-shirt?,A) math Anics B) math Anties C) math Amics D) math Antics,D,Text-Rich Understanding
+sample_230,50,"What is the fourth letter in the word ""Antics"" printed on the t-shirt?",A) i B) l C) t D) c,A,Text-Rich Understanding
+sample_238,50,What decorative pattern is visible on the side of the grandfather clock in the room?,A) Floral pattern B) Leaf pattern C) Striped pattern D) No pattern,B,Attribute Perception
+sample_252,50,What brand name is visible on the driver's gloves?,A) Sparco B) OMP C) Alpinestars D) Puma,A,Text-Rich Understanding
+sample_259,50,What number is displayed on the back of the player's jersey in the scene where multiple players are standing on the field?,A) 6 B) 8 C) 9 D) 10,C,Text-Rich Understanding
+sample_291,50,"How many times does the phrase ""I SAW"" appear consecutively in the chat message?",A) 1 B) 2 C) 3 D) 4,C,Counting
+sample_295,50,What is the power value displayed on the cycling metrics interface during the segment where the speed reads 23 km/h?,A) 93 B) 95 C) 107 D) 121,C,Text-Rich Understanding
+sample_327,50,What is the person walking on the bridge holding in their right hand?,A) A phone B) A book C) A camera D) A hat,A,Object Perception
+sample_372,50,What symbol is visible on the white plate positioned near the center of the metallic surface?,A) Heart  B) Star  C) Circle  D) Triangle,A,Object Perception
+sample_397,50,Which company's logo appears on the side of the dark delivery truck visible on the right side of the street?,"A) FedEx  
+B) DHL  
+C) UPS  
+D) USPS",C,Text-Rich Understanding
+sample_1,50,What is the first celebratory gesture the player with jersey number 9 makes after scoring?,A) Clapping hands B) Placing hands on head C) Hugging a teammate D) Raising arms,B,Action Perception
+sample_36,50,"In the background, what action is another individual performing?","A) Taking a photo with a smartphone  
+B) Holding a book  
+C) Waving their hand  
+D) Pointing towards the camera",A,Action Perception
+sample_89,50,How do the person's hands move from the beginning to the end of the sequence?,A) From pointing to open palm B) From open position to closed fist C) From closed fist to open position D) From crossed to uncrossed position,B,Action Perception
+sample_109,50,"During the product discussion, what specific hand gesture does the presenter make while emphasizing a key point?","A) Pointing with index finger  
+B) Thumbs-up  
+C) Open palm wave  
+D) Fist bump",B,Action Perception
+sample_144,50,"During the squat exercise, in which direction do the knees primarily move as the person lowers into the squat?",A) Forward B) Backward C) Outward D) Inward,A,Action Perception
+sample_151,50,"As the maid rises from her kneeling position, which direction does she turn to face before walking away?","A) To her left  
+B) To her right  
+C) She turns but the direction is not visible  
+D) She does not turn",B,Action Perception
+sample_170,50,"What is the trend of the numerical value labeled ""1/min"" in the data display as the video progresses?","A) Increasing  
+B) Decreasing  
+C) Remains constant  
+D) Alternates between two values",B,Text-Rich Understanding
+sample_179,50,What brand name is visible on the frame of the bicycle that enters the scene from the left during the sequence?,A) SCOTT B) CANYON C) TREK D) SPECIALIZED,B,Text-Rich Understanding
+sample_185,50,In which direction does the road curve as the video progresses?,A) Left B) Right C) Straight D) U-turn,A,Spatial Understanding
+sample_192,50,What text prompt appears on the screen when the player is seated in the boat?,"A) Press Left Click to Exit  
+B) Press Left Control to Dismount  
+C) Press Space to Disembark  
+D) Press Left Shift to Leave",B,Text-Rich Understanding
+sample_194,50,What is the second phrase displayed in the video sequence?,"A) I haven't played  
+B) properly like in a...  
+C) in a very long time  
+D) never played",B,Text-Rich Understanding
+sample_233,50,"In the video, what is the direction of the arm movement of the character wearing the green striped outfit?","A) Up and down  
+B) Side to side  
+C) In a circular motion  
+D) Back and forth",A,Action Perception
+sample_244,50,"After the character turns off the lamp, what color is the lamp shade?",A) Brown B) Purple C) Yellow D) Red,B,Attribute Perception
+sample_253,50,From which direction does the first overtaking car approach the main vehicle during the sequence?,A) Left B) Right C) Front D) Rear,B,Spatial Understanding
+sample_327,50,What action does the person perform with their right hand as they walk across the bridge?,A) Waving to someone B) Holding a phone to their ear C) Shielding their eyes from the sun D) Adjusting their hat,B,Action Perception
+sample_330,50,What action does the person perform with the car door during the sequence?,"A) Opening the door  
+B) Closing the door  
+C) Leaving the door open  
+D) Reopening the door",B,Action Perception
+sample_331,50,"As the video progresses, in which direction does the man in the blue shirt move across the frame?",A) Left to right B) Right to left C) Towards the camera D) Away from the camera,A,Action Perception
+sample_332,50,"As the camera moves forward along the street, which store name becomes clearly visible on the building to the right?",A) H&M B) IMAX C) ZARA D) UNIQLO,B,Text-Rich Understanding
+sample_335,50,What design is visible on the back of the person wearing the blue patterned shirt as they walk?,A) Stars B) Smiley face C) Stripes D) Hearts,B,Attribute Perception
+sample_354,50,In which direction does the person move the mug during the placement action?,"A) From left to right  
+B) From right to left  
+C) Upward  
+D) Downward",B,Action Perception
+sample_389,50,"Which direction is the pedestrian near the ""Zumiez"" storefront walking relative to the street's primary traffic flow?",A) East B) West C) North D) South,B,Spatial Understanding
+sample_427,50,"During the sequence, which hand does the person place on the beige bag with black straps?",A) Left hand B) Right hand C) Both hands D) Neither hand,B,Action Perception
+sample_453,50,What color is the bicycle that appears on the sidewalk as the vehicle moves forward?,A) Orange B) Blue C) Red D) Green,A,Attribute Perception
+sample_495,50,What number is displayed on the black car that moves into the frame from the left during the sequence?,A) 17 B) 71 C) 7 D) 1,B,Text-Rich Understanding
+sample_496,50,"As the video progresses, what happens to the white and red race car?","A) It moves to the right and exits the frame.  
+B) It moves to the left and exits the frame.  
+C) It remains stationary in the center of the frame.  
+D) It splits into two smaller vehicles.",B,Action Perception
+sample_7,60,What number is displayed on the back of the player's jersey as he prepares to take the free kick?,A) 7 B) 10 C) 11 D) 14,B,Text-Rich Understanding
+sample_11,60,What is the time displayed on the timer at the moment when the person lifts the lid off the pan?,A) 09:59 B) 09:60 C) 09:69 D) 10:00,A,Text-Rich Understanding
+sample_35,60,What word is printed on the white container located on the kitchen counter to the right of the scene?,A) SALT B) SUGAR C) ICE D) WATER,C,Text-Rich Understanding
+sample_41,60,What word is visible on the label of the spice bottle being used?,A) Organic B) Premium C) Gourmet D) Spicy,A,Text-Rich Understanding
+sample_49,60,What brand name is printed on the white cutting tool being used?,A) Cricut B) Craft C) Cutco D) Crict,A,Text-Rich Understanding
+sample_53,60,What shape is embossed on the pink paper component during the assembly process?,A) Circle  B) Square  C) U-shape  D) Triangle,C,Attribute Perception
+sample_54,60,"What specific claim is printed below ""MICA POWDER"" on the product box?",A) NON-TOXIC | SKIN SAFE B) VEGAN | ECO-FRIENDLY C) 100% PURE | NATURAL D) WATERPROOF | LONG-LASTING,A,Text-Rich Understanding
+sample_81,60,"What year is listed for the film ""His Girl Friday"" in the viewing assignment on the whiteboard?",A) 1938 B) 1940 C) 1949 D) 1950,B,Text-Rich Understanding
+sample_94,60,What is the text written on the water tower in the scene?,A) LITTLE CORPSE B) LITTLE CORNERS C) LITTLE CORN D) CATTLE CORPSE,B,Text-Rich Understanding
+sample_127,60,What color is the tip of the paintbrush used to apply the eye detail?,A) Green B) Yellow C) Blue D) White,B,Attribute Perception
+sample_181,60,What is the power output (in watts) displayed during the initial segment of the video?,A) 216 B) 236 C) 217 D) 235,B,Text-Rich Understanding
+sample_191,60,What time interval is stated in the video for when the sun will set?,A) 10 to 15 minutes B) 15 to 20 minutes C) 5 to 10 minutes D) 16 to 15 minutes,A,Text-Rich Understanding
+sample_192,60,What is the complete phrase displayed when the video shows a dark background with a smaller video frame in the center?,A) it rude! B) it's a bit rude! C) leave me alone D) Hello there mr chicken,B,Text-Rich Understanding
+sample_194,60,What text appears on the screen in the scene where the crosshair is visible against the sky?,A) *there* B) *here* C) *now* D) *look*,B,Text-Rich Understanding
+sample_195,60,"What is the count of the item displayed in the player's inventory bar during the frame where the on-screen text reads ""if there is actually""?",A) 53 B) 54 C) 55 D) 56,C,Counting
+sample_196,60,What is the name of the tool displayed above the inventory bar when the player switches items?,"A) Iron Shovel  
+B) Diamond Shovel  
+C) Netherite Shovel  
+D) Wooden Shovel",C,Object Perception
+sample_274,60,What company name is visible on the side of the delivery van?,A) GoPostal B) MailExpress C) SpeedyDelivery D) UnitedParcel,A,Text-Rich Understanding
+sample_298,60,What brand name is visible on the bicycle's handlebar?,A) ON3UP B) ONEUP C) ONEIP D) ONEWP,B,Text-Rich Understanding
+sample_308,60,What is the text on the blue sign mounted near the entrance of the yellow building?,A) Guest Relations B) Information Desk C) Ticket Sales D) Visitor Services,A,Text-Rich Understanding
+sample_350,60,What text is printed on the blue shirt of the person preparing food?,"A) Heller Street, Newark  
+B) Heller Parkway, Newark  
+C) Heller Pkwy, Newark  
+D) Heller Ave, Newark",C,Text-Rich Understanding
+sample_352,60,Which accessory is visible on the person's right hand while drying the bowl?,A) A ring  B) A watch  C) A bracelet  D) No accessory,A,Attribute Perception
+sample_356,60,What object is the person in the background holding while another person fills a metal cup with water from the faucet?,"A) Spray bottle
+B) Water bottle
+C) Cleaning cloth
+D) Bottle of cleaner",A,Object Perception
+sample_366,60,What brand name is displayed on the green oval logo on the front of the espresso machine?,A) Rancilio B) La Marzocco C) Nuova Simonelli D) Breville,B,Text-Rich Understanding
+sample_377,60,What color is the handle of the knife used to cut the bread?,A) Red B) Blue C) Green D) Black,C,Attribute Perception
+sample_381,60,What identification number is displayed at the top of the rear of the white bus?,A) 071 B) 017 C) 107 D) 701,B,Text-Rich Understanding
+sample_389,60,What word is painted in white on the red-paved lane in the foreground?,A) ONLY B) STOP C) LANE D) WAIT,A,Text-Rich Understanding
+sample_391,60,What is the acronym displayed on the side of the white emergency vehicle in the right lane?,A) NYPD B) NYFD C) NYPP D) NYPC,A,Text-Rich Understanding
+sample_392,60,What organization name is visible on the side of the white bus on the left side of the street?,"A) DOWNTOWN UNION
+B) METROPOLITAN TRANSIT
+C) DOWNTOWN ALLIANCE
+D) CITY ALLIANCE",C,Text-Rich Understanding
+sample_399,60,What word is painted on the road in the left-turn lane?,A) LEFT B) ONLY C) OLY D) LANE,B,Text-Rich Understanding
+sample_402,60,What word is printed on the side of the bus?,A) ELECTRIC B) DIESEL C) HYBRID D) GASOLINE,C,Text-Rich Understanding
+sample_406,60,What color are the measurement indicators visible on the white container near the beer taps?,A) Red B) Blue C) Green D) Black,B,Attribute Perception
+sample_409,60,What warning is printed on the deep fryer's surface?,"A) DO NOT USE SOLID OIL  
+B) DO NOT USE ANY KIND OF SOLID FAT  
+C) DO NOT OPERATE WITHOUT OIL  
+D) DO NOT USE METAL UTENSILS",B,Text-Rich Understanding
+sample_415,60,What color of gloves is the person putting on in the final frame?,A) Blue B) White C) Black D) Clear,B,Attribute Perception
+sample_425,60,"During the sequence, what object is visible in the distance on the left side of the grassy field?","A) A car  
+B) An airplane  
+C) A tractor  
+D) A bus",B,Object Perception
+sample_437,60,What number is displayed on the price tag located below the stack of yogurt containers on the shelf?,A) 30 B) 36 C) 38 D) 40,B,Text-Rich Understanding
+sample_442,60,What is the exact price displayed on the shelf tag for the yogurt product?,A) 34.00 B) 34.50 C) 34.99 D) 35.00,B,Text-Rich Understanding
+sample_443,60,What product description is printed on the blue and white containers being handled in the store?,A) crème brûlée B) crème fraîche C) fromage blanc D) yogurt,B,Text-Rich Understanding
+sample_471,60,What color are the shoes of the person standing near the painting who is wearing black clothing?,A) Black B) White C) Brown D) Gray,B,Attribute Perception
+sample_10,60,In which direction does the person turn their head while preparing the food?,A) Left B) Right C) Up D) Down,B,Action Perception
+sample_44,60,How many eggs are cracked into the bowl during the sequence shown?,A) One B) Two C) Three D) None,B,Counting
+sample_67,60,What action does the hand perform on the machine's control panel during the sequence?,"A) Presses the blue button  
+B) Rotates the white dial  
+C) Adjusts the top lever  
+D) Taps the screen",A,Action Perception
+sample_165,60,What object appears on the road surface as the vehicle progresses forward?,A) Pothole  B) Manhole cover  C) Road crack  D) Speed bump,B,Object Perception
+sample_166,60,"What is the highest value displayed for the ""1/min"" metric during the video sequence?",A) 59 B) 61 C) 62 D) 64,D,Text-Rich Understanding
+sample_167,60,"What is the final value of the metric labeled ""1/min"" displayed in the video?",A) 0 B) 78 C) 1 D) 5.3,B,Text-Rich Understanding
+sample_12,70,What object is visible on the white tiled wall to the right of the person?,A) Power outlet  B) Light switch  C) Small vent  D) Nothing,A,Object Perception
+sample_18,70,What time is displayed on the timer during the overhead shot where the person is adding ingredients to the white pan?,A) 09:59 B) 09:58 C) 09:56 D) 09:50,B,Text-Rich Understanding
+sample_39,70,What word is visible on the counter near the sink in the kitchen?,A) HOT B) COLD C) COOK D) KITCHEN,A,Text-Rich Understanding
+sample_55,70,What color are the scissors' handles used in the video?,A) Black B) Silver C) Orange D) Blue,C,Attribute Perception
+sample_71,70,"What is the correct spelling of the term listed under ""SHOULD INCLUDE"" that refers to the arrangement of visual elements within a scene?","A) SCENE  
+B) SCÈNE  
+C) SCENES  
+D) SCÉNE",B,Text-Rich Understanding
+sample_78,70,"What year is specified in the ""VIEWING"" section of the whiteboard?",A) 1979 B) 1981 C) 1982 D) 1985,B,Text-Rich Understanding
+sample_87,70,"What word completes the lab assignment instruction: ""USE ADR TO REPLACE THE ______""?",A) DIALOG B) DIALOGUE C) DIALOGS D) DIALOGING,B,Text-Rich Understanding
+sample_88,70,"What year is listed for the film ""Jurassic Park"" in the viewing assignment on the whiteboard?",A) 1991 B) 1992 C) 1993 D) 1994,C,Text-Rich Understanding
+sample_101,70,"What is the last letter of the word ""STORYBOARD"" as written on the whiteboard?","A) R  
+B) D  
+C) O  
+D) B",B,Text-Rich Understanding
+sample_110,70,What symbol is visible on the pocket of the person's white T-shirt?,"A) R  
+B) P  
+C) B  
+D) No symbol",B,Attribute Perception
+sample_125,70,What is the color of the small mark on the left side of the wooden board?,A) Black B) Brown C) Green D) Blue,C,Attribute Perception
+sample_149,70,What is the RPE range specified for Week 6 in the training program?,A) 0-0 B) 5-6 C) 7-8 D) 8-9,B,Text-Rich Understanding
+sample_171,70,What is the speed value displayed on the speedometer in the final frame of the video?,A) 49 B) 53 C) 54 D) 55,D,Text-Rich Understanding
+sample_188,70,What item name is displayed in the inventory interface when the player has collected water from the source block?,"A) Water Bottle
+B) Bottle of Water
+C) Filled Glass Bottle
+D) Liquid Container",A,Text-Rich Understanding
+sample_194,70,What is the current objective displayed in the game interface?,"A) Gather Stone  
+B) Mine Iron  
+C) Collect Wood  
+D) Build House",A,Text-Rich Understanding
+sample_202,70,What detail is visible on the yellow wall in the background?,"A) A small dark mark  
+B) A faint white streak  
+C) A green smudge  
+D) A red dot",A,Attribute Perception
+sample_246,70,What is the small figure in the background doing at the 1.4-second mark?,A) Shouting B) Smiling C) Sleeping D) Running,A,Action Perception
+sample_259,70,What number is displayed on the back of the yellow-vested player in the foreground during the sequence?,A) 0 B) 6 C) 8 D) 9,D,Text-Rich Understanding
+sample_265,70,What Korean phrase appears in the dialogue text when Kim asks about Jay's recovery?,A) 제이 다친곳은 괜찮아? B) 제이 완전히 나았어? C) 제이 부상에서 회복했어? D) 제이 몸 상태는 어때?,A,Text-Rich Understanding
+sample_281,70,Which phrase appears in the chat messages during the character creation screen?,"A) I HAVE A DOG  
+B) I HAVE A HUSBAND  
+C) I HAVE A CAR  
+D) I HAVE A JOB",B,Text-Rich Understanding
+sample_282,70,What is depicted in the small icon in the bottom left corner of the gameplay screen?,A) A car B) A person wearing a Santa hat C) A tree D) A building,B,Object Perception
+sample_305,70,Which subway lines serve the station visible in the video?,"A) 4, 5, 6  B) 1, 2, 3  C) R, W  D) 7, N, Q",C,Text-Rich Understanding
+sample_307,70,What is the license plate number on the blue truck parked in the covered area?,A) 12-29 B) 12-24 C) 15-29 D) 22-29,A,Text-Rich Understanding
+sample_313,70,What is the alphanumeric identifier painted on the parking space where the silver SUV is parked?,A) V34 B) V35 C) V36 D) V37,B,Text-Rich Understanding
+sample_348,70,What color is the glove visible near the metal machine?,A) Red B) Blue C) White D) Black,B,Attribute Perception
+sample_366,70,What type of milk is indicated on the yellow carton placed near the sink?,"A) Almond  
+B) Soy  
+C) Oat  
+D) Coconut",A,Text-Rich Understanding
+sample_371,70,What number is printed on the white bowl placed on the counter near the sink?,A) 11 B) 22 C) 33 D) 88,C,Text-Rich Understanding
+sample_381,70,What address is displayed on the green awning of the building on the right side of the street?,A) 25 PARK AVENUE B) 23 PARK AVENUE C) 27 PARK AVENUE D) 29 PARK AVENUE,A,Text-Rich Understanding
+sample_389,70,What bank name is visible on the building on the right side of the street?,A) CHASE B) CITI C) BANK OF AMERICA D) WELLS FARGO,A,Text-Rich Understanding
+sample_400,70,What text is displayed on the rear of the white van positioned on the left side of the road?,A) DOLITE B) DOLOMITE C) DOLAR D) DOLPHIN,B,Text-Rich Understanding
+sample_443,70,What word is visible on the side of the cardboard box in the warehouse scene?,A) BAND B) GRAND C) BRAND D) SAND,C,Text-Rich Understanding
+sample_444,70,What color pattern do the gloves worn by the person handling the boxes have?,A) Black B) Blue with white stripes C) Black with yellow trim D) White with red accents,C,Attribute Perception
+sample_453,70,What is the name of the commercial building visible on the left side of the street during the sequence?,A) River Quarter B) Riverside Plaza C) River District D) River View,A,Text-Rich Understanding
+sample_455,70,What color is the hood of the vehicle visible through the windshield?,A) Red B) Orange C) Yellow D) Green,C,Attribute Perception
+sample_456,70,What text appears on the side of the orange van that crosses the intersection?,A) 13cabs B) 18cabs C) 23cabs D) 15cabs,A,Text-Rich Understanding
+sample_484,70,What text is displayed on the billboard featuring a rabbit logo visible during the race?,A) TRB  B) TBR  C) TBC  D) BRT,B,Text-Rich Understanding
+sample_488,70,What is the text displayed on the billboard visible during the race sequence?,A) TBC  B) TBR  C) TBL  D) T8R,B,Text-Rich Understanding
+sample_497,70,What phrase appears in the upper right corner of the frame during the final sequence?,"A) ARE YOU TRACKIN'?  
+B) ARE YOU TRACKING?  
+C) ARE YOU TRUCKIN'?  
+D) ARE YOU TRACKIN",A,Text-Rich Understanding
+sample_19,70,What object does the person reach for during the sequence?,A) A bowl B) A pan C) A knife D) A pot,B,Action Perception
+sample_40,70,How is the red spice transferred into the glass bowl during the preparation?,"A) Poured directly from the container  
+B) Sprinkled by hand  
+C) Added using a spoon  
+D) Mixed with a whisk first",C,Action Perception
+sample_82,70,What year is consistently shown for the viewing assignment film throughout the whiteboard segment?,A) 1949 B) 1999 C) 1971 D) 1909,A,Text-Rich Understanding
+sample_143,70,What happens to the lifter's hips during the upward phase of the bench press movement?,"A) Hips remain stationary on the bench  
+B) Hips move downward toward the floor  
+C) Hips lift upward off the bench  
+D) Hips shift laterally to the left",C,Action Perception
+sample_146,70,"During the bench press set, in which direction does the person in the background move?","A) Left to right  
+B) Right to left  
+C) Stationary  
+D) Back and forth",A,Action Perception
+sample_164,70,How many times does the gradient percentage change during the video sequence?,A) 0 B) 1 C) 2 D) 3,C,Counting
+sample_183,70,How does the power output (in watts) change during the sequence of frames?,"A) Remains constant  
+B) Decreases gradually  
+C) Increases sharply  
+D) Fluctuates slightly",C,Text-Rich Understanding
+sample_257,70,What text appears on the screen during the attempt to score a goal?,A) Nice shot B) Good try C) Try again D) Almost,B,Text-Rich Understanding
+sample_260,70,"During the maneuver to avoid the oncoming yellow car, how many hands does the driver use to steer?",A) One hand B) Two hands C) Three hands D) No hands,B,Action Perception
+sample_268,70,What steering technique is the driver using during the turn sequence?,A) Hand-over-hand (one hand crosses over the other) B) Push-pull (hands move in opposite directions without crossing) C) One-hand steering D) Two-hand constant grip (no hand movement),B,Action Perception
+sample_286,70,What item does the character begin wearing in the second frame that was not present in the first frame?,A) Headphones B) Sunglasses C) Goggles D) Cap,C,Object Perception
+sample_288,70,What is the highest speed value displayed on the speedometer during the video sequence?,A)70 B)72 C)75 D)76,D,Attribute Perception
+sample_290,70,What is the maximum speed displayed on the vehicle's speedometer during the sequence?,A) 74 B) 75 C) 76 D) 77,C,Text-Rich Understanding
+sample_313,70,What action does the person in the purple shirt perform while crossing the parking lot?,"A) Checking a mobile phone  
+B) Waving at someone  
+C) Adjusting their glasses  
+D) Carrying a shopping bag",A,Action Perception
+sample_343,70,How many spatulas does the person use to handle the food items during the sequence?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_360,70,What does the digital scale display immediately after the button is pressed?,"A) ""0.00"" B) ""1.00"" C) ""ACA IA"" D) ""Error""",A,Text-Rich Understanding
+sample_366,70,What color is the liquid being poured into the measuring cup during the action?,A) Clear B) White C) Yellow D) Brown,B,Attribute Perception
+sample_374,70,"In the video, what is the correct sequence of glove colors handled by the hands during the process?","A) Black then white  
+B) White then black  
+C) Only white  
+D) Only black",B,Action Perception
+sample_388,70,What phrase appears on the central vertical billboard after its initial display?,"A) ""IT'S ALWAYS THE SEASON"" B) ""TIS ALWAYS THE SEASON"" C) ""SEASON'S GREETINGS"" D) ""HOLIDAY SPECIAL""",B,Text-Rich Understanding
+sample_405,70,What action is the person performing with the refrigerator door?,A) Opening B) Closing C) Holding D) Ignoring,A,Action Perception
+sample_453,70,What is the maximum speed value displayed on the dashboard speedometer throughout the video sequence?,A) 11 B) 12 C) 13 D) 14,D,Attribute Perception
+sample_28,80,What is written on the woman's sweatshirt in the scene where she stands in front of the window with pink flowers?,A) New York B) Tokyo C) Osaka D) London,C,Text-Rich Understanding
+sample_35,80,What number is displayed on the white board near the bookshelf?,A) 1 B) 2 C) 3 D) 4,A,Text-Rich Understanding
+sample_37,80,What two-letter abbreviation is printed on the phone case held by the person in the black top?,A) TR B) RT C) TT D) RR,A,Text-Rich Understanding
+sample_39,80,What word is printed on the label of the jar located on the top shelf directly to the left of the brown ceramic pot?,A) SUGAR B) FLOUR C) CEREAL D) SALT,C,Text-Rich Understanding
+sample_47,80,"In the overhead shot of the kitchen counter, what type of spice is visible in the small bowl to the left of the plate containing raw meat?",A) Red chili flakes B) Black pepper C) White salt D) Yellow turmeric,A,Object Perception
+sample_58,80,"What text is printed directly below the ""Cricut"" logo on the machine's tool head during operation?",A) CUT SMART 1 B) CUT SMART 2 C) CUT SMART 3 D) CUT SMART 4,B,Text-Rich Understanding
+sample_60,80,What text is visible in the bottom right corner of the video?,A) CRAFT B) CRAFTS C) CRATE D) CRAFTY,A,Text-Rich Understanding
+sample_62,80,What specific label is visible on the product box in the video?,A) Non-Toxic  B) Eco-Friendly  C) Food Safe  D) BPA Free,C,Text-Rich Understanding
+sample_70,80,What is the label on the green button located in the top-right corner of the interface?,A) Material B) Make It C) Design D) Create,B,Text-Rich Understanding
+sample_73,80,What number is written inside the spiral on the whiteboard?,A) 1 B) 7 C) 4 D) 9,B,Text-Rich Understanding
+sample_80,80,"What year is listed next to ""VERTIGO"" on the whiteboard during the lighting lesson?",A) 1952 B) 1958 C) 1962 D) 1968,B,Text-Rich Understanding
+sample_81,80,What is the shape of the belt buckle visible on the character's waist?,A) Square B) Circular C) Rectangular D) Triangular,C,Attribute Perception
+sample_147,80,What specific instruction about muscle activation appears in the exercise demonstration?,"A) ""teres may overpower the lats for some people"" B) ""focus on proper breathing technique"" C) ""teres and lats should both be active"" D) ""maintain consistent speed throughout""",C,Text-Rich Understanding
+sample_175,80,What number is displayed on the back of the cyclist wearing the orange and white jersey?,A) 835 B) 855 C) 885 D) 558,B,Text-Rich Understanding
+sample_250,80,What is the text printed on the pizza box?,A) Pizza B) Piza C) Pzz D) Pasta,A,Text-Rich Understanding
+sample_265,80,What nationality does the person claim to be in the subtitle during the scene where the individual in the blue shirt speaks?,"A) Japanese  
+B) Korean  
+C) Chinese  
+D) American",B,Text-Rich Understanding
+sample_274,80,What text appears on the loading screen shown during the video?,A) Starting FiveM B) Starting FiveG C) Initializing Game D) Loading Assets,A,Text-Rich Understanding
+sample_283,80,What is the current speed displayed in the game interface when the vehicle is traveling under the overpass?,A) 75 B) 65 C) 46 D) 35,C,Text-Rich Understanding
+sample_314,80,What text is displayed on the traffic sign visible in the scene?,A) STOP B) YIELD C) GO D) SLOW,A,Text-Rich Understanding
+sample_322,80,What symbol appears on the circular signs visible on the escalator sides in the later frames?,"A) A hand holding a railing  
+B) A person with a diagonal line through it  
+C) A shoe with an arrow  
+D) An upward-pointing arrow",B,Text-Rich Understanding
+sample_340,80,What colors are the gloves worn by the person preparing the food?,"A) Both gloves are black
+B) Both gloves are white
+C) One black glove and one white glove
+D) One black glove and one brown glove",C,Attribute Perception
+sample_352,80,What text appears on the card visible on the kitchen counter near the cutting board?,A) Thank You! B) Happy Birthday C) Welcome D) Congratulations,A,Text-Rich Understanding
+sample_353,80,What is visible on the chef's left forearm?,"A) Tattoo  
+B) Scar  
+C) Sleeve  
+D) Watch",A,Attribute Perception
+sample_369,80,What color is the digital display on the coffee machine?,A) Red B) Blue C) Green D) Yellow,C,Attribute Perception
+sample_380,80,What is the license plate number on the black Toyota SUV in the center of the frame?,A) T192S70 B) T192570 C) T192670 D) T192870,B,Text-Rich Understanding
+sample_402,80,How many people with umbrellas are visible on the right side of the street?,A) 0 B) 1 C) 2 D) 3,B,Counting
+sample_414,80,What text is printed on the cardboard box visible on the floor of the grocery aisle?,A) DO NOT CUT TOP B) THIS SIDE UP C) FRAGILE CONTENTS D) RECYCLABLE MATERIAL,A,Text-Rich Understanding
+sample_426,80,What text is printed on the person's shirt?,A) FLY B) FLY. C) FLY! D) FLY?,B,Text-Rich Understanding
+sample_436,80,What phrase is printed on the white product boxes displayed on the shelf?,"A) ""Lak med maten!"" B) ""Mjölk 3%"" C) ""Havregrynsgröt"" D) ""Pannkakssmet""",A,Text-Rich Understanding
+sample_440,80,"What number is displayed on the price tag attached to the upper shelf, positioned above the cylindrical containers?",A) 15 B) 19 C) 33 D) 25,B,Text-Rich Understanding
+sample_446,80,What brand name is printed on the green packaging near the stacked white circular containers?,A) Bregatt B) Bregott C) Bregart D) Bregant,B,Text-Rich Understanding
+sample_447,80,What is the correct spelling of the word printed on the front of the yogurt container being held by the person?,A) YOGURT B) YOGHURT C) YOGHOURT D) YOGOURT,B,Text-Rich Understanding
+sample_461,80,What color is the roof of the small house depicted in the landscape painting featuring a large cloud?,A) Blue B) Green C) Orange D) White,C,Attribute Perception
+sample_466,80,What action is the person reflected in the black artwork performing?,"A) Looking at another piece of art
+B) Reading the informational plaque
+C) Taking a photograph
+D) Walking through the gallery",C,Action Perception
+sample_472,80,What location is specified on the pink gallery sign?,A) TOKYO JAPAN B) SEOUL KOREA C) NEW YORK USA D) OSAKA JAPAN,D,Text-Rich Understanding
+sample_478,80,What is the name of the gallery displayed on the wall in the exhibition space?,"A) MONTAGUE GALER  
+B) MONTAGUE GALLERY New York  
+C) MONTAGUE GALLERY San Francisco  
+D) MONTAGUE EXHIBITION",C,Text-Rich Understanding
+sample_480,80,What name is displayed on the small sign adjacent to the colorful vertical artwork?,A) Mbah Dooh B) Mpah Dooh C) Mah Doh D) Mph Dooh,B,Text-Rich Understanding
+sample_486,80,What text is displayed on the blue billboard located near the curved track section?,A) SpeedZone B) TurboChase C) Crazy8 D) RaceMaster,C,Text-Rich Understanding
+sample_488,80,What is the name of the driver associated with car number 28 in the leaderboard?,A) R. Laney B) T. Treadless C) J. Carvers D) Junyi,B,Text-Rich Understanding
+sample_489,80,What text appears on the billboard located alongside the track in the hilly section of the race course?,A) BB B) BD C) DB D) DD,D,Text-Rich Understanding
+sample_24,80,In which direction is the jar cap twisted to open it?,"A) Clockwise  
+B) Counterclockwise  
+C) Pulled straight up  
+D) Snapped off",B,Action Perception
+sample_41,80,How many distinct pouring motions does the person make while adding the liquid to the bowl?,"A) One continuous motion  
+B) Two separate motions  
+C) Three separate motions  
+D) Four separate motions",A,Counting
+sample_82,80,How many boxes are visible in the air during the throwing motion?,A) 1 B) 2 C) 3 D) 0,A,Counting
+sample_172,80,What text becomes visible on the building's mural as the camera moves forward?,A) WAS  B) WAR  C) WES  D) WOS,A,Text-Rich Understanding
+sample_186,80,"After the on-screen text appears, which item does the player select?",A) Sword B) Bow C) Pickaxe D) Axe,B,Action Perception
+sample_195,80,What food item is the player consuming while moving through the forest?,A) Apple B) Bread C) Baked Potato D) Cooked Chicken,C,Object Perception
+sample_237,80,"In the sequence where the character opens the box, what is the direction of the hands' movement relative to each other?","A) Inward toward each other  
+B) Outward away from each other  
+C) Upward in unison  
+D) Downward in unison",B,Action Perception
+sample_271,80,"After approaching the blue structure, what movement does the character perform?",A) Walking slowly B) Running C) Jumping D) Standing still,B,Action Perception
+sample_274,80,What text appears on the loading screen during the video's progression?,"A) Starting FiveM - We're getting there.  
+B) Loading Game - Please wait.  
+C) FiveM Init - Connecting.  
+D) Game Start - Loading assets.",A,Text-Rich Understanding
+sample_305,80,What is the movement direction of the pedestrian wearing black clothing during the middle portion of the video?,A) Towards the camera B) Away from the camera C) From left to right D) From right to left,B,Action Perception
+sample_317,80,What is the consistent color of the bag carried by the person walking across the scene?,A) Blue B) Red C) Black D) White,B,Attribute Perception
+sample_343,80,What is the direction of movement of the glass container with white paper during the sequence?,A) Leftward B) Rightward C) Upward D) Downward,A,Action Perception
+sample_347,80,"In the sequence, after the food items are topped, in which direction are they moved before being placed on the paper?","A) Left to right  
+B) Right to left  
+C) Upward  
+D) Downward",A,Action Perception
+sample_371,80,"After pouring the liquid into the measuring cup, what action does the person perform next?","A) Cap the bottle  
+B) Place the cup on the counter  
+C) Wipe the counter  
+D) Pour into another container",A,Action Perception
+sample_379,80,What action is the person performing with the plastic bag across the sequence of frames?,"A) Tying the bag shut  
+B) Opening the bag  
+C) Closing the bag  
+D) Discarding the bag",B,Action Perception
+sample_392,80,What appears on the construction barrier as the vehicle progresses along the road?,"A) A plain green surface with text  
+B) A mural depicting multiple people  
+C) A series of advertisements  
+D) A construction schedule chart",B,Text-Rich Understanding
+sample_403,80,What is the movement of the black SUV positioned on the left side of the street throughout the video sequence?,"A) It advances forward into the intersection  
+B) It reverses backward  
+C) It remains stationary  
+D) It turns right",A,Action Perception
+sample_416,80,"As the video progresses, what new element becomes visible in the latter frames?","A) A second airplane flying nearby  
+B) The interior of the aircraft’s cockpit  
+C) A large cloud formation  
+D) A river delta",B,Object Perception
+sample_448,80,"During the sequence, where is the small brown item placed in relation to the green box?","A) To the left of the green box  
+B) To the right of the green box  
+C) On top of the green box  
+D) Not placed on the shelf",B,Spatial Understanding
+sample_459,80,How does the driver's hand interact with the steering wheel during the video sequence?,"A) The driver keeps both hands off the steering wheel for the entire sequence
+B) The driver places one hand on the steering wheel and keeps it stationary
+C) The driver places one hand on the steering wheel and makes small adjustments to its position
+D) The driver alternates between using both hands and one hand on the steering wheel",C,Action Perception
+sample_488,80,"During the race sequence, which driver appears on the leaderboard for the first time?",A) #57 Junyi B) #123 J. Carvers C) #21 R. Laney D) #28 T. Treadless,D,Text-Rich Understanding
+sample_1,90,What is the jersey number of the player in white controlling the ball near the center circle during the 36th minute?,A) 22  B) 23  C) 24  D) 25,C,Text-Rich Understanding
+sample_8,90,What number is displayed on the front of the player's white jersey in the penalty area?,A) 3 B) 8 C) 5 D) 7,A,Text-Rich Understanding
+sample_10,90,What shape is visible on the man's shirt?,"A) A red circle  
+B) A black square  
+C) A white triangle  
+D) A yellow star",C,Attribute Perception
+sample_42,90,What ingredient is labeled on the jar the person is holding?,A) Soy Sauce B) Miso C) Salsa D) Jam,B,Text-Rich Understanding
+sample_67,90,What name appears below the black circular design on the white sheet?,A) Ryan B) Rylan C) Kyan D) Royan,A,Text-Rich Understanding
+sample_68,90,What brand name is visible on the precision tool being used to place the small floral element?,A) Craft B) Cricut C) Cricut D) Cutco,B,Text-Rich Understanding
+sample_81,90,What year is specified for the film 'His Girl Friday' in the lesson's viewing assignment?,A) 1910 B) 1940 C) 1970 D) 1990,B,Text-Rich Understanding
+sample_89,90,"According to the whiteboard, what year is associated with the film 'Singin' in the Rain'?",A) 1942 B) 1952 C) 1962 D) 1972,B,Text-Rich Understanding
+sample_145,90,What color are the runner's shoes?,A) Black B) Gray C) White D) Blue,C,Attribute Perception
+sample_153,90,What is the pattern on the gold vest worn by the man in the white shirt?,"A) Solid color with no visible pattern  
+B) Intricate floral design  
+C) Simple geometric shapes  
+D) Alternating stripes",B,Attribute Perception
+sample_169,90,What is the full name displayed on the large advertisement banner on the beige building?,A) Auchan B) Auchan EST C) Auchan Ouest D) Carrefour,B,Text-Rich Understanding
+sample_179,90,What is the number displayed on the back of the cyclist wearing a red and black jersey?,A) 817 B) 821 C) 827 D) 871,B,Text-Rich Understanding
+sample_180,90,What text appears directly below the truck symbol on the road sign visible along the right side of the road?,A) 5 km B) 3 km C) 2 km D) 4 km,B,Text-Rich Understanding
+sample_181,90,"What is the race number displayed on the back of the cyclist wearing the ""UNITED"" jersey?",A) 828 B) 818 C) 888 D) 282,A,Text-Rich Understanding
+sample_187,90,What item is the player hovering over in the inventory?,"A) Cobweb
+B) Cobblestone
+C) Coal
+D) Copper",A,Object Perception
+sample_192,90,What text appears on the screen during the sequence?,A) Success! B) Done! C) Perfect! D) Great!,C,Text-Rich Understanding
+sample_245,90,What text is visible on the side of the wheelchair during the hallway scene?,A) F1 B) F2 C) FL D) F?,A,Text-Rich Understanding
+sample_256,90,What does the Korean subtitle below the English text state?,"A) 다행히 크게 다치지 않은 선수  
+B) 다행히 크게 부상하지 않은 선수  
+C) 선수가 크게 다치지 않았습니다  
+D) 다행히 선수는 무사합니다",A,Text-Rich Understanding
+sample_291,90,What text is displayed above the entrance to the parking structure?,A) HIGH CLEARANCE B) MAX HEIGHT C) MAX CLEARANCE D) MAY CLEARANCE,C,Text-Rich Understanding
+sample_312,90,What text is visible on the back of the blue jacket worn by the person walking on the right side of the pathway?,A) UCLA B) UCSD C) USC D) UCR,A,Text-Rich Understanding
+sample_315,90,What text is displayed on the side of the bus visible in the scene?,A) UNIVERSAL STUDIOS B) HOLLYWOOD TOUR C) DISNEY LAND D) CITY TRANSPORT,A,Text-Rich Understanding
+sample_320,90,What is the shape of the wall-mounted light fixtures visible along the tunnel walls?,A) Circular B) Rectangular with rounded top C) Triangular D) Square,B,Attribute Perception
+sample_360,90,What is the precise weight reading (in grams) displayed on the digital scale while measuring coffee grounds?,A) 17.9 B) 18.4 C) 19.0 D) 19.6,B,Text-Rich Understanding
+sample_364,90,What numerical value is displayed on the digital scale beneath the glass?,A) 98.0  B) 98.5  C) 99.0  D) 98.6,B,Text-Rich Understanding
+sample_371,90,What value is displayed on the digital scale in the lower left portion of the frame?,A) 0.0 B) 8.8 C) 1.0 D) 0.8,A,Text-Rich Understanding
+sample_380,90,What word is painted on the road surface in the traffic lane to indicate a specific route restriction?,A) ONLY B) TUNNEL C) LANE D) TUNEL,B,Text-Rich Understanding
+sample_387,90,What word appears on the advertisement displayed on the yellow taxi on the left side of the street?,A) MORMON B) MOON C) MORON D) MOUNTAIN,A,Text-Rich Understanding
+sample_391,90,What is the first word visible on the food truck parked on the right side of the street?,A) FROST B) CREAM C) SWEET D) COOL,A,Text-Rich Understanding
+sample_401,90,What is the name of the hair salon prominently displayed on the building corner?,A) Rani B) Kani C) Vani D) Ani,A,Text-Rich Understanding
+sample_403,90,"Which flag is displayed adjacent to the ""MOMA"" sign on the building facade?",A) American flag  B) French flag  C) No flag  D) Union Jack,A,Spatial Understanding
+sample_407,90,What color is the label on the large glass bottle positioned on the bar counter?,A) Red B) Blue C) Beige D) Green,C,Attribute Perception
+sample_436,90,What accessory is visible on the person's right wrist while selecting items from the shelf?,A) Gold bracelet B) Silver watch C) Black wristband D) Red string,A,Attribute Perception
+sample_448,90,What is the price displayed on the green shelf label directly below the product being handled?,A) 13.50 B) 13.90 C) 13.95 D) 14.00,C,Text-Rich Understanding
+sample_2,90,What is the score displayed on the scoreboard during the sequence?,A) 0-0 B) 1-0 C) 2-1 D) 1-1,B,Text-Rich Understanding
+sample_6,90,"During the team lineup sequence, in which direction does the head of the player second from the left move?",A) Upward B) Downward C) Leftward D) Rightward,B,Action Perception
+sample_25,90,What object does the child interact with using their feet during the movement sequence?,A) A green boot B) A yellow ball C) A blue stick D) A red toy,C,Object Perception
+sample_50,90,"In the video, which direction is the text ""Kaylin"" moved relative to the circular pattern?",A) Upward B) Downward C) Leftward D) Rightward,A,Spatial Understanding
+sample_73,90,What number is added to the circle diagram immediately after the number 4 in the sequence?,A) 5 B) 6 C) 7 D) 8,A,Text-Rich Understanding
+sample_75,90,"During the sequence, in which direction do the person's hands move?",A) Upward B) Downward C) Outward from the body D) Inward toward the body,C,Action Perception
+sample_110,90,What object does the person pick up with their right hand during the sequence?,A) Spoon B) Chopstick C) Fork D) Knife,B,Action Perception
+sample_125,90,In which direction does the left hand move the yellow material during the sequence?,A) Left  B) Right  C) Up  D) Down,A,Action Perception
+sample_126,90,"During the painting sequence, in which direction does the brush move while applying paint to the lower lip?","A) Upward  
+B) Downward  
+C) Left to right  
+D) Right to left",B,Action Perception
+sample_134,90,In which direction does the paintbrush move while applying color to the lower lip?,A) Left to right B) Right to left C) Upward D) Downward,A,Action Perception
+sample_153,90,In which direction do the hands of the man on the right move as he buttons his vest?,A) Upward B) Downward C) Left to right D) Right to left,B,Action Perception
+sample_165,90,What is the total change in the cadence (strokes per minute) from the beginning to the end of the video?,A) +4 B) +6 C) +2 D) 0,B,Action Perception
+sample_169,90,"What does the numerical value displayed as ""1/MIN"" change to during the video sequence?",A) 70 B) 50 C) 20 D) 0,D,Text-Rich Understanding
+sample_170,90,"What is the trend of the heart rate value (labeled ""1/min"") over the video sequence?","A) It remains constant at 75  
+B) It decreases from 75 to 70  
+C) It increases from 75 to 79  
+D) It fluctuates between 74 and 76",C,Action Perception
+sample_178,90,What is the trend of the vehicle's speed during the sequence?,A) Decreasing B) Constant C) Increasing D) Fluctuating,C,Text-Rich Understanding
+sample_181,90,"During the sequence where a cyclist overtakes the group, what word is clearly visible on the back of their jersey?",A) UNITED B) UNITED STATES C) UNIT D) UNITE,A,Text-Rich Understanding
+sample_195,90,"What phrase appears immediately after ""and also a temporary"" in the video's text sequence?",A) wheat farm as well. B) sheep farm C) temporary farm D) anmpora,A,Text-Rich Understanding
+sample_207,90,What is the direction of the hand's movement around the structure between placing blocks on the left side and approaching to place blocks on the right side?,A) Clockwise B) Counterclockwise C) Directly across the top D) Moving back to the starting position,A,Action Perception
+sample_260,90,"During the driving sequence, what action does the driver perform with their right hand?","A) Steers the vehicle without interruption  
+B) Shifts the transmission gear  
+C) Adjusts the rearview mirror  
+D) Uses the turn signal lever",B,Action Perception
+sample_261,90,What specific action does the co-driver perform with the navigation notes during the sequence?,A) Tearing out a page B) Flipping a page C) Crumpling the papers D) Setting the papers aside,B,Action Perception
+sample_263,90,"During the segment where the car passes under the ""YOKOHAMA"" overhead signage, in which direction does the driver turn the steering wheel?","A) Left  
+B) Right  
+C) Straight  
+D) Alternating between left and right",B,Action Perception
+sample_264,90,What action does the driver's right hand perform between the initial and subsequent frames of the video?,"A) Remains stationary on the steering wheel  
+B) Adjusts the rearview mirror  
+C) Shifts gears  
+D) Taps the dashboard",C,Action Perception
+sample_265,90,"In the video, what direction do the person's legs move during the exercise sequence?",A) Upward B) Downward C) Leftward D) Rightward,A,Action Perception
+sample_268,90,What movement does the driver's right hand perform during the sequence?,"A) Stays on the gear shift  
+B) Moves from the steering wheel to the gear shift  
+C) Moves from the gear shift to the steering wheel  
+D) Wavers near the dashboard",C,Action Perception
+sample_273,90,What is the highest speed value displayed on the speedometer during the video sequence?,A) 47 B) 52 C) 56 D) 60,C,Attribute Perception
+sample_277,90,"After navigating through the store, what action does the character perform?","A) Enters a storage area  
+B) Exits the building  
+C) Turns to face the camera  
+D) Opens a display case",B,Action Perception
+sample_285,90,"In the video, which direction does the character in the green vest move after standing up from the counter?","A) Towards the front entrance  
+B) Towards the left side of the store  
+C) Towards the back of the store  
+D) Towards the right side of the store",C,Action Perception
+sample_291,90,What is the maximum speed reached by the vehicle during the sequence?,A) 36 B) 33 C) 40 D) 42,D,Text-Rich Understanding
+sample_302,90,"As the video progresses, what structure gradually replaces the large hedge on the right side of the sidewalk?",A) A stone wall B) A wooden fence C) A metal gate D) A grassy embankment,B,Object Perception
+sample_341,90,Which hand is holding the receipt during the sequence?,A) Left  B) Right  C) Both hands  D) Neither hand,A,Spatial Understanding
+sample_352,90,What action is the person performing with the plastic container during the sequence?,"A) Rinsing it under the faucet  
+B) Placing it into the dishwasher  
+C) Storing it in a cabinet  
+D) Filling it with water",B,Action Perception
+sample_366,90,"After steaming the milk, in which direction does the hand move the metal pitcher?","A) Towards the sink  
+B) Towards the coffee grinder  
+C) Towards the counter  
+D) Towards the refrigerator",A,Action Perception
+sample_385,90,Which vehicle enters the left lane from the left side as the video progresses?,A) Yellow taxi  B) Black SUV  C) Black sedan  D) White bus,C,Action Perception
+sample_386,90,Which company's truck enters the intersection from the right side during the sequence?,A) U-Haul B) Penske C) Ryder D) FedEx,B,Object Perception
+sample_392,90,How many pedestrians are walking together on the left sidewalk by the end of the video sequence?,A) 1 B) 2 C) 3 D) 0,B,Counting
+sample_395,90,Which vehicle appears behind the yellow taxi as it travels forward through the city street?,"A) Black sedan  
+B) White SUV  
+C) Red convertible  
+D) Blue hatchback",A,Object Perception
+sample_414,90,What item is the person placing into the shopping cart during the sequence?,"A) 6-pack of canned fruit  
+B) 4-pack of canned fruit  
+C) Single can of fruit  
+D) Box of cereal",B,Object Perception
+sample_438,90,What action are the hands performing with the product during the sequence?,"A) Picking up the product from the shelf  
+B) Placing the product onto the shelf  
+C) Adjusting the product's position on the shelf  
+D) Removing the product from the display",B,Action Perception
+sample_458,90,Which vehicle's turn signal is activated during the sequence?,A) Black car on the left B) Silver SUV in the center C) Gray hatchback on the right D) White van ahead,C,Action Perception
+sample_474,90,How many people are visible near the colorful striped artwork as the camera pans to the left?,A) 1 B) 2 C) 3 D) 0,B,Counting
+sample_480,90,"During the camera's rightward pan, what new visual element becomes clearly visible on the white wall adjacent to the blue partition?","A) A QR code  
+B) A small painting  
+C) A security camera  
+D) A wall sconce",A,Object Perception
+sample_484,90,"During the sequence, does the background behind the car exhibit any horizontal visual artifacts?","A) Yes, in the middle frames  
+B) Yes, in the initial frames  
+C) No, the background remains clear  
+D) Yes, throughout the entire sequence",C,Attribute Perception
+sample_486,90,"During the replay sequence, which vehicle overtakes the blue car on the inner curve of the track?","A) Pink car with flower decal  
+B) Green car with blue stripes  
+C) Orange race car  
+D) Red fire truck",A,Action Perception
+sample_2,100,"In the crowd, what object is the fan in the red-and-white checkered shirt holding up with his right hand?",A) A red scarf B) A smartphone C) A plastic bottle D) A small flag,B,Object Perception
+sample_12,100,What decorative pattern is visible on the large white plate positioned to the left of the wooden cutting board?,"A) No visible pattern  
+B) Concentric circles  
+C) Vertical stripes  
+D) Polka dots",B,Attribute Perception
+sample_27,100,What type of plant is visible in the window behind the stove?,"A) Green ferns  
+B) White orchids  
+C) Potted herbs  
+D) Succulents",B,Object Perception
+sample_50,100,What color are the selection handles surrounding the circular design when it is selected?,A) Pink B) Purple C) Gray D) Blue,C,Attribute Perception
+sample_62,100,"What descriptive phrase appears above the word ""Glitter"" on the glitter tube?",A) Regular B) Super Chunky C) Extra Fine D) Holographic,B,Text-Rich Understanding
+sample_82,100,"What year is specified for the film ""The Third Man"" in the viewing assignment on the whiteboard?",A) 1944 B) 1949 C) 1950 D) 1999,B,Text-Rich Understanding
+sample_88,100,What is the orientation of the stripes on the person's tie?,A) Vertical B) Horizontal C) Diagonal D) Curved,C,Attribute Perception
+sample_141,100,What specific shape is formed by the small stroke being added to the right side of the main painted line?,A) A rounded curve B) A gentle arc C) A sharp V-shape D) A straight extension,C,Attribute Perception
+sample_164,100,What is the speed value shown in the circular blue indicator when the gradient percentage displays 7%?,A) 17 B) 18 C) 19 D) 20,B,Text-Rich Understanding
+sample_182,100,"At the moment the distance indicator updates to 78.2 km, what is the displayed gradient percentage?",A) -5% B) -4% C) -3% D) -6%,B,Text-Rich Understanding
+sample_245,100,What number is displayed on the wheelchair wheel?,A) 1 B) 2 C) 0 D) 7,A,Text-Rich Understanding
+sample_259,100,What is the exact subtitle text displayed during the game at approximately 4 seconds?,A) A free role play where I can move freely B) A free role playing where I can move freely C) A free role play where I can move freely with others D) A free role playing where I can move freely and easily,B,Text-Rich Understanding
+sample_287,100,What time is shown on the smartphone overlay in the video?,A) 12:00  B) 14:00  C) 13:00  D) 15:00,B,Text-Rich Understanding
+sample_294,100,What is the altitude in meters displayed on the screen when the gradient shows -6.5%?,A) 1848 B) 1843 C) 1858 D) 1833,B,Text-Rich Understanding
+sample_302,100,What text is visible on the sign attached to the wooden fence on the left side of the alley?,A) NO ENTRY B) PARKING ONLY C) NO PARKING D) PRIVATE PROPERTY,C,Text-Rich Understanding
+sample_310,100,What word is prominently displayed on the green wall above the candy shelves in the shop?,A) CHOCOLATE B) CANDY C) SWEETS D) TREATS,A,Text-Rich Understanding
+sample_333,100,What is the name of the street indicated by the brown directional sign visible in the frames?,A) Nathan Road B) Nathan Street C) Salisbury Road D) Salisbury Street,C,Text-Rich Understanding
+sample_340,100,What specific soda product is visible on the wooden counter in the background?,"A) Regular Coca-Cola
+B) Diet Coke
+C) Pepsi
+D) Sprite",B,Object Perception
+sample_368,100,What is the name of the coffee brand printed on the bag?,A) ARIA CAFE B) MOCHA CAFE C) ANYA CAFE D) ESPRESSO CAFE,C,Text-Rich Understanding
+sample_380,100,What is written on the white rectangular traffic sign visible on the left side of the road?,"A) ONE WAY  
+B) NO PARKING  
+C) NO TURNS  
+D) NO THRU",C,Text-Rich Understanding
+sample_389,100,"What is the phone number displayed on the ""Little Italy Pizza"" storefront sign?","A) 212-481-5200  
+B) 212-487-5200  
+C) 212-481-5220  
+D) 212-418-5200",A,Text-Rich Understanding
+sample_390,100,What text is displayed on the red banner attached to the building on the left side of the street?,"A) MANCIA SOHO  
+B) MANCINI SOHO  
+C) MANCINO SOHO  
+D) MANCIN SOHO",B,Text-Rich Understanding
+sample_404,100,What is the color of the beverage being poured into the stemmed glass on the bar?,A) Red B) Yellow C) Orange D) Pink,C,Attribute Perception
+sample_426,100,What word is printed on the person's shirt?,A) FLY B) SKY C) RUN D) NO TEXT,A,Text-Rich Understanding
+sample_465,100,What phrase is clearly visible on the poster featuring a person in a yellow jacket?,A) JUST GO ON  B) SHOW MUST GO ON  C) KEEP GOING  D) NEVER STOP,B,Text-Rich Understanding
+sample_481,100,What object is placed on top of the television set?,"A) A small blue toy car  
+B) A blue rectangular box  
+C) A blue book  
+D) A remote control",A,Object Perception
+sample_482,100,What text is visible on the front bumper of the white race car?,A) Suzuka B) Suzuko C) Suzuki D) Suzume,A,Text-Rich Understanding
+sample_486,100,"According to the standings displayed, what is the name of the driver in third place?",A) Aaron Clocker B) Aaron Cloker C) Aaron Clucker D) Aaron Clacker,A,Text-Rich Understanding
+sample_490,100,What letters are displayed on the orange and white billboard on the hillside during the race?,A) BB B) DD C) PP D) QQ,B,Text-Rich Understanding
+sample_4,100,What specific gesture does the Barcelona player make immediately after the play?,A) Waving to the crowd B) Pointing to the sky C) Touching his nose D) Clapping his hands,C,Action Perception
+sample_7,100,What specific gesture does the player wearing number 10 perform toward his teammate as they approach each other during the sequence?,A) Waving B) Shaking hands C) Pointing D) Thumbs-up,B,Action Perception
+sample_30,100,What subtle movement does the small animal exhibit while being held in the video?,"A) Nuzzling toward the person’s shoulder  
+B) Struggling to break free from the person’s arms  
+C) Looking away from the person’s face  
+D) Remaining completely motionless",A,Action Perception
+sample_31,100,What kitchen utensil does the person use to mix the eggs in the glass bowl?,A) Fork B) Spoon C) Whisk D) Spatula,C,Object Perception
+sample_61,100,"Which action is selected from the context menu for the ""Emily"" text element in the video?",A) Paste B) Copy C) Delete D) Weld,B,Action Perception
+sample_67,100,What brand name is visible on the tool used to remove the black shapes from the white sheet during the process?,A) Silhouette B) Cricut C) Brother D) Epson,B,Text-Rich Understanding
+sample_82,100,"What year is added to the ""Viewing"" line on the whiteboard during the video?",A) 1949 B) 1950 C) 1948 D) 1951,A,Text-Rich Understanding
+sample_113,100,"What text appears directly below the number ""8"" in the Snapdragon logo during the animation sequence?",A) Gen 1  B) Gen 2  C) Plus  D) X,A,Text-Rich Understanding
+sample_164,100,What is the highest gradient percentage displayed during the video?,A) 5% B) 6% C) 7% D) 8%,D,Text-Rich Understanding
+sample_174,100,"What is the sequence of the numerical value displayed next to ""1/MIN"" across the first five frames?","A) 77, 77, 77, 77, 77  
+B) 77, 75, 76, 76, 75  
+C) 77, 76, 75, 75, 76  
+D) 75, 76, 77, 76, 75",B,Text-Rich Understanding
+sample_175,100,What is the highest power output (in watts) displayed during the cycling sequence?,A) 9 B) 96 C) 84 D) 245,D,Text-Rich Understanding
+sample_176,100,What is the maximum speed value (in km/h) displayed on the speed indicator during the video sequence?,A) 22 B) 23 C) 24 D) 25,D,Text-Rich Understanding
+sample_198,100,How many square holes are visible in the grassy area as the camera moves over the structure?,A) 2 B) 3 C) 4 D) 5,B,Counting
+sample_202,100,In which direction does the hand move the yellow block to attach it to the existing structure?,A) Left to right B) Right to left C) Upward D) Downward,A,Action Perception
+sample_216,100,How many ice creams is the person in the blue shirt holding when they enter the scene?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_260,100,What specific action does the driver's right hand perform during the sequence?,"A) Adjusts the rearview mirror  
+B) Shifts gears  
+C) Rests on the center console  
+D) Taps rhythmically on the steering wheel",B,Action Perception
+sample_273,100,What is the highest numerical value displayed on the speedometer during the sequence?,A) 038 B) 042 C) 049 D) 052,D,Attribute Perception
+sample_288,100,"Based on the speed indicator visible throughout the driving sequence, what was the highest speed value displayed?",A) 59 B) 60 C) 61 D) 62,D,Text-Rich Understanding
+sample_308,100,In which direction does the individual near the yellow taxi move as the video progresses?,A) Left B) Right C) Toward the street D) Away from the camera,A,Action Perception
+sample_330,100,What action does the individual on the right side of the street perform after moving down the cobblestone path?,"A) Continues walking without stopping  
+B) Sits down on a bench  
+C) Turns around and walks back  
+D) Enters a nearby building",B,Action Perception
+sample_342,100,What number appears at the top of the receipt shown during the sequence?,A) 200 B) 202 C) 210 D) 220,D,Text-Rich Understanding
+sample_349,100,"After wrapping the burger, in which direction does the person move the wrapped item?",A) Left B) Right C) Up D) Down,B,Action Perception
+sample_5,110,What sequence of numbers appears directly below the score on the match scoreboard?,A) 1 2 3 4 5 B) 1 2 3 4 C) 1 2 3 D) 1 2,A,Text-Rich Understanding
+sample_7,110,What number is displayed on the back of the player's jersey as he runs toward the ball to take the penalty kick?,A) 10 B) 12 C) 20 D) 22,C,Text-Rich Understanding
+sample_8,110,What is the number on the back of the player's white jersey in the close-up shot?,A) 2 B) 3 C) 5 D) 7,B,Text-Rich Understanding
+sample_13,110,What ingredient is visible in the small white bowl placed near the cutting board?,A) Sliced almonds B) Chopped garlic C) Sunflower seeds D) Sesame seeds,A,Object Perception
+sample_30,110,What phrase is visible on the wall sign behind the woman in the initial scene?,A) FAMILY IS ALWAYS B) HOME SWEET HOME C) LOVE WINS D) HAPPY HOME,A,Text-Rich Understanding
+sample_37,110,What time setting is indicated by the kitchen timer visible on the counter?,A) 5 minutes B) 10 minutes C) 20 minutes D) 30 minutes,C,Text-Rich Understanding
+sample_67,110,What brand name is visible on the marker being used in the video?,A) Cricut B) Crayola C) Sharpie D) Pilot,A,Text-Rich Understanding
+sample_78,110,"What year is listed next to ""Raiders of the Lost Ark"" on the whiteboard?",A) 1979 B) 1981 C) 1987 D) 1992,B,Text-Rich Understanding
+sample_84,110,"What year is specified in parentheses after ""Pride + Prejudice"" in the viewing assignment section of the whiteboard?",A) 1995 B) 2003 C) 2005 D) 2007,C,Text-Rich Understanding
+sample_87,110,How is the microphone placement distance specified on the whiteboard?,"A) 6-12 from source
+B) 6""-12"" from source
+C) 6 to 12 inches from source
+D) 6 to 12 cm from source",B,Text-Rich Understanding
+sample_138,110,What color is the handle of the paintbrush being used?,A) White B) Pink C) Light purple D) Blue,C,Attribute Perception
+sample_144,110,What text appears at the bottom of the exercise panels in the video?,A) (BOOST REPS TO 3-5) B) (BOOST REPS TO 4-6) C) (BOOST SETS TO 4-6) D) (INCREASE REPS TO 4-6),B,Text-Rich Understanding
+sample_154,110,What pattern is visible on the man’s waistcoat when he moves his arms?,A) Solid white B) Striped C) Floral D) Polka dots,C,Attribute Perception
+sample_156,110,What color is the small container on the table that has gray items placed upon it?,A) Red B) Brown C) Orange D) Yellow,C,Attribute Perception
+sample_166,110,What is the current distance reading displayed on the screen in the latest frame?,"A) 26.0 KM  
+B) 26 J KM  
+C) 26.1 KM  
+D) 26.2 KM",C,Text-Rich Understanding
+sample_181,110,What is the name of the building visible on the right side of the street during the cycling event?,A) Boxley Building B) Bradley Building C) Baxley Building D) Buckley Building,A,Object Perception
+sample_187,110,"What tool is the player currently holding, as indicated by the item name displayed on the screen?",A) Sword B) Pickaxe C) Shears D) Axe,C,Text-Rich Understanding
+sample_193,110,What phrase appears as text overlay when the player is holding a pickaxe?,"A) ""a bunch of iron ore"" B) ""a bunch of coal ore"" C) ""a bunch of copper ore"" D) ""a bunch of gold ore""",C,Text-Rich Understanding
+sample_217,110,How many yellow arrows point downward to the numbers in the data set?,A) 4 B) 5 C) 3 D) 6,B,Counting
+sample_241,110,What is interacting with the wardrobe door during the sequence?,"A) A hand  
+B) A book  
+C) A lamp  
+D) A tennis racket",A,Action Perception
+sample_252,110,What brand name is visible on the driver's racing gloves?,A) OMP B) Sparco C) Alpinestars D) Puma,B,Text-Rich Understanding
+sample_255,110,What does the subtitle state during the replay sequence?,"A) Pass success for the Korean team  
+B) Pass miss for the Korean team  
+C) Pass error by US team  
+D) Goal replay confirmed",B,Text-Rich Understanding
+sample_258,110,What is the jersey number of the player in the blue and yellow uniform running near the sideline during the replay sequence?,A) 14 B) 41 C) 47 D) 74,B,Attribute Perception
+sample_259,110,What text appears on screen during the sequence?,A) Goal! B) Save! C) Assist! D) Score!,B,Text-Rich Understanding
+sample_282,110,What department names are visible on the building sign to the left of the entrance?,"A) Radiology, Ultrasound, Endoscopy, Medical Physics, Emergency Room
+B) Radiology, Cardiology, Oncology, Neurology, Emergency Department
+C) Imaging, Diagnostics, Treatment, Emergency, Pharmacy
+D) X-ray, Ultrasound, MRI, CT Scan, Emergency",A,Text-Rich Understanding
+sample_283,110,What symbol is displayed on the building above the entrance?,A) A shield B) A star C) A circle D) A triangle,A,Object Perception
+sample_289,110,What time is displayed on the smartphone screen visible in the game interface?,A) 17:29 B) 17:30 C) 17:31 D) 18:00,B,Text-Rich Understanding
+sample_290,110,What is the speed value shown on the vehicle's speedometer at the moment it first decreases?,A) 075 B) 074 C) 076 D) 073,B,Text-Rich Understanding
+sample_291,110,What is the current speed value displayed on the vehicle's dashboard interface?,A) 000 B) 001 C) 007 D) 010,B,Text-Rich Understanding
+sample_303,110,What administrative region of France is explicitly mentioned in the text on the side of the train at the station?,"A) Provence-Alpes-Côte d'Azur  
+B) Brittany  
+C) Hauts-de-France  
+D) Normandy",C,Text-Rich Understanding
+sample_307,110,What is the Japanese text written on the road in the direction of the camera's movement?,A) 歩行者  B) 止まれ  C) 進入禁止  D) 車両,B,Text-Rich Understanding
+sample_311,110,What brand logo is visible on the chest of the man wearing a dark shirt and an orange strap in the foreground?,A) Nike B) Adidas C) Under Armour D) Puma,C,Text-Rich Understanding
+sample_312,110,What eyewear is worn by the man in the blue shirt on the left side of the walkway?,"A) Sunglasses  
+B) Regular glasses  
+C) No eyewear  
+D) A visor",A,Attribute Perception
+sample_313,110,What is the text visible on the parking space marker in the foreground?,A) RESERVED N 1-19 B) RESERVED M 1-19 C) RESERVED N 1-20 D) RESERVED P 1-19,A,Text-Rich Understanding
+sample_351,110,What brand name is printed on the blue milk carton visible on the counter?,A) WILD OATS B) WHOLE FOODS C) WILD DAIRY D) OATS WILD,A,Text-Rich Understanding
+sample_352,110,What brand name is visible on the green cleaning product bottle near the sink?,A) Fairy B) Ajax C) Dawn D) Palmolive,A,Text-Rich Understanding
+sample_354,110,What number is displayed on the digital scale in the final frame of the video?,A) 16.5  B) 17.0  C) 17.5  D) 18.0,C,Text-Rich Understanding
+sample_374,110,What color is the most prominent car visible through the window in the background?,A) Red B) Black C) Blue D) White,B,Attribute Perception
+sample_384,110,What street number is shown on the street sign visible on the left side of the road as the vehicle approaches the intersection?,A) 31st St B) 32nd St C) 33rd St D) 34th St,C,Text-Rich Understanding
+sample_386,110,What text is visible on the side of the white van positioned near the crosswalk?,A) POLICE B) AMBULANCE C) EMERGENCY D) SECURITY,A,Text-Rich Understanding
+sample_388,110,What brand name is prominently displayed on the large central billboard above the street?,A) Budweiser B) Bud Light C) Coors Light D) Miller Lite,B,Text-Rich Understanding
+sample_405,110,What color is the cutting board being used by the bartender in the bar scene?,A) Red B) Green C) Blue D) Black,B,Attribute Perception
+sample_435,110,What color is the nail polish on the pilot's visible fingers?,A) Red B) Blue C) Black D) Clear,B,Attribute Perception
+sample_436,110,What phrase is printed on the white product boxes displayed on the shelf in the grocery aisle?,A) Lek med maten  B) Leak med maten  C) Lek med makan  D) Lek med mat,A,Text-Rich Understanding
+sample_439,110,What is the exact word printed on the front of the red and white product boxes being handled?,A) MJOLK B) MJÖLK C) MILK D) MJOL,B,Text-Rich Understanding
+sample_442,110,What is the price of the crème fraîche product displayed on the refrigerated case?,A) 15.00 B) 15.50 C) 15.90 D) 16.50,B,Text-Rich Understanding
+sample_446,110,What brand name is printed on the green boxes in the scene?,"A) Bregot  
+B) Bregott  
+C) Brego  
+D) Bregott",B,Text-Rich Understanding
+sample_448,110,What number is printed on the shelf label during the item placement action?,A) 14 B) 15 C) 16 D) 17,B,Text-Rich Understanding
+sample_451,110,What is the name of the store visible on the left side of the street in the final frame?,A) TELSTRA B) OPTUS C) VODAFONE D) WOOLWORTHS,B,Text-Rich Understanding
+sample_453,110,What color is the driver's shirt?,A) White B) Blue C) Red D) Black,B,Attribute Perception
+sample_455,110,What word is visible on the road marking as the vehicle approaches the intersection?,A) ONLY B) LANE C) EXIT D) STOP,A,Text-Rich Understanding
+sample_473,110,What color are the shoes of the person standing on the white platform in the background?,A) Blue B) Pink C) Red D) Black,C,Attribute Perception
+sample_479,110,How many circular artworks are displayed on the wall in the background?,A) 8 B) 10 C) 12 D) 15,C,Counting
+sample_7,110,What is the jersey number of the player taking the penalty kick?,A) 25 B) 28 C) 20 D) 22,C,Text-Rich Understanding
+sample_8,110,What is the number on the player's white jersey during the close-up shot?,A) 2 B) 3 C) 5 D) 8,B,Text-Rich Understanding
+sample_20,110,What detail is visible on the neckline of the woman's white top?,"A) A V-shaped design with no fasteners  
+B) Small buttons down the front  
+C) A decorative trim  
+D) A zipper",B,Attribute Perception
+sample_51,110,What color is the cap of the newly introduced bottle that appears in the second frame?,A) White B) Gold C) Silver D) Brown,B,Attribute Perception
+sample_59,110,What text is entered in the search field to filter the materials list?,A) Foil B) Cardstock C) Chrome D) Poster,A,Text-Rich Understanding
+sample_62,110,What text is visible on the blue cutting mat during the sequence?,"A) AirSoft 800 Nitrile Gloves  
+B) AirSoft 900 Nitrile Gloves  
+C) Nitrile Gloves 900 AirSoft  
+D) SoftAir 900 Nitrile Gloves",B,Text-Rich Understanding
+sample_67,110,Which brand name is printed on the white marker used by the person in the video?,A) Sharpie B) Cricut C) Crayola D) Pilot,B,Text-Rich Understanding
+sample_3,110,Which player is shown entering the field as a substitute during the substitution sequence?,A) Raphinha B) Fermín C) Pedri D) Gavi,B,Action Perception
+sample_7,110,What is the jersey number of the player taking the penalty kick?,A) 5 B) 10 C) 20 D) 25,C,Attribute Perception
+sample_28,110,In which direction does the person turn their head during the video sequence?,"A) Left  
+B) Right  
+C) Up  
+D) Down",B,Action Perception
+sample_66,110,What tool is used to transfer the gold flakes into the small container during the process?,"A) Fingers  
+B) Tweezers  
+C) Wooden stick  
+D) Metal spatula",C,Object Perception
+sample_86,110,What is the sequence of hand gestures the speaker makes while explaining the content?,"A) Open hands → Pointing → Hands together → Open hands
+B) Pointing → Open hands → Hands together → Pointing
+C) Hands together → Open hands → Pointing → Hands together
+D) Open hands → Hands together → Pointing → Open hands",A,Action Perception
+sample_156,110,What part of the man's attire does the servant assist in adjusting during the sequence?,"A) Shirt collar  
+B) Cravat  
+C) Waistband  
+D) Coat sleeves",C,Action Perception
+sample_195,110,Which item name appears on screen as the player enters the water in the video?,A) Netherite Sword B) Diamond Sword C) Enchanted Sword D) Iron Sword,A,Text-Rich Understanding
+sample_224,110,"As the person begins explaining the triangles, what is the change in hand position observed during the initial gestures?","A) From open palms to hands clasped together  
+B) From hands clasped to open palms  
+C) From hands raised to hands lowered  
+D) No change in position",A,Action Perception
+sample_255,110,What event is indicated as the reason for the replay?,"A) Goal by US team  
+B) Pass miss by Korean team  
+C) Foul on the field  
+D) Offside call",B,Action Perception
+sample_290,110,What change occurs in the numerical value displayed on the left side of the screen during the sequence?,A) Increases by 1 B) Decreases by 1 C) Stays the same D) Fluctuates randomly,B,Action Perception
+sample_318,110,What is the direction of the dinosaur's head movement throughout the sequence?,A) Upward B) Downward C) Left D) Right,B,Action Perception
+sample_326,110,In which direction is the woman walking relative to the camera's position?,A) Towards the camera B) Away from the camera C) To the left D) To the right,B,Spatial Understanding
+sample_328,110,What interaction occurs between the two individuals as they walk down the alley?,"A) They wave to each other  
+B) They hold hands  
+C) They point at buildings  
+D) They walk separately without interaction",B,Action Perception
+sample_341,110,In which direction is the green tray moved during the sequence?,A) Left B) Right C) Up D) Down,A,Action Perception
+sample_390,110,Which color of vehicle enters the frame from the right side and moves forward during the sequence?,A) Black B) White C) Red D) Blue,B,Attribute Perception
+sample_404,110,What action does the person perform with the first bottle before taking a second bottle?,"A) Placing it into the refrigerator  
+B) Shaking it  
+C) Opening it  
+D) Putting it on the floor",A,Action Perception
+sample_453,110,In which direction does the driver turn the steering wheel during the sequence?,A) Left B) Right C) No turn D) Alternating left and right,B,Action Perception
+sample_472,110,What action does the person in the black suit perform as the camera pans right?,A) Standing still B) Walking away C) Crouching down D) Raising their hand,C,Action Perception
+sample_477,110,"As the camera zooms in on the bust with the starry night section, what phrase becomes legible on its neck?","A) WE ARE ALL IN THIS TOGETHER  
+B) TOGETHER WE ARE STRONG  
+C) ALL TOGETHER NOW  
+D) WE STAND TOGETHER",A,Text-Rich Understanding
+sample_6,120,What is the number on the back of the goalkeeper's yellow jersey?,A) 0 B) 1 C) 7 D) 9,B,Text-Rich Understanding
+sample_15,120,What is written on the small white sign located on the left kitchen shelf?,A) HOT B) COLD C) NOT D) GO,A,Text-Rich Understanding
+sample_25,120,What color is the small appliance on the kitchen counter behind the stove?,A) Black B) Silver C) White D) Red,C,Attribute Perception
+sample_26,120,What brand name is visible on the black box in the background?,A) Google B) YouTube C) Amazon D) Netflix,B,Text-Rich Understanding
+sample_38,120,What word is displayed on the red sign on the shelf in the background?,A) LOVE B) HOME C) COOK D) EAT,C,Text-Rich Understanding
+sample_49,120,What color is the sticker being applied to the square paper during the crafting process?,A) Red B) Blue C) Green D) Purple,B,Attribute Perception
+sample_60,120,What text is displayed in the logo visible in the corner of the video during the sequence?,"A) CRAFT TUTORIALS  
+B) DIY CRAFT TUTORIALS  
+C) TUTORIALS ONLY  
+D) DIY TUTORIALS",B,Text-Rich Understanding
+sample_77,120,"What year is specified for the film ""The Elephant Man"" in the viewing assignment on the whiteboard?",A) 1979 B) 1981 C) 1980 D) 1982,C,Text-Rich Understanding
+sample_78,120,"What year is listed in parentheses next to the movie title in the ""VIEWING"" section of the whiteboard?",A) 1979 B) 1981 C) 1983 D) 1985,B,Text-Rich Understanding
+sample_83,120,"What year is displayed next to ""The Hudsucker Proxy"" on the whiteboard?",A) 1993 B) 1994 C) 1995 D) 1996,B,Text-Rich Understanding
+sample_84,120,"What year is specified in parentheses for the viewing assignment ""Pride & Prejudice"" on the whiteboard?",A) 1995 B) 2000 C) 2005 D) 2010,C,Text-Rich Understanding
+sample_91,120,"What year is specified for the ""BONNIE & CLYDE"" viewing assignment on the whiteboard?",A) 1967 B) 1972 C) 1969 D) 1975,A,Text-Rich Understanding
+sample_93,120,"What year is specified in parentheses after ""THE SOCIAL NETWORK"" on the whiteboard?",A) 2008 B) 2009 C) 2010 D) 2011,C,Text-Rich Understanding
+sample_96,120,"What year is specified for the documentary ""Hoop Dreams"" in the viewing assignment on the whiteboard?",A) 1992 B) 1994 C) 1996 D) 1998,B,Text-Rich Understanding
+sample_138,120,Which of the following describes the presence and location of jewelry on the hand holding the paintbrush?,"A) A ring is present on the ring finger  
+B) No jewelry is visible on the hand  
+C) A ring is present on the middle finger  
+D) A ring is present on the index finger",A,Attribute Perception
+sample_151,120,What color are the tips of the laces on the corset?,A) Black B) Silver C) Gold D) White,C,Attribute Perception
+sample_163,120,What color are the bicycle's wheel rims visible during the descent?,A) Black  B) Silver  C) Yellow  D) Red,C,Attribute Perception
+sample_165,120,What is the altitude value displayed in the final frame?,A) 279.7 m B) 280.2 m C) 280.3 m D) 280.5 m,C,Text-Rich Understanding
+sample_179,120,"According to the display in the video, what is the power output when the distance marker shows 6543 m?",A) 150 W B) 250 W C) 326 W D) 438 W,B,Text-Rich Understanding
+sample_196,120,What color is the entity near the yellow bed on the left side of the scene?,A) Blue B) Purple C) Red D) Green,B,Attribute Perception
+sample_229,120,What symbol appears immediately to the left of the number 264 at the start of the division process?,A) + (plus sign) B) × (multiplication symbol) C) ÷ (division symbol) D) No symbol,B,Text-Rich Understanding
+sample_254,120,What brand name is displayed on the yellow and black sign positioned near the right side of the trail in the forested section?,A) OAKLEY B) ROCKET C) RIDE D) SKY,A,Text-Rich Understanding
+sample_257,120,What text appears on the screen during the sequence?,A) Open B) Start C) Close D) Stop,C,Text-Rich Understanding
+sample_259,120,What is the Korean text displayed on the screen during the play?,A) 고바우 수비의 빠른 커버 B) 고바우 공격의 빠른 커버 C) 고바우 수비의 빠른 패스 D) 고바우 수비의 빠른 슛,A,Text-Rich Understanding
+sample_261,120,What number is visible on the document placed on the right side of the dashboard?,A) 100 B) 200 C) 300 D) 400,A,Text-Rich Understanding
+sample_266,120,What is the gear number displayed on the dashboard during the third frame of the sequence?,A) 4 B) 5 C) 6 D) 3,B,Text-Rich Understanding
+sample_284,120,How many months has the subscriber been subscribed according to the notification message visible in the chat?,A) 57 months B) 75 months C) 51 months D) 70 months,A,Text-Rich Understanding
+sample_291,120,What specific phrase appears in red text in the chat message during the sequence?,"A) YOU'RE STILL
+B) YOUR STILL
+C) YOU ARE STILL
+D) STILL HERE",A,Text-Rich Understanding
+sample_292,120,"At the moment the vehicle initiates a sharp left turn onto a side street, what three-digit number is displayed in the game's UI element located in the bottom-left corner?",A) 000 B) 001 C) 007 D) 011,B,Text-Rich Understanding
+sample_301,120,How many street lamps are visible along the pathway and road?,A) 2 B) 3 C) 4 D) 5,B,Counting
+sample_304,120,What is visible in the storefront window on the left side of the street?,"A) A rainbow-colored design B) A red sale sign C) A black and white photograph D) A yellow ""Open"" sign",A,Object Perception
+sample_308,120,What is the full name of the store visible on the right side of the street?,A) ILLUMIN B) ILLUMINATION C) ILLUMINATI D) ILLUMINATE,B,Text-Rich Understanding
+sample_326,120,What color are the shoes worn by the woman walking on the path?,A) Black B) Brown C) Beige D) White,D,Attribute Perception
+sample_331,120,What is the number displayed on the front of the white bus in the left lane?,A) 197 B) 179 C) 199 D) 177,A,Text-Rich Understanding
+sample_352,120,What is the brand name printed on the green bottle located on the counter beside the sink?,A) DAWN B) AJAX C) FAIRY D) PERSIL,C,Text-Rich Understanding
+sample_356,120,What text is printed below the electrical outlet on the wall?,A) 240V B) BS 1363 C) 13A D) 50Hz,B,Text-Rich Understanding
+sample_364,120,What number is displayed on the digital scale near the coffee preparation area?,A) 984 B) 964 C) 894 D) 994,A,Text-Rich Understanding
+sample_368,120,What words are clearly visible on the sign in the background of the café setting?,A) BISCUITS and FAVOURITE B) COOKIES and BEST C) CAKE and CHOCOLATE D) COFFEE and TEA,A,Text-Rich Understanding
+sample_385,120,What is the last character on the license plate of the black SUV in the center?,A) G B) 6 C) C D) Q,C,Text-Rich Understanding
+sample_386,120,What pattern is visible on the backpack of the pedestrian crossing from left to right?,A) Leopard print B) Striped C) Polka dots D) Solid color,A,Attribute Perception
+sample_390,120,What text is visible on the side of the yellow taxi in the right lane?,A) UTAH B) JUTAH C) TAXI D) NEW YORK,B,Text-Rich Understanding
+sample_409,120,What is the brand name printed on the plastic container?,A) Araven B) Draven C) Raven D) Aven,A,Text-Rich Understanding
+sample_444,120,What percentage is printed on the front of the dairy product cartons being arranged?,A) 0.5% B) 1.5% C) 2.0% D) 5.0%,A,Text-Rich Understanding
+sample_448,120,What is the price listed on the shelf label for the product?,A) 33.00 B) 33.50 C) 35.50 D) 30.50,B,Text-Rich Understanding
+sample_450,120,What number is printed on the receipt attached to the left side of the dashboard?,A) 1154 B) 1155 C) 1145 D) 1164,A,Text-Rich Understanding
+sample_459,120,What is the make of the white pickup truck visible on the left side of the road?,A) Ford B) Toyota C) Chevrolet D) Nissan,B,Attribute Perception
+sample_462,120,What is the name displayed on the plaque above the painting of the woman in the pink ruffled dress?,A) TERESA BARNARD B) TEREZA BARNARD C) THERESA BERNARD D) TERESA BERNARD,B,Text-Rich Understanding
+sample_474,120,"What location information is displayed on the blue sign featuring ""ARTTIME 1305""?","A) NEW YORK, USA | LONDON, UK  
+B) PARIS, FRANCE | TOKYO, JAPAN  
+C) DUBAI, UAE | ABIDJAN, CÔTE D'IVOIRE  
+D) SHANGHAI, CHINA | SYDNEY, AUSTRALIA",C,Text-Rich Understanding
+sample_483,120,"How many exclamation marks follow the text ""RC RC RC"" on the left side of the screen?",A) 1 B) 2 C) 3 D) 4,C,Counting
+sample_7,120,"During the sequence where the goalkeeper adjusts his gloves, what color is the wristband visible on his gloves?",A) Red  B) Blue  C) Orange  D) White,C,Attribute Perception
+sample_49,120,"In the sequence of actions, what color is the circular paper piece that the person places on the surface last?",A) Blue B) Pink C) Purple D) Gray,C,Attribute Perception
+sample_57,120,What color is the sleeve visible on the person's arm during the stirring action?,A) Black B) White C) Gray D) Blue,C,Attribute Perception
+sample_99,120,"During the explanation, in which direction do the speaker’s hands move?","A) Inward toward the chest  
+B) Outward away from the body  
+C) Upward in front of the face  
+D) Downward toward the waist",B,Action Perception
+sample_145,120,What object does the runner drop during his run?,A) a red cap B) a blue water bottle C) a yellow cone D) a black phone,B,Object Perception
+sample_165,120,What change occurs in the gradient percentage (NEIGUNG) during the sequence?,"A) Increases from 12% to 13%  
+B) Stays constant at 13%  
+C) Decreases from 13% to 12%  
+D) Fluctuates between 11% and 13%",C,Text-Rich Understanding
+sample_185,120,What is the highest value displayed in the blue circular gauge during the sequence?,A) 23 B) 24 C) 25 D) 26,C,Attribute Perception
+sample_199,120,What color is the flower that becomes visible on the ground as the player moves forward through the forest?,A) Red B) Yellow C) Blue D) White,B,Attribute Perception
+sample_217,120,What text replaces the initial label next to the bar graph during the sequence?,"A) different numbers  
+B) different heights  
+C) different colors  
+D) different shapes",B,Text-Rich Understanding
+sample_243,120,How does the bowl on the table change throughout the video?,"A) It starts on fire and then extinguishes  
+B) It remains unchanged with no fire  
+C) It catches fire in the middle frames  
+D) It catches fire in the final frames",B,Action Perception
+sample_289,120,"What app is displayed on the smartphone immediately before the one showing the ""Check Out"" button?",A) Facebook B) Twitter C) Instagram D) TikTok,B,Object Perception
+sample_316,120,What type of structure does the bus pass immediately after the brick building?,"A) A stone building with arches  
+B) A concrete wall with multiple windows  
+C) A metal fence  
+D) A wooden structure",B,Spatial Understanding
+sample_342,120,How many hands are visible as the person reaches toward the food display?,A) 1 B) 2 C) 3 D) 0,B,Counting
+sample_7,130,What is the jersey number of the player in the light blue and white striped uniform seen in the final frame?,A) 10 B) 16 C) 18 D) 19,D,Attribute Perception
+sample_62,130,What text appears on the small green label located on the front of the respirator mask?,"A) 3M  
+B) LA  
+C) A  
+D) 1A",B,Text-Rich Understanding
+sample_67,130,How many lines are visible on the basketball sticker being handled in the video?,A) 2 B) 3 C) 4 D) 5,C,Counting
+sample_75,130,"What year is shown in parentheses in the ""VIEWING"" section of the whiteboard?",A) (1939) B) (1949) C) (1959) D) (1969),C,Text-Rich Understanding
+sample_76,130,What pattern is visible on the woman’s skirt during the scene?,A) Striped B) Polka dots C) Floral D) Solid color,C,Attribute Perception
+sample_77,130,"What year is specified in the ""Viewing"" section of the whiteboard?",A) 1964 B) 1970 C) 1979 D) 1980,D,Text-Rich Understanding
+sample_97,130,"According to the whiteboard in the lesson, what frame rate is defined as ""low frame rate""?",A) UNDER 20FPS B) UNDER 24FPS C) UNDER 30FPS D) UNDER 60FPS,B,Text-Rich Understanding
+sample_117,130,"How many core phases does the RTX 4080 SUPER (Founders Edition) have, as indicated by the label in the image?",A) 10 B) 11 C) 12 D) 13,B,Text-Rich Understanding
+sample_139,130,How many fingers are visible holding the paintbrush?,A) 2 B) 3 C) 4 D) 5,B,Counting
+sample_156,130,What color are the buttons on the person's trousers?,A) Silver B) Beige C) Gold D) Brown,C,Attribute Perception
+sample_168,130,What speed limit sign is visible on the right side of the road at approximately 1.0 seconds into the video?,A) 25 B) 30 C) 40 D) 50,D,Text-Rich Understanding
+sample_187,130,How many firework rockets are present in the player's currently selected hotbar slot?,A) 10 B) 11 C) 12 D) 13,C,Counting
+sample_192,130,What is the quantity of paper displayed when hovering over the paper item in the chest inventory?,A) 10 B) 11 C) 12 D) 13,B,Counting
+sample_197,130,How many wooden planks are visible in the player's inventory bar?,A) 25 B) 26 C) 27 D) 28,B,Counting
+sample_202,130,How many studs are on the top surface of the blue Lego block?,A) 20 B) 24 C) 28 D) 32,B,Counting
+sample_204,130,How many studs are visible on the green block to the left of the central red structure at the final frame?,A) 2 B) 3 C) 4 D) 5,C,Counting
+sample_224,130,What is the first letter of the second word printed on the person's shirt?,A) A B) H C) M D) T,A,Text-Rich Understanding
+sample_241,130,What color is the small emblem on the yellow container the man is holding?,A) Red B) Blue C) Green D) Black,A,Attribute Perception
+sample_256,130,What color is the trim on the player's black shorts during the match?,A) Red B) Pink C) Blue D) White,B,Attribute Perception
+sample_268,130,What is the text printed on the driver's right glove?,A) free  B) frem  C) freem  D) freemn,C,Text-Rich Understanding
+sample_276,130,What is the exact text of the chat message from user KAM2188 visible in the stream interface?,"A) you can literally use his phone  
+B) you can use his phone  
+C) you can't use his phone  
+D) you can use the phone",A,Text-Rich Understanding
+sample_283,130,What text is visible on the package being held by the male character?,A) prime B) express C) priority D) standard,A,Text-Rich Understanding
+sample_315,130,What color are the flowers on the porch of the light green house?,A) Blue B) Yellow C) Red D) White,C,Attribute Perception
+sample_323,130,What is the license plate number on the white van near the sidewalk?,A) 45-15 B) 55-25 C) 65-35 D) 75-45,B,Text-Rich Understanding
+sample_339,130,What accessory is visible on the person's left wrist while preparing the food?,A) Silver watch B) Black wristband C) Gold bracelet D) No visible accessories,B,Attribute Perception
+sample_346,130,What number is printed on the paper ticket held by the person in the video?,A) 1442 B) 1443 C) 1424 D) 1432,A,Text-Rich Understanding
+sample_351,130,What type of milk is specified for the Flatwhite in the customer's order?,"A) Oat  
+B) Soy  
+C) Almond  
+D) Cow's milk",B,Text-Rich Understanding
+sample_361,130,What is the weight reading displayed on the digital scale in the coffee preparation scene?,A) 16.7 B) 17.6 C) 0.0 D) 18.5,B,Text-Rich Understanding
+sample_366,130,What brand name is clearly visible on the yellow carton placed on the kitchen counter next to the sink?,A) RISE HEALTH B) RUDE HEATH C) RUDE HEALTH D) RICE HEALTH,C,Text-Rich Understanding
+sample_367,130,What color is the cloth placed near the sink in the kitchen area?,A) Blue B) Pink C) White D) Red,B,Attribute Perception
+sample_371,130,What text is printed on the white coffee filter held in the person's left hand?,"A) SUN TRIN  
+B) SUN RISE  
+C) MOON TRIN  
+D) COFFEE TIME",A,Text-Rich Understanding
+sample_395,130,What is the license plate number of the black sedan in the center lane?,A) KUH-2715 B) KUH-2713 C) KUH-2718 D) KUH-2712,B,Text-Rich Understanding
+sample_396,130,How many cyclists are crossing the street in the initial frames?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_407,130,What color is the small indicator light visible near the bottles on the right side of the frame?,A) Blue B) Green C) Red D) Yellow,C,Attribute Perception
+sample_426,130,"What is the first item listed under ""Use the Elevator for Items Stocked Upstairs!"" on the green sign?",A) Grills B) Kitchen Cabinets C) Furniture D) Appliances,C,Text-Rich Understanding
+sample_428,130,What color is the roof of the isolated house visible in the landscape below during the aerial view?,A) Brown B) Green C) Red D) Gray,C,Attribute Perception
+sample_455,130,What object is visible on the left side of the road near the curb during the scene?,"A) A street sign  
+B) A traffic cone  
+C) A fire hydrant  
+D) A utility pole",B,Object Perception
+sample_35,130,How many wall-mounted decorative mirrors are visible as the person moves through the rooms?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_113,130,What clock speed value is displayed for the A710 cores during the sequence?,A) 2.80 GHz B) 2.50 GHz C) 3.00 GHz D) 3.20 GHz,B,Text-Rich Understanding
+sample_117,130,"How many core power phases does the RTX 4080 SUPER have, as indicated by the highlighted components in the video?",A) 2 B) 11 C) 13 D) 3,B,Counting
+sample_174,130,What is the highest speed value displayed on the circular speed indicator during the sequence?,A) 22 B) 23 C) 24 D) 25,C,Attribute Perception
+sample_178,130,How does the vehicle's speed change during the video sequence?,A) Increases  B) Decreases  C) Remains constant  D) Fluctuates irregularly,A,Action Perception
+sample_195,130,"What text appears immediately after ""is collect"" in the video sequence?",A) all of this B) hay right here C) going to head D) a lot of wheat,A,Text-Rich Understanding
+sample_265,130,"During the agility training sequence, what color are the cones used in the later frames of the exercise?",A) Blue B) Orange C) Yellow D) Red,B,Attribute Perception
+sample_278,130,"What is the speed of the vehicle when it approaches the intersection with the word ""STOP"" painted on the road?",A) 51 B) 52 C) 53 D) 54,B,Text-Rich Understanding
+sample_282,130,"During the inventory interaction sequence, into which section does the player move an item?",A) Player B) Backpack C) Ground D) Trucking Cargo,B,Action Perception
+sample_283,130,What object does the male character acquire during the sequence?,A) A box B) A bag C) A bottle D) A book,A,Object Perception
+sample_284,130,Which hand gesture does the streamer perform during the video?,"A) Thumbs up  
+B) Peace sign (two fingers)  
+C) Fist  
+D) Wave",B,Action Perception
+sample_287,130,"After approaching the van, which part of the vehicle does the character enter?","A) The driver's side door  
+B) The passenger side door  
+C) The rear cargo area  
+D) The roof",A,Spatial Understanding
+sample_297,130,"From the right side of the cyclist ahead, in which direction do the pedals rotate as the cyclist moves forward?",A) Clockwise B) Counterclockwise C) Back and forth D) Stationary,A,Action Perception
+sample_305,130,In which direction does the person holding a mobile phone move during the initial sequence?,"A) Left  
+B) Right  
+C) Remains stationary  
+D) Moves upward",A,Action Perception
+sample_306,130,What is the direction of movement of the person wearing black clothing on the sidewalk?,A) Toward the camera B) Away from the camera C) From left to right across the frame D) From right to left across the frame,A,Action Perception
+sample_325,130,In which direction is the person walking along the street moving relative to the camera?,A) Towards the camera B) Away from the camera C) To the left D) To the right,A,Spatial Understanding
+sample_327,130,In which direction is the person walking on the pedestrian path?,A) Toward the camera B) Away from the camera C) To the left D) To the right,A,Spatial Understanding
+sample_331,130,How many people are riding the bicycle that appears in the lower right portion of the scene during the sequence?,A) 1 B) 2 C) 3 D) 0,B,Counting
+sample_333,130,How many people are in the group on the left side of the sidewalk by the end of the sequence?,A) 3 B) 4 C) 5 D) 2,B,Counting
+sample_345,130,"After the receipt is first held up for viewing, what additional object does the person hold in their hand?",A) A cup  B) A pen  C) A bottle  D) A straw,C,Action Perception
+sample_352,130,"After rinsing the dish, in which direction does the person move it?","A) To the left  
+B) To the right  
+C) Upwards  
+D) Downwards",A,Action Perception
+sample_359,130,What action is the person performing on the red box?,A) Closing the box B) Opening the box C) Shaking the box D) Rotating the box,B,Action Perception
+sample_429,130,What sequence of hand gestures does the person on the right perform during the video?,"A) Pointing forward, then resting on the lap  
+B) Waving, then clapping  
+C) Fist pump, then crossing arms  
+D) Pointing upward, then resting on the lap",A,Action Perception
+sample_441,130,What action is the person performing with the green and white box?,"A) Placing it into the shopping cart  
+B) Holding it without moving  
+C) Putting it back on the shelf  
+D) Dropping it on the floor",A,Action Perception
+sample_466,130,What hand gesture does the man in the dark jacket perform as he walks through the gallery?,A) Waving B) Clapping C) Pointing D) Thumbs up,B,Action Perception
+sample_487,130,What type of information is displayed in the text overlay that appears partway through the video?,"A) Car specifications  
+B) Driver names  
+C) Race position  
+D) Sponsor logos",B,Text-Rich Understanding
+sample_7,140,What website URL is displayed at the bottom of the screen during the match?,A) fifa.com B) fifaworldcup.com C) fifaplus.com D) fifa.tv,C,Text-Rich Understanding
+sample_23,140,What type of cooking surface is shown in the scene where the diced meat is being prepared?,"A) Electric coil stove  
+B) Smooth ceramic cooktop  
+C) Gas stove with visible blue flames  
+D) Induction cooktop with digital controls",C,Attribute Perception
+sample_24,140,What is the shape of the pendant on the woman’s necklace?,A) Star B) Heart C) Circular D) None,C,Attribute Perception
+sample_25,140,What color is the book visible on the top shelf of the background cabinet?,A) Blue B) Green C) Red D) Yellow,C,Attribute Perception
+sample_29,140,What color is the hair visible at the bottom of the frame near the person's hands?,A) Black B) Brown C) Gray D) Blonde,C,Attribute Perception
+sample_43,140,"What is the full word used in the sign's phrase ""NEXT ___ KITCHEN"" visible during the cooking scene?",A) LEVEL B) LVL C) LEVL D) LEV,A,Text-Rich Understanding
+sample_58,140,What number appears on the green flower cutouts in the arrangement?,A) 2 B) 4 C) 6 D) 8,D,Text-Rich Understanding
+sample_62,140,What is the model name of the cutting machine shown in the video?,A) Cricut Explore B) Cricut Maker C) Cricut Joy D) Cricut Air,C,Text-Rich Understanding
+sample_68,140,What color is the sleeve visible at the wrist when the hand is using the tweezers?,A) Black B) Blue C) Pink D) White,C,Attribute Perception
+sample_71,140,What is the exact spelling of the word at the bottom right of the whiteboard?,A) STORYBOARD B) STORYBOARDS C) STORYBORED D) STORYBOAR,A,Text-Rich Understanding
+sample_78,140,What color is the helmet worn by the man riding the bicycle?,A) Black B) Gray C) Blue D) Red,C,Attribute Perception
+sample_80,140,"According to the whiteboard, how many points is the lab assignment worth?",A) 1 B) 2 C) 3 D) 4,B,Text-Rich Understanding
+sample_84,140,"What year is specified for the viewing assignment of ""Pride + Prejudice""?",A) 2005 B) 2006 C) 2004 D) 2007,A,Text-Rich Understanding
+sample_91,140,"What year is listed next to ""Bonnie + Clyde"" in the viewing assignment on the whiteboard?",A) 1963 B) 1965 C) 1967 D) 1969,C,Text-Rich Understanding
+sample_115,140,What brand name is printed in red on the foam insert inside the graphics card box?,A) NVIDIA B) Intel C) AMD D) ASUS,C,Text-Rich Understanding
+sample_126,140,What phrase is printed on the paintbrush handle?,"A) IT'S A TOOL  
+B) IT'S A TOY  
+C) IT'S A TOO  
+D) IT'S A TOP",A,Text-Rich Understanding
+sample_129,140,How many distinct black sections form the collar in the portrait?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_133,140,What color is the paint on the brush as it moves across the forehead in the artwork?,A) Blue B) Dark Gray C) Light Gray D) Brown,C,Attribute Perception
+sample_138,140,How many distinct green paint blobs are present on the palette to the right of the canvas during the segment where additional text appears in the top-left corner?,A) 0 B) 1 C) 2 D) 3,C,Counting
+sample_144,140,What color are the earbuds worn by the lifter during the exercise?,A) Black B) White C) Blue D) Not wearing earbuds,B,Attribute Perception
+sample_156,140,What color is the button visible on the person's right shirt cuff?,A) Blue B) Green C) Brown D) Black,C,Attribute Perception
+sample_164,140,What is the slope percentage (NEIGUNG) displayed in the lower-left metric panel during the later frames of the video?,A) 11% B) 12% C) 13% D) 14%,C,Text-Rich Understanding
+sample_166,140,What is the heart rate value (in beats per minute) displayed during the second frame of the video sequence?,A) 81 B) 83 C) 85 D) 87,B,Text-Rich Understanding
+sample_188,140,What color is the bird visible near the red bed?,A) Red B) Blue C) Green D) Yellow,B,Attribute Perception
+sample_196,140,What color is the figure visible on top of the distant structure?,A) Blue B) Red C) Purple D) Green,C,Attribute Perception
+sample_200,140,What type of item is scattered on the ground in the lower right portion of the cavern?,A) Coal dust B) Redstone dust C) Glowstone dust D) Nether wart,B,Object Perception
+sample_258,140,What number is displayed on the back of the blue soccer jersey worn by the player?,A) 12 B) 17 C) 72 D) 21,A,Text-Rich Understanding
+sample_261,140,What number is visible on the document placed on the right side of the dashboard?,A) 30 B) 50 C) 60 D) 80,C,Text-Rich Understanding
+sample_270,140,What color is the fire hydrant visible on the left side of the sidewalk as the character runs along the path?,A) Red B) Blue C) Yellow D) Green,C,Attribute Perception
+sample_271,140,What emblem is visible on the front of the pink sports car?,"A) A leaping jaguar
+B) A prancing horse
+C) A charging bull
+D) A roaring lion",B,Object Perception
+sample_274,140,Which word appears in a chat message on the right side of the screen during the forest scene?,A) LUMBERJACK B) LUMBERJAM C) LUMBERJIG D) LUMBERJAR,A,Text-Rich Understanding
+sample_279,140,"What is the current progress shown for the ""Unload the cargo from the truck"" step in the job list?",A) 3/6 B) 4/6 C) 5/6 D) 6/6,B,Text-Rich Understanding
+sample_300,140,What Japanese phrase is visible on the side of the white truck in the video?,A) 株式会社 B) 日本銀行 C) 三菱商事 D) 丰田自動車,A,Text-Rich Understanding
+sample_307,140,What color are the flowers visible among the greenery on the brick wall along the left side of the street?,A) Red B) Yellow C) Pink D) White,C,Attribute Perception
+sample_308,140,What character is depicted above the entrance of the building on the right side of the street?,A) Mickey Mouse B) Minnie Mouse C) Hello Kitty D) Donald Duck,C,Object Perception
+sample_317,140,What is the text displayed on the archway sign above the entrance in the background?,A) MAIN STREET B) LOWER LOT C) PARK ENTRANCE D) UPPER LEVEL,B,Text-Rich Understanding
+sample_322,140,What does the small sign on the metal beam of the escalator structure indicate?,"A) No smoking  
+B) No entry  
+C) No food or drink  
+D) No pets",A,Text-Rich Understanding
+sample_328,140,What is the graffiti text on the white utility box near the building on the right side of the alley?,A) CMT B) TMC C) MTC D) CTM,A,Text-Rich Understanding
+sample_329,140,What brand name is visible on the backpack of the person walking in the foreground?,A) Nike B) Adidas C) Wilson D) Puma,C,Text-Rich Understanding
+sample_351,140,What number is displayed on the coffee machine's screen during the preparation process?,A) 3.07  B) 3.14  C) 3.01  D) 3.05,C,Text-Rich Understanding
+sample_367,140,What color is the cloth placed on the coffee machine?,A) Red B) Pink C) Blue D) White,B,Attribute Perception
+sample_387,140,What is the color of the bag being carried by the pedestrian running across the street in the middle of the frame?,A) Black B) Blue C) Brown D) White,A,Attribute Perception
+sample_388,140,What phrase is displayed on the large electronic billboard in the final frame of the video?,"A) Taxes and Fees included  
+B) Taxes & Fees included  
+C) Taxes & Fees already included  
+D) Taxes and fees already included",C,Text-Rich Understanding
+sample_391,140,What is the name of the food truck visible on the left side of the street?,A) FROSTY  B) FROSTIE  C) FROSTEE  D) FROSTIC,C,Text-Rich Understanding
+sample_392,140,What is the destination listed on the green highway sign visible under the overpass in the final frame?,"A) FDR Drive North 495  
+B) FDR Drive South 95  
+C) Brooklyn Bridge 495  
+D) East River Drive 95",A,Text-Rich Understanding
+sample_393,140,What object is visible with the pedestrians crossing the street?,A) A backpack B) A bicycle C) A shopping bag D) A stroller,B,Object Perception
+sample_396,140,How many dogs are being walked by the person crossing the street in the lower right portion of the frame?,A) 0 B) 1 C) 2 D) 3,C,Counting
+sample_402,140,"What is the text on the street sign located on the left side of the road, beneath the overpass structure?","A) Private Parking  
+B) Public Parking  
+C) No Parking  
+D) Valet Only",B,Text-Rich Understanding
+sample_407,140,What object is the person wearing a red shirt holding in their hands?,A) A menu B) A smartphone C) A beverage D) A book,B,Object Perception
+sample_438,140,"What is the price listed for ""CRÈME FRAÎCHE"" on the shelf label?",A) 16.95 B) 17.95 C) 18.95 D) 19.95,C,Text-Rich Understanding
+sample_444,140,What is the fat percentage indicated on the milk cartons being arranged?,A) 1.5% B) 2% C) 0.5% D) 3.5%,C,Text-Rich Understanding
+sample_459,140,What text is visible on the yellow sign attached to the rearview mirror?,"A) I PLEASE HA  
+B) I PLEASE HAVE  
+C) I P EASE HA  
+D) I PLEASE HAND",A,Text-Rich Understanding
+sample_475,140,What color is present at the center of each black protrusion on the green surface?,A) Blue B) Yellow C) Red D) White,C,Attribute Perception
+sample_484,140,What text appears on the black billboard visible alongside the race track during the sequence?,A) TDR B) TIR C) TCR D) TGR,A,Text-Rich Understanding
+sample_485,140,What is the text on the right billboard in the curved section of the track?,A) TBR B) JLH C) JLR D) JKL,B,Text-Rich Understanding
+sample_487,140,What text is displayed on the billboard that appears as the cars race past it?,A) TBC  B) TBR  C) T8R  D) TB7,B,Text-Rich Understanding
+sample_498,140,What is the three-letter acronym on the billboard featuring a rabbit silhouette?,A) TBR B) TIR C) T8R D) TDR,A,Text-Rich Understanding
+sample_110,140,"During the outdoor scene, how does the person's left hand change position over time?","A) It remains stationary on the lap  
+B) It moves downward to rest on the knee  
+C) It transitions from a closed grip to an open palm gesture  
+D) It points directly toward the camera",C,Action Perception
+sample_115,140,"During the sequence where the graphics card is being lifted from the box, which brand name becomes clearly visible on the side of the card as it moves?",A) NVIDIA B) INTEL C) AMD D) ASUS,C,Text-Rich Understanding
+sample_163,140,What is the trend of the cyclist's power output (PWR) value as the video progresses?,"A) It increases steadily to over 400  
+B) It decreases steadily to zero  
+C) It fluctuates unpredictably between 100 and 300  
+D) It remains constant around 350",B,Action Perception
+sample_170,140,What is the change in the speed value from the first frame to the second frame?,A) +1 B) -1 C) 0 D) -2,B,Attribute Perception
+sample_174,140,What change occurs in the gradient percentage value displayed during the video sequence?,"A) Remains constant at 1%  
+B) Increases from 1% to 2%  
+C) Decreases from 2% to 1%  
+D) Fluctuates between 1% and 3%",B,Text-Rich Understanding
+sample_187,140,"What phrase appears immediately after ""to set up"" in the video?","A) base camp over there  
+B) base camp over here  
+C) set up camp here  
+D) build base here",B,Text-Rich Understanding
+sample_191,140,"As the player moves forward along the riverbank, what specific object becomes visible near the water’s edge?",A) A red flower B) A yellow flower C) A blue flower D) A brown mushroom,A,Object Perception
+sample_290,140,How many vehicles overtake the van during the sequence?,A) 0 B) 1 C) 2 D) 3,B,Counting
+sample_293,140,"After approaching the counter in the store, what action does the character perform?","A) Standing still  
+B) Jumping  
+C) Crouching  
+D) Running",C,Action Perception
+sample_305,140,What specific movement does the child in white clothing make during the sequence?,A) Skips along the sidewalk B) Stands still momentarily C) Raises both arms D) Turns to look back,C,Action Perception
+sample_315,140,"During the video, what movement does the person with light brown hair on the left side of the bus make?",A) Turns head to the left B) Turns head to the right C) Remains facing forward D) Looks down,A,Action Perception
+sample_318,140,What action does the dinosaur perform that coincides with the people beginning to move away?,A) Opening its mouth wide B) Stepping forward C) Shaking its head D) Raising its tail,A,Action Perception
+sample_325,140,What is the person in the white shirt walking with as they move along the left side of the street?,"A) Alone  
+B) A child  
+C) Another adult  
+D) A pet",B,Action Perception
+sample_329,140,In which direction does the person with the backpack turn as they approach the camera?,A) Left B) Right C) Forward D) Backward,A,Action Perception
+sample_356,140,"After the initial addition of coffee grounds, what happens to the weight reading on the scale as the person adjusts the grounds?","A) It decreases further to 13.9 grams  
+B) It stabilizes at 17.9 grams  
+C) It increases to 18.2 grams  
+D) It fluctuates between 17.9 and 18.2 grams",B,Action Perception
+sample_369,140,In which direction is the bottle cap being twisted to open it?,"A) Clockwise  
+B) Counterclockwise  
+C) Upward  
+D) Downward",B,Action Perception
+sample_12,150,What word is displayed on the red sign mounted on the white brick wall in the background?,A) BAKE  B) COOK  C) EAT  D) CHEF,B,Text-Rich Understanding
+sample_19,150,How many pieces of dough are visible on the plate in the close-up shot?,A) One B) Two C) Three D) Four,B,Counting
+sample_38,150,What word is printed on the wooden cutting board visible on the right side of the counter?,A) BAKE B) BREAD C) CUT D) SLICE,B,Text-Rich Understanding
+sample_46,150,What text is displayed on the white sign on the counter in the kitchen background?,A) HUT B) HOT C) HAT D) HIT,B,Text-Rich Understanding
+sample_59,150,What brand name is printed repeatedly on the double-sided tape used in the video?,"A) 3M  
+B) Scotch  
+C) Tesa  
+D) Duck",C,Text-Rich Understanding
+sample_60,150,What text appears in the bottom right corner of the video?,A) CRAFT SUPPLIES B) CRAFT TOOLS C) CRAFT MATERIALS D) CRAFT STUDIO,C,Text-Rich Understanding
+sample_74,150,What brand name is printed on the black t-shirt worn by the person running near the chain-link fence?,A) Nike B) Adidas C) Puma D) Reebok,B,Text-Rich Understanding
+sample_78,150,What year is listed for the movie in the viewing assignment on the whiteboard?,A) 1971 B) 1981 C) 1991 D) 1983,B,Text-Rich Understanding
+sample_93,150,What year is specified for the film in the viewing assignment on the whiteboard?,A) 2008 B) 2009 C) 2010 D) 2011,C,Text-Rich Understanding
+sample_100,150,Which item listed at the bottom of the whiteboard is not checked?,"A) TREATMENT
+B) SCRIPT
+C) STORYBOARD
+D) All items are checked",C,Text-Rich Understanding
+sample_109,150,What website address is visible in the lower right corner during the room scene?,A) www.renderbaron.com B) www.renderbaron.net C) www.renderbaron.de D) www.renderbaron.org,C,Text-Rich Understanding
+sample_110,150,What is the multi-core benchmark score for the Huawei Mate30 Pro 5G (Kirin 990 5G) device shown in the GeekBench 4 test results?,A) 12524 B) 12636 C) 12780 D) 12836,B,Text-Rich Understanding
+sample_112,150,"According to the chart, what is the power consumption range listed for the RTX 3070 model?",A) 80-125W B) 80-135W C) 80-115W D) 80-145W,A,Text-Rich Understanding
+sample_149,150,What numerical marking is visible on the weight plates being used in the leg press exercise?,A) 15.0 B) 20.4 C) 25.0 D) 30.4,B,Text-Rich Understanding
+sample_157,150,What is covering the seated woman's foot as the maid assists her in the close-up shot?,"A) Bare foot on the rug  
+B) White stocking  
+C) Black stocking  
+D) Leather slipper",B,Attribute Perception
+sample_170,150,What is the elevation value displayed in the interface at the end of the video sequence?,A) 210.0 m B) 210.1 m C) 210.2 m D) 210.3 m,C,Text-Rich Understanding
+sample_181,150,What number is displayed on the back of the cyclist wearing the white and blue jersey during the final frame?,A) 912 B) 921 C) 812 D) 913,A,Text-Rich Understanding
+sample_182,150,What is the speed indicated on the dashboard in the final frame of the video?,A) 40 B) 24 C) 30 D) 50,B,Text-Rich Understanding
+sample_212,150,What is the numerator of the second fraction in the equation shown?,A) 1 B) 2 C) 3 D) 5,B,Text-Rich Understanding
+sample_256,150,What phrase is displayed as on-screen text during the soccer action?,"A) Jay got 2nd Nutmeg  
+B) Jay got 3rd Nutmeg  
+C) Jay got 2nd Goal  
+D) Jay got 1st Nutmeg",A,Text-Rich Understanding
+sample_265,150,What pattern is visible on the soccer ball during the training session?,A) Striped pattern B) Star pattern C) Solid white with no pattern D) Polka dots,B,Attribute Perception
+sample_278,150,What is the job title displayed under Harry Miller's name when the character interacts with him?,A) Store Clerk B) Store Owner C) Cashier D) Manager,A,Text-Rich Understanding
+sample_282,150,What action option is clearly highlighted in the inventory menu interface?,"A) Take Item
+B) Use Item
+C) Drop Item
+D) Store Item",B,Text-Rich Understanding
+sample_288,150,What is the word printed on the side of the delivery truck visible during the highway sequence?,A) prime B) crime C) grime D) slime,C,Text-Rich Understanding
+sample_289,150,What text is displayed on the blue container visible in the industrial area?,A) TRUST B) THRUST C) THRIFT D) THIRFT,C,Text-Rich Understanding
+sample_290,150,What text is displayed on the overhead sign as the vehicle approaches the entrance of the facility?,A) DOCK ENTRANCE B) DOCK CENTER C) PORT ENTRANCE D) GATE ENTRANCE,A,Text-Rich Understanding
+sample_318,150,What color is the small light fixture located above the right door of the building?,A) Red B) Blue C) Green D) Yellow,A,Attribute Perception
+sample_322,150,What is the person in the white shirt on the left escalator wearing across their body?,A) A black strap (bag) B) A white bag C) No additional items D) A red scarf,A,Attribute Perception
+sample_332,150,What text is displayed on the small bridge structure in the scene?,"A) iSQUARE  
+B) SUMMER  
+C) NAGASAKI  
+D) CAT",A,Text-Rich Understanding
+sample_337,150,What is the shape of the illuminated logo on the rightmost skyscraper in the skyline?,A) X B) Cross C) Diamond D) Plus,A,Attribute Perception
+sample_341,150,What word is displayed on the black appliance above the yellow tray with food items?,A) CHICKEN B) FRIES C) NUGGETS D) BURGERS,C,Text-Rich Understanding
+sample_357,150,"In the background, behind the person, what is visible?","A) A small round table with a flower arrangement  
+B) A large rectangular mirror  
+C) A tall potted plant  
+D) A wall-mounted shelf",A,Spatial Understanding
+sample_367,150,What brand name is visible on the yellow carton placed on the counter next to the coffee cup?,A) Rude Health B) Happy Cow C) Almond Breeze D) Oatly,A,Text-Rich Understanding
+sample_369,150,What word is clearly visible on the yellow carton placed on the counter?,A) Almond B) Oat C) Soy D) Coconut,A,Text-Rich Understanding
+sample_372,150,What is the visible design on the coffee cup?,"A) A plain white cup with no design  
+B) A small red and blue emblem  
+C) A gold floral pattern  
+D) A black and white striped pattern",B,Attribute Perception
+sample_401,150,What color is the bicycle ridden by the person crossing the street from right to left?,A) Red B) Green C) Blue D) Yellow,C,Attribute Perception
+sample_412,150,What time is displayed on the digital clock in the kitchen background?,A) 04:15 B) 04:16 C) 04:17 D) 04:18,B,Text-Rich Understanding
+sample_445,150,What brand name is printed on the white containers with blue text and a red logo?,A) GALBANI B) KRAFT C) KESO D) SARGENTO,A,Text-Rich Understanding
+sample_447,150,What is the brand name printed on the white package with blue text located on the middle shelf of the aisle?,A) KESO B) KISO C) KASO D) KESU,A,Text-Rich Understanding
+sample_451,150,What text appears on the bus lane marking as the vehicle approaches the end of the dedicated lane?,A) START B) LANE C) END D) BUS,C,Text-Rich Understanding
+sample_453,150,What name is displayed on the building sign visible on the right side of the street?,A) WATERFRONT B) CENTRAL C) DOWNTOWN D) RIVERFRONT,A,Text-Rich Understanding
+sample_457,150,What is the license plate number of the yellow bus directly in front of the vehicle?,A) XK5291 B) XJ5291 C) XK5391 D) XJ5391,A,Text-Rich Understanding
+sample_59,150,What brand name is repeatedly printed on the backing paper of the double-sided tape during the application process?,A) 3M B) tesa C) Scotch D) Duck,B,Text-Rich Understanding
+sample_118,150,How many screws are placed on the table next to the black bracket during the sequence?,A) 0 B) 1 C) 2 D) 3,C,Counting
+sample_157,150,What action is the kneeling maid performing on the seated woman’s foot?,"A) Adjusting a shoe  
+B) Tying a ribbon  
+C) Putting on a stocking  
+D) Washing the foot",C,Action Perception
+sample_167,150,"What is the value of the metric displayed as ""X 1/MIN"" in the final frame of the video sequence?",A) 77 B) 78 C) 79 D) 80,C,Text-Rich Understanding
+sample_173,150,"What is the trend of the numerical value displayed as ""X 1/min"" on the lower-left overlay throughout the video sequence?","A) Increases  
+B) Decreases  
+C) Remains constant  
+D) Fluctuates unpredictably",A,Text-Rich Understanding
+sample_176,150,What is the maximum speed in KM/H displayed during the video sequence?,A) 13 B) 14 C) 15 D) 16,C,Text-Rich Understanding
+sample_178,150,What is the trend of the slope percentage (Neigung) as the vehicle progresses along the road?,"A) Increasing (becoming less negative)  
+B) Decreasing (becoming more negative)  
+C) Constant  
+D) Fluctuating unpredictably",B,Text-Rich Understanding
+sample_179,150,What is the total change in heart rate (BPM) from the beginning to the end of the video sequence?,A) 0 B) 1 C) 2 D) -1,B,Text-Rich Understanding
+sample_256,150,"During the nutmeg maneuver, what is the trajectory of the ball as it passes between the opponent’s legs?","A) Straight line forward  
+B) Curved arc to the left  
+C) Bouncing in a zig-zag pattern  
+D) Spinning rapidly in place",A,Action Perception
+sample_266,150,What text appears on the screen after the initial call-to-action text in the video?,A) SUBSCRIBE  B) LIKE & SHARE  C) FOLLOW  D) COMMENT,B,Text-Rich Understanding
+sample_305,150,What movement does the child in the white shirt make with their arms as they walk along the sidewalk?,"A) Raises both arms upward  
+B) Keeps arms extended forward  
+C) Waves one arm repeatedly  
+D) Holds hands with both adults throughout",A,Action Perception
+sample_315,150,"During the video sequence, which of the following actions is observed?",A) No passenger raises their hand B) A passenger on the right side raises their hand C) A passenger in the center raises their hand D) A passenger on the left side raises their hand,D,Action Perception
+sample_325,150,In which direction is the vehicle moving along the street?,A) Towards the camera B) Away from the camera C) To the left D) To the right,A,Spatial Understanding
+sample_333,150,In which direction is the person wearing a yellow shirt and a face mask moving?,"A) Towards the camera  
+B) Away from the camera  
+C) To the left side of the frame  
+D) To the right side of the frame",A,Action Perception
+sample_422,150,What action is the hand performing on the digital screen in the final frame?,"A) Swiping left across the screen  
+B) Tapping the ""Earn Points"" section  
+C) Tapping the ""Start Order"" button  
+D) Pressing the yellow square icon",C,Action Perception
+sample_424,150,What movement does the person make with the phone during the sequence?,"A) Raises it upward to eye level  
+B) Lowers it downward to pocket level  
+C) Keeps it stationary at waist level  
+D) Swings it side to side",A,Action Perception
+sample_428,150,How does the second aircraft consistently maintain its position behind the main aircraft throughout the video?,"A) It maintains position through independent flight control  
+B) It is physically connected and follows the main aircraft  
+C) It uses advanced navigation systems to match course  
+D) It is part of an aerial display team",B,Action Perception
+sample_447,150,In which direction does the person reach to pick up a product from the shelf during the sequence?,A) Left B) Right C) Up D) Down,A,Action Perception
+sample_463,150,What color is the collar on the figure in the painting that becomes visible in the lower right section as the camera pans downward?,A) Blue  B) Green  C) Red  D) Black,C,Attribute Perception
+sample_5,160,What is the number on the back of the England player's jersey shown in the close-up?,A) 10 B) 17 C) 19 D) 23,C,Text-Rich Understanding
+sample_8,160,What brand name is visible on the advertising board directly behind the goal in the penalty scene?,A) Hisense B) Heineken C) Hyundai D) Honda,A,Text-Rich Understanding
+sample_30,160,What is the sequence of letters visible on the wall behind the person?,A) MEC B) MEG C) MEO D) MEN,B,Text-Rich Understanding
+sample_37,160,What color is the bell pepper on the counter next to the cutting board?,A) Green B) Yellow C) Orange D) Red,D,Attribute Perception
+sample_53,160,How many rings are visible on the left hand of the person assembling the paper craft?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_70,160,What is the zoom level percentage displayed in the software interface?,A) 75% B) 100% C) 150% D) 200%,B,Text-Rich Understanding
+sample_78,160,What year is listed for the viewing assignment of *Raiders of the Lost Ark*?,A) 1979 B) 1980 C) 1981 D) 1982,C,Text-Rich Understanding
+sample_81,160,"What year is listed next to the movie title ""His Girl Friday"" on the whiteboard?",A) 1940 B) 1946 C) 1949 D) 1939,A,Text-Rich Understanding
+sample_82,160,"What year is specified in the ""Viewing"" section of the whiteboard?",A) 1948 B) 1949 C) 1950 D) 1951,B,Text-Rich Understanding
+sample_85,160,What is the model number printed on the DSLR camera body being held in the scene?,A) 700D  B) 750D  C) 800D  D) 70D,B,Text-Rich Understanding
+sample_87,160,What phrase is printed on the small logo attached to the person's jacket?,"A) RF  
+B) RE  
+C) FILM  
+D) RE FILM",D,Text-Rich Understanding
+sample_99,160,"What year is listed next to ""2001: A Space Odyssey"" on the whiteboard?",A) 1948 B) 1968 C) 1978 D) 1988,B,Text-Rich Understanding
+sample_126,160,What text is visible on the paintbrush handle?,A) 12 IT'S B) 12 ITS C) 12 IT D) 12 IS,A,Text-Rich Understanding
+sample_140,160,What specific detail is added to the green field on the canvas by the brush stroke?,"A) A thin light green line  
+B) A broad dark green patch  
+C) A curved yellow stripe  
+D) A dotted white pattern",A,Attribute Perception
+sample_163,160,What is the gradient value displayed during the cycling sequence?,A) -7 B) -8 C) -9 D) -10,C,Text-Rich Understanding
+sample_173,160,"In the frame where the road is bordered by an open grassy field on the left, what object is visible on the right side of the road near the edge?",A) A metal bench B) A wooden signpost C) A white plastic chair D) A discarded tire,C,Object Perception
+sample_184,160,What number is displayed on the back of the cyclist's jersey?,A) 893 B) 845 C) 843 D) 834,C,Text-Rich Understanding
+sample_187,160,What is the number displayed in the player's inventory bar for the arrow count?,A) 11 B) 13 C) 30 D) 31,D,Text-Rich Understanding
+sample_192,160,What text is displayed at the bottom of the screen in this frame?,A) lost episode B) last episode C) first episode D) next episode,B,Text-Rich Understanding
+sample_199,160,"What text appears directly below ""MINECRAFT JAVA EDITION"" on the title screen?","A) Also try Starbound  
+B) Also try Roblox  
+C) Also try Minecraft: Bedrock Edition  
+D) Also try Terraria!",D,Text-Rich Understanding
+sample_217,160,"What is the color of the word ""consistent"" in the phrase ""one consistent value"" as displayed in the video?",A) Yellow B) Red C) Orange D) Green,C,Text-Rich Understanding
+sample_261,160,What numbers are visible on the document located near the passenger seat?,A) 50 and 30 B) 60 and 40 C) 70 and 50 D) 80 and 60,B,Text-Rich Understanding
+sample_267,160,What brand name is printed on the driver's gloves?,A) Free B) Frem C) Fren D) Form,B,Text-Rich Understanding
+sample_289,160,What is the name of the shipping container visible on the left side of the screen?,A) KRAPEE B) KRAPEA C) KRAPEI D) KRAPEO,B,Text-Rich Understanding
+sample_302,160,"In the later frames, what structure becomes visible on the right side of the pathway?",A) A wooden fence B) A house with a porch C) A small garden shed D) A tall metal gate,B,Object Perception
+sample_309,160,What phrase is displayed on the wooden signboard above the accessory display on the right wall?,A) Fashion Accessories B) Fashion Accessaries C) Designer Accessories D) Luxury Fashion,A,Text-Rich Understanding
+sample_356,160,What word is printed on the blue circular label of the jar located on the top shelf?,A) Coffee B) Matcha C) Tea D) Green,B,Text-Rich Understanding
+sample_358,160,What symbol is visible on the metal grate positioned on the right side of the white countertop?,"A) A star  
+B) A heart  
+C) A smiley face  
+D) An arrow",C,Object Perception
+sample_361,160,What time is displayed on the digital timer in the video?,A) 00:47.63 B) 00:41.85 C) 00:44.86 D) 00:44.68,D,Text-Rich Understanding
+sample_374,160,What color is the glove on the hand adding the brown topping to the hot dog?,A) White B) Clear C) Black D) Yellow,C,Attribute Perception
+sample_380,160,How many individuals are seen crossing the street while pulling rolling suitcases in the scene?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_394,160,What brand name is displayed on the large billboard on the right side of the street?,A) Burberry B) Gucci C) Prada D) Louis Vuitton,A,Text-Rich Understanding
+sample_395,160,What is the speed limit indicated on the green street sign at the intersection?,A) 20 B) 25 C) 30 D) 35,B,Text-Rich Understanding
+sample_426,160,What brand name is visible on the front of the white truck in the parking lot?,A) FORD B) CHEVY C) GMC D) TOYOTA,C,Text-Rich Understanding
+sample_436,160,What price is displayed on the shelf edge for the crème fraîche product?,A) 33.50 B) 37.95 C) 34.95 D) 39.95,B,Text-Rich Understanding
+sample_446,160,What is the brand name printed on the white cylindrical containers on the metal cart?,A) Bregott B) Frico C) KESO D) Greve,C,Text-Rich Understanding
+sample_451,160,What is the name of the store visible on the building to the left side of the street at the intersection?,A) Longines B) Omega C) Rolex D) Tag Heuer,A,Text-Rich Understanding
+sample_37,160,"After holding the cloth, what does the person do with it?","A) Places it on the shoulder  
+B) Throws it onto the counter  
+C) Drops it into the sink  
+D) Leaves it on the stove",A,Action Perception
+sample_69,160,What action is the person performing with the blue paint tube in the sequence?,"A) Shaking the tube vigorously  
+B) Squeezing the tube to dispense paint  
+C) Unscrewing the cap of the tube  
+D) Attaching a new nozzle to the tube",C,Action Perception
+sample_86,160,What specific hand gesture does the man with the mustache make while speaking during the conversation?,"A) Raising his index finger upward  
+B) Waving his hand side to side  
+C) Pointing with two fingers extended  
+D) Clenching his fist tightly",A,Action Perception
+sample_147,160,"During the pull-up exercise, how do the man's legs move?","A) They stay fully extended and straight from start to finish  
+B) They bend at the knees as he ascends to the top position  
+C) They swing forward in a kipping motion to assist the pull  
+D) They remain stationary with no visible movement",B,Action Perception
+sample_173,160,What is the final speed reading displayed in the video sequence?,A) 32 km/h B) 35 km/h C) 37 km/h D) 38 km/h,C,Text-Rich Understanding
+sample_184,160,What is the trend of the cyclist's heart rate during the sequence?,"A) It increases from 179 to 180 BPM  
+B) It remains constant at 180 BPM  
+C) It decreases from 180 to 179 BPM  
+D) It fluctuates between 180 and 181 BPM",C,Text-Rich Understanding
+sample_187,160,"What phrase immediately follows ""Oh, and the forest"" in the subtitles?","A) down here  
+B) I'm actually  
+C) You know what, guys?  
+D) chopping down wood",A,Text-Rich Understanding
+sample_192,160,"What text immediately follows ""I've killed them"" in the video sequence?","A) I  
+B) last episode  
+C) these potaioes  
+D) aah...",B,Text-Rich Understanding
+sample_198,160,What object is placed next to the sheep in the enclosure during the sequence?,A) Carrot B) Pumpkin C) Wheat D) Bone,B,Object Perception
+sample_199,160,Which block is added next to the chest as the video progresses?,A) Furnace B) Crafting Table C) Smoker D) Anvil,A,Action Perception
+sample_203,160,"When adding the blue block to the top of the structure, from which direction does the hand approach the structure?",A) Left B) Right C) Top D) Bottom,A,Action Perception
+sample_237,160,"After climbing into the box, which hand does the character use to perform a waving motion?","A) Left hand  
+B) Right hand  
+C) Both hands  
+D) Neither hand",B,Action Perception
+sample_276,160,What emergency number is being dialed on the phone when the character initiates a call?,A) 911 B) 112 C) 999 D) 111,B,Text-Rich Understanding
+sample_287,160,What status message appears on the smartphone screen immediately after the initial notification?,"A) Searching for job  
+B) Connection lost  
+C) Offer accepted  
+D) Network error",A,Text-Rich Understanding
+sample_288,160,What is the maximum speed value displayed on the screen during the video sequence?,A) 48 B) 50 C) 55 D) 58,D,Text-Rich Understanding
+sample_295,160,What is the trend of the heart rate (bpm) over the sequence of frames?,A) Increasing B) Decreasing C) Constant D) Fluctuating,A,Text-Rich Understanding
+sample_305,160,In which direction is the person in the white shirt on the left side of the sidewalk moving as the video progresses?,"A) Towards the camera  
+B) Away from the camera  
+C) To the left  
+D) To the right",A,Action Perception
+sample_306,160,What is the direction of movement of the person in dark clothing on the left sidewalk as they walk past the storefronts?,"A) Towards the camera  
+B) Away from the camera  
+C) Left to right across the frame  
+D) Right to left across the frame",A,Action Perception
+sample_353,160,How is the rice being handled during the preparation process shown in the video?,"A) Directly with bare hands  
+B) Using a white cloth  
+C) Using a green cloth  
+D) Using a plastic spatula",C,Action Perception
+sample_377,160,What ingredient is added to the sandwich after the tomatoes and shredded cheese during the preparation process?,A) Green peppers B) Red onions C) Cucumbers D) Lettuce,B,Action Perception
+sample_10,170,What color is the band of the watch worn on the person's left wrist while cutting ingredients?,A) Brown B) Black C) Silver D) Blue,B,Attribute Perception
+sample_14,170,What word is displayed in red letters on the wall behind the chef?,A) FOOD B) COOK C) CHEF D) EAT,B,Text-Rich Understanding
+sample_17,170,What is the pattern on the interior surface of the frying pan?,A) Smooth B) Striped C) Honeycomb D) Dotted,C,Attribute Perception
+sample_49,170,What brand name is printed on the white tool used to manipulate the circular object?,A) Craft B) Cricut C) Crayola D) Cutco,B,Text-Rich Understanding
+sample_77,170,"What year is listed next to ""The Elephant Man"" on the whiteboard?",A) 1964 B) 1970 C) 1980 D) 1984,C,Text-Rich Understanding
+sample_85,170,What is the exact term used in the lab assignment description for the video recordings?,"A) EXAMPLE  
+B) EXAMPLES  
+C) EXAM PLE  
+D) EXAM",B,Text-Rich Understanding
+sample_91,170,"What year is listed next to ""Viewing: Bonnie + Clyde"" on the whiteboard?",A) 1965 B) 1967 C) 1968 D) 1970,B,Text-Rich Understanding
+sample_93,170,"In the viewing assignment listed on the whiteboard, what year is specified for ""The Social Network""?",A) 2008 B) 2001 C) 2010 D) 2018,C,Text-Rich Understanding
+sample_136,170,How many paintbrushes are visible during the video?,A) 0 B) 1 C) 2 D) 3,B,Counting
+sample_156,170,How many buttons are visible on the black vest worn by the older man?,A) 3 B) 4 C) 5 D) 6,B,Counting
+sample_164,170,What is the cadence value displayed in the performance metrics?,A) 59 1/MIN B) 60 1/MIN C) 61 1/MIN D) 62 1/MIN,B,Text-Rich Understanding
+sample_194,170,What is the central text displayed on the screen during the opening scene of the video?,A) as well  B) because  C) I need some food  D) New Recipes Unlocked,B,Text-Rich Understanding
+sample_201,170,How many small blue LEGO blocks are visible within the rectangular opening on the left side of the structure?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_206,170,How many small dark spots are visible on the surface directly beneath the Lego structure?,A) 0  B) 1  C) 2  D) 3,B,Counting
+sample_212,170,What is the first mixed number in the addition problem displayed?,A) 22 ¹⁄₄ B) 12 ¹⁄₅ C) 2 ¹⁄₅ D) 1 ²⁄₅,C,Text-Rich Understanding
+sample_235,170,What number is displayed on the door in the hallway scene?,A) 1 B) 2 C) 3 D) 4,B,Text-Rich Understanding
+sample_245,170,What symbol is depicted on the blue emblem of the old lady's yellow hat?,A) Spiral  B) Star  C) Flower  D) Dot,A,Attribute Perception
+sample_252,170,What logo is visible on the steering wheel of the racing car?,A) Bosch B) NGK C) Sparco D) OMP,B,Text-Rich Understanding
+sample_255,170,What name is displayed on the screen immediately after the goal is scored?,A) Jay B) Ray C) Jayden D) Jack,A,Text-Rich Understanding
+sample_256,170,What number is displayed on the back of the player wearing the black jersey during the sequence?,A) 27 B) 37 C) 47 D) 73,B,Text-Rich Understanding
+sample_280,170,What is the name on the side of the black van the character approaches?,A) binto B) binco C) binc0 D) binko,B,Text-Rich Understanding
+sample_284,170,"What specific phrase appears in the chat message from the user ""W37messick""?",A) JOIN US B) JOIN IT C) JOIN ME D) JOIN NOW,B,Text-Rich Understanding
+sample_290,170,What message appears on the in-game phone interface that becomes visible as the character approaches the other person?,"A) The order was completed successfully
+B) The transaction was processed successfully
+C) The offer was completed successfully
+D) New mission available",C,Text-Rich Understanding
+sample_299,170,What is the name of the rider shown in the video?,A) Lukas Maurer B) Lucas Maurer C) Lukas Mayer D) Lucas Mayer,A,Text-Rich Understanding
+sample_301,170,What is the house number displayed on the gray house?,A) 3428 B) 3429 C) 3430 D) 3431,B,Text-Rich Understanding
+sample_358,170,What symbol is visible on the metal grate?,A) A heart  B) A star  C) A smiley face  D) A frowny face,C,Object Perception
+sample_389,170,What is the text visible on the construction barrier on the left side of the street?,A) MEXICAN B) MEXICO C) MEXICUE D) MEXICOR,C,Text-Rich Understanding
+sample_424,170,What text is written on the doormat at the entrance?,A) It is your happy place. B) Welcome to our place. C) Happy place only. D) It is our happy place.,D,Text-Rich Understanding
+sample_429,170,What pattern appears on the blue shirt worn by the person on the right?,A) Small white lightning bolts B) Small white stars C) Small white dots D) Small white stripes,A,Attribute Perception
+sample_436,170,What phrase is printed on the side of the product boxes being arranged on the shelf?,A) Shake it like Kool-Aid! B) Shake it like Coke! C) Shake it like Cola! D) Shake it like Kolof!,D,Text-Rich Understanding
+sample_437,170,"During the adjustment of the milk cartons on the shelf, what numerical value is clearly displayed on the price tag?",A) 20 B) 21 C) 22 D) 23,C,Text-Rich Understanding
+sample_445,170,What price is shown on the price tag attached to the shelf in the upper right area?,A) 10 B) 12 C) 14 D) 16,B,Text-Rich Understanding
+sample_454,170,What is the speed limit indicated by the road sign visible through the windshield?,A) 35 B) 45 C) 55 D) 65,B,Text-Rich Understanding
+sample_489,170,What is the text displayed on the billboard featuring a rabbit logo visible during the race sequence?,A) TRB  B) BTR  C) TBR  D) T8R,C,Text-Rich Understanding
+sample_492,170,"At the moment the race begins, what color are the signal lights above the starting line?",A) Red B) Yellow C) Green D) Blue,C,Attribute Perception
+sample_5,170,What action does the player wearing the red jersey perform during the sequence?,A) Raising his arm B) Touching his face C) Clapping hands D) Adjusting his headband,B,Action Perception
+sample_15,170,How many pieces of meat are placed into the frying pan during the sequence?,A) 1 B) 2 C) 3 D) 4,C,Counting
+sample_45,170,How many pieces of meat are placed into the frying pan during the sequence?,A) 1 B) 2 C) 3 D) 4,C,Counting
+sample_46,170,What object is the person using to handle the pan lid during the sequence?,"A) Bare hands  
+B) Oven mitt  
+C) Cloth  
+D) Tongs",C,Object Perception
+sample_49,170,What text is visible on the tool used to manipulate the circular object during the crafting process?,A) Cricut B) Craft C) Cut D) Circle,A,Text-Rich Understanding
+sample_163,170,Does another cyclist pass by on the left side of the road during the video sequence?,"A) Yes  
+B) No  
+C) Yes, on the right side  
+D) No, but a vehicle passes",A,Action Perception
+sample_166,170,"What is the trend of the numerical value labeled ""1/min"" as the video progresses?","A) Increases steadily  
+B) Remains constant  
+C) Decreases steadily  
+D) Fluctuates randomly",C,Text-Rich Understanding
+sample_171,170,What is the trend of the speed indicator throughout the video sequence?,A) Increasing B) Decreasing C) Constant D) Fluctuating,B,Action Perception
+sample_177,170,"As the vehicle progresses along the path, which object becomes visible on the road in the distance?",A) A bicycle B) A pedestrian C) A car D) A truck,C,Object Perception
+sample_184,170,What is the maximum power output (in watts) displayed during the sequence?,A) 65 B) 91 C) 158 D) 207,D,Text-Rich Understanding
+sample_190,170,What action does the player perform on the central wooden structure located on the dock?,"A) Breaking it into pieces  
+B) Placing a block on top of it  
+C) Accessing its stored items  
+D) Using it as a seat",C,Action Perception
+sample_194,170,What is the complete phrase displayed across the first two frames of the video?,"A) as well I need some food  
+B) because I need some food  
+C) as well I need food  
+D) because I need food",B,Text-Rich Understanding
+sample_215,170,How many dice are arranged in a horizontal line at the end of the sequence?,A) 5 B) 6 C) 7 D) 4,B,Counting
+sample_218,170,"During the explanation, in which direction does the person’s right hand move when emphasizing the fraction comparison?","A) From right to left (toward the number line)  
+B) From left to right (away from the number line)  
+C) Upward  
+D) Downward",A,Action Perception
+sample_254,170,"As the rider progresses along the path, on which side of the track does the blue banner with visible text appear relative to the direction of travel?",A) Left B) Right C) Center D) Alternates between sides,A,Spatial Understanding
+sample_255,170,Which player's name appears on screen immediately after Korea scores a goal?,"A) Alex  
+B) Jay  
+C) Sam  
+D) Unknown",B,Text-Rich Understanding
+sample_273,170,"As the vehicle navigates the intersection, in which direction does it turn?","A) Left  
+B) Right  
+C) Straight  
+D) U-turn",B,Action Perception
+sample_275,170,What small animated object briefly appears adjacent to the character during the sequence?,A) A dog  B) A cat  C) A bird  D) A fish,B,Object Perception
+sample_283,170,Which phrase appears in the chat messages as they scroll during the video sequence?,"A) ""COOKED""  
+B) ""one day""  
+C) ""GOOFY AH GOGGLES""  
+D) ""Load the cargo into the truck""",C,Text-Rich Understanding
+sample_290,170,What is the character's primary movement action while approaching the individual in the white shirt?,A) Walking B) Running C) Crouching D) Jumping,B,Action Perception
+sample_305,170,How many dogs are seen walking on the sidewalk during the video sequence?,A) 0 B) 1 C) 2 D) 3,B,Counting
+sample_306,170,In which direction is the person wearing a yellow shirt moving through the sequence?,"A) Toward the camera  
+B) Away from the camera  
+C) To the left side of the frame  
+D) To the right side of the frame",A,Action Perception
+sample_327,170,"As the video progresses, do pedestrians become visible on the bridge?","A) Yes, pedestrians are walking on the right side of the bridge  
+B) No pedestrians are present at any point  
+C) Pedestrians appear only on the left side of the bridge  
+D) Pedestrians are visible only in the initial frames",A,Action Perception
+sample_363,170,Which action is performed by the hand that is first visible in the video sequence?,"A) Pouring liquid from a tap  
+B) Holding a mobile phone  
+C) Picking up a glass  
+D) Stirring a beverage",C,Action Perception
+sample_366,170,What action is the hand performing with the digital scale during the sequence?,"A) Placing it onto the circular metal surface  
+B) Removing it from the circular metal surface  
+C) Adjusting its position after placement  
+D) Moving it away from the metal surface",A,Action Perception
+sample_375,170,How many hands are actively involved in handling the fries during the sequence?,A) 1 B) 2 C) 3 D) 0,B,Counting
+sample_376,170,"During the sequence, what object does the person place on the metal counter after handling the sandwich?","A) A yellow bottle  
+B) A small rectangular box  
+C) A white plate  
+D) A green container",B,Object Perception
+sample_377,170,In which direction is the sauce applied to the sandwich?,A) Left to right B) Right to left C) Top to bottom D) Bottom to top,A,Action Perception
+sample_378,170,"After the red sauce is applied to the sandwich, what type of sauce is added next?","A) Mustard
+B) Mayonnaise
+C) Thousand Island dressing
+D) Barbecue sauce",B,Action Perception
+sample_410,170,"During the pouring action, into which type of container is the liquid being poured?","A) A white cup with blue decorative patterns  
+B) A black ceramic mug  
+C) A transparent glass tumbler  
+D) A metallic espresso cup",A,Object Perception
+sample_435,170,What action does the person perform with the phone during their approach to the vehicle?,"A) Making a call  
+B) Checking a map  
+C) Taking a photo  
+D) Waving",C,Action Perception
+sample_436,170,What phrase is visible on the side of the product box as it is being adjusted?,"A) Shake it like Coke!  
+B) Shake it like Kolof!  
+C) Shake it like Cola!  
+D) Shake it like Kool-Aid!",B,Text-Rich Understanding
+sample_464,170,"In the gallery scene, what action is a person performing near the colorful shelf on the wall?",A) Pointing at a painting B) Reaching towards the shelf C) Taking a photo D) Conversing with another person,B,Action Perception
+sample_6,180,What is the number displayed on the soccer player's jersey?,A) 7 B) 8 C) 9 D) 10,C,Text-Rich Understanding
+sample_47,180,"In the overhead view of the stove, how many mushrooms are visible on the grill pan?","A) One  
+B) Two  
+C) Three  
+D) None",B,Counting
+sample_48,180,What additional feature is visible on the side of the brown bottle?,A) A barcode B) A QR code C) A logo D) A warning symbol,A,Attribute Perception
+sample_62,180,What brand name is visible on the white marker being used in the video?,A) Cricut B) Sharpie C) Crayola D) Pilot,A,Text-Rich Understanding
+sample_77,180,"What year is specified in the ""VIEWING"" assignment for ""The Elephant Man"" on the whiteboard?",A) 1979 B) 1980 C) 1981 D) Not specified,B,Text-Rich Understanding
+sample_82,180,"What year is specified next to ""The Third Man"" in the viewing section of the whiteboard?",A) 1946 B) 1948 C) 1949 D) 1950,C,Text-Rich Understanding
+sample_84,180,"What year is specified in the viewing assignment for ""Pride and Prejudice""?",A) 1995 B) 2003 C) 2005 D) 2012,C,Text-Rich Understanding
+sample_101,180,"In the fourth bullet point under ""MUST INCLUDE"" on the whiteboard, what word follows the phrase ""THAT""?",A) MOVES B) WORKS C) ZOOMS D) STAYS,A,Text-Rich Understanding
+sample_120,180,What is the brand name visible on the graphics card being installed in the computer case?,A) ASUS B) EVGA C) MSI D) Gigabyte,C,Text-Rich Understanding
+sample_136,180,"In the final frame, what is holding the paintbrush?","A) A hand  
+B) A mechanical arm  
+C) A clamp  
+D) Nothing (brush is floating)",A,Object Perception
+sample_153,180,What object is attached to the document the man holds in his right hand?,A) A gold chain B) A red ribbon C) A blue seal D) A leather strap,A,Object Perception
+sample_160,180,What is the woman's expression when the man in the orange cloak passes by?,A) Smiling B) Frowning C) Neutral D) Surprised,A,Attribute Perception
+sample_199,180,What is the exact message displayed when the player attempts to sleep in the bed?,"A) ""You can sleep only at night or during storms."" B) ""You can sleep only at night or during thunderstorms."" C) ""You can sleep only at night or during rain."" D) ""Sleeping is prohibited until nighttime.""",B,Text-Rich Understanding
+sample_230,180,What is the second word printed on the person's t-shirt?,A) Artics B) Artiss C) Antics D) Analytics,C,Text-Rich Understanding
+sample_255,180,"During the replay sequence, what name appears on the screen?",A) Lacrosse B) Lacroqueta C) LaCroix D) Laceration,B,Text-Rich Understanding
+sample_257,180,What sponsor name is visible on the black-and-white striped soccer jersey?,A) Jeep B) Puma C) Nike D) Adidas,A,Text-Rich Understanding
+sample_273,180,What pattern is visible on the character’s shirt when they exit the vehicle?,A) Solid color B) Polka dots C) Vertical stripes D) Horizontal stripes,C,Attribute Perception
+sample_277,180,What text is displayed on the overhead road sign visible in the distance during the sequence?,A) SOUTH DOCKS B) NORTH DOCKS C) EAST DOCKS D) WEST DOCKS,A,Text-Rich Understanding
+sample_278,180,What word is written on the side of the delivery van in the video?,A) prime B) crime C) grime D) slime,C,Text-Rich Understanding
+sample_288,180,What priority level is indicated on the road sign for the South Docks Jetsam Terminal?,A) 0 B) 1 C) 2 D) 3,B,Text-Rich Understanding
+sample_290,180,What time is displayed on the in-game interface during the outdoor scene?,A) 19:25 B) 19:35 C) 19:45 D) 20:35,B,Text-Rich Understanding
+sample_293,180,How many months has the subscriber mentioned in the chat been subscribed for?,A) 30 B) 40 C) 50 D) 60,B,Text-Rich Understanding
+sample_294,180,What is the gradient percentage displayed when the speed reaches 70 KM/H?,A) -5.5% B) -5.4% C) -5.3% D) -5.6%,B,Text-Rich Understanding
+sample_295,180,What word appears on the blue banner positioned on the right side of the road during the sequence?,A) EVENTS B) RACES C) SPORT D) SPEED,A,Text-Rich Understanding
+sample_296,180,What text appears on the back of the cyclist's jersey?,A) Team Sky B) Pura Vida C) Team Ineos D) Bora-Hansgrohe,B,Text-Rich Understanding
+sample_306,180,What word is displayed on the neon sign of the storefront on the left side of the street?,A) COFFEE B) CAFE C) EAT D) SHOP,A,Text-Rich Understanding
+sample_321,180,What is the shape of the safety markers on the stair treads?,A) Circles B) Triangles C) Diamonds D) Squares,C,Attribute Perception
+sample_342,180,What food item is labeled on the front of the oven in the kitchen?,A) FRIES  B) NUGGETS  C) BURGER  D) CHICKEN,B,Text-Rich Understanding
+sample_354,180,What number is displayed on the coffee machine's digital screen during the sequence?,A) 25 B) 30 C) 35 D) 40,B,Text-Rich Understanding
+sample_387,180,What is the phone number displayed on the blue service van in the left lane?,"A) 718-328-6700  
+B) 718-328-6701  
+C) 718-328-6600  
+D) 212-555-1234",A,Text-Rich Understanding
+sample_388,180,What is the license plate number of the central yellow taxi?,A) 2K30H  B) 2K30  C) 2K30X  D) 2K30M,A,Text-Rich Understanding
+sample_389,180,What street number is visible on the street sign?,"A) E 24
+B) E 25
+C) E 26
+D) E 27",B,Text-Rich Understanding
+sample_390,180,What is the name of the street displayed on the green street sign visible at the intersection?,A) Spring St B) Prince St C) Canal St D) Broome St,B,Text-Rich Understanding
+sample_392,180,What is the make of the white sedan that overtakes the black SUV?,A) BMW B) Audi C) Mercedes D) Lexus,C,Object Perception
+sample_393,180,What symbol is displayed on the blue street sign visible in the upper left corner of the scene?,A) H (Hospital) B) P (Parking) C) A (Airport) D) S (School),A,Text-Rich Understanding
+sample_426,180,What type of roast is labeled on the coffee bags in the store aisle?,A) Dark Roast B) Medium Roast C) French Roast D) Espresso Roast,C,Text-Rich Understanding
+sample_436,180,What price is displayed on the product tag that the person is examining in the aisle?,A) 11.99 B) 12.50 C) 13.25 D) 14.00,B,Text-Rich Understanding
+sample_448,180,What color is the stripe on the left glove worn by the person?,A) Red  B) Blue  C) Yellow  D) None,C,Attribute Perception
+sample_451,180,What number is prominently displayed on the storefront of the convenience store visible on the right side of the street?,A) 3 B) 5 C) 7 D) 9,C,Text-Rich Understanding
+sample_461,180,What color is the small shape near the bottom of the rightmost painting in the gallery?,A) Blue B) Green C) Red D) Yellow,C,Attribute Perception
+sample_17,180,What object does the man pick up from the counter before moving to the right side of the kitchen?,A) A knife B) A white plate C) A red cloth D) A wooden spoon,C,Object Perception
+sample_18,180,"During the overhead sequence where the yellow food is being transferred from the bowl to the pot, how many hands are actively engaged in the pouring action?","A) One hand  
+B) Two hands  
+C) Three hands  
+D) No hands are visible",B,Counting
+sample_47,180,How many mushrooms are placed on the grill during the sequence?,A) 1 B) 2 C) 3 D) 4,B,Counting
+sample_98,180,"As the speaker brings his hands together during the explanation, what specific movement do his fingers make?","A) They spread outward
+B) They pinch together
+C) They point upward
+D) They curl into fists",B,Action Perception
+sample_174,180,What change occurs in the distance value displayed on the screen during the video sequence?,"A) It remains constant at 14.8 KM  
+B) It increases from 14.8 KM to 14.9 KM  
+C) It decreases from 14.9 KM to 14.8 KM  
+D) It fluctuates between 14.8 and 14.9 KM",B,Text-Rich Understanding
+sample_176,180,What is the trend of the vehicle's speed indicator value over the sequence of frames?,"A) Constantly increasing  
+B) Constantly decreasing  
+C) Fluctuating (alternating between higher and lower values)  
+D) Remaining constant",C,Action Perception
+sample_195,180,What is the second phrase displayed in the text overlay during the video sequence?,"A) color possible  
+B) that is in the game.  
+C) So I have that  
+D) I've managed to collect",B,Text-Rich Understanding
+sample_284,180,"In the sequence, what phrase immediately follows the repeated ""TAROT CARD"" messages in the chat?",A) CARROT CARDS B) THE DAY BEFORE 4.0 C) NOT INVITED D) PARTY AND BRO PLAYING RP,B,Text-Rich Understanding
+sample_287,180,What is the total increase in the vehicle's speed from the beginning to the end of the sequence?,A) 5 B) 6 C) 7 D) 8,D,Text-Rich Understanding
