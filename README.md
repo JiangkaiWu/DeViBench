@@ -19,7 +19,7 @@ The dataset file `datasets.csv` contains the following columns:
 
 | Column | Description |
 |--------|-------------|
-| `sample_folder` | Corresponding video ID. This dataset uses the same video files as the [StreamingBench Real-Time Visual Understanding](https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main) dataset, available for download from the provided link. |
+| `sample_id` | Corresponding video ID. This dataset uses the same video files as the [StreamingBench Real-Time Visual Understanding](https://huggingface.co/datasets/mjuicem/StreamingBench/tree/main) dataset, available for download from the provided link. |
 | `start_time` | Start time of the video segment. Questions refer to a 5-second segment starting from this timestamp. |
 | `question` | The question content. |
 | `options` | Available options for the question. |
@@ -114,6 +114,7 @@ Where the fps remains the same as the original video. The resolution gradually d
 ## ⚠️ Important Note
 
 The data is model-generated and may contain minor errors. We recommend using it primarily for exploratory analysis and demonstration purposes.
+
 
 
 
