@@ -57,7 +57,10 @@ An example (200 kbps vs 2000 kbps). If the video fails to load or has color dist
 
 
 
-https://github.com/user-attachments/assets/d81af6fd-95b2-40f2-9ef0-5acc473e88cd
+
+https://github.com/user-attachments/assets/7b17ed24-cfde-45fd-abf4-cfdc17b393d3
+
+
 
 
 
@@ -111,6 +114,7 @@ Where the fps remains the same as the original video. The resolution gradually d
 ## ⚠️ Important Note
 
 The data is model-generated and may contain minor errors. We recommend using it primarily for exploratory analysis and demonstration purposes.
+
 
 
 
